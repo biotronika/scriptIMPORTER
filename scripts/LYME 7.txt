@@ -1,0 +1,4 @@
+# LYME 7 3m
+# Lyme_7
+# borrelia burgdorferi
+freq 380000000.00 180

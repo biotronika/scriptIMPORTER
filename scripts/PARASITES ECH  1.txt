@@ -1,0 +1,7 @@
+# PARASITES ECH  1 6m
+# Parasites_echinoparyphium_recurvatum_HC
+# 
+freq 20960000.00 1
+scan 20961000.00 179
+freq 1043000.00 1
+scan 1044000.00 179

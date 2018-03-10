@@ -1,0 +1,6 @@
+# PROTEUS 9m
+# Proteus
+# 
+freq 424000.00 180
+freq 434000.00 180
+freq 834000.00 180

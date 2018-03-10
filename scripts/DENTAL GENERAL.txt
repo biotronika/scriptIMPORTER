@@ -1,0 +1,14 @@
+# DENTAL GENERAL 33m
+# Dental_general
+# see also Toothache
+freq 728000.00 180
+freq 784000.00 180
+freq 635000.00 180
+freq 640000.00 180
+freq 1036000.00 180
+freq 1043000.00 180
+freq 1094000.00 180
+freq 685000.00 180
+freq 60000.00 180
+freq 48000.00 180
+freq 465000.00 180

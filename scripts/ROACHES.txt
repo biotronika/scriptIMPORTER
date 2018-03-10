@@ -1,0 +1,4 @@
+# ROACHES 3m
+# Roaches
+# may target a symbiot
+freq 100000.00 180

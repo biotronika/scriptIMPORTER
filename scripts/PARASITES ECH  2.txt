@@ -1,0 +1,7 @@
+# PARASITES ECH  2 6m
+# Parasites_echinostoma_revolutum_HC
+# 
+freq 21308000.00 1
+scan 21309000.00 179
+freq 1060000.00 1
+scan 1061000.00 179

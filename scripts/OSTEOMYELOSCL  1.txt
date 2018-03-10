@@ -1,0 +1,5 @@
+# OSTEOMYELOSCL  1 6m
+# Osteomyelosclerosis
+# marrow replacement by bone in response to low-grade infection
+freq 79000.00 180
+freq 330000.00 180

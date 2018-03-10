@@ -1,0 +1,5 @@
+# DUPUYTRENS CO  1 6m
+# Dupuytrens_contracture
+# 4th and 5th finger curling into hand. unable to straighten
+freq 1200.00 180
+freq 250000.00 180

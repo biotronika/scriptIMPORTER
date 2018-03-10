@@ -1,0 +1,8 @@
+# PYROGENIUM MAYO 15m
+# Pyrogenium_mayo
+# 
+freq 688000.00 180
+freq 759000.00 180
+freq 1625000.00 180
+freq 727000.00 180
+freq 770000.00 180

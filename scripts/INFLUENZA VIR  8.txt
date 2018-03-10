@@ -1,0 +1,4 @@
+# INFLUENZA VIR  8 3m
+# Influenza_virus_A_1974
+# 
+freq 442000.00 180

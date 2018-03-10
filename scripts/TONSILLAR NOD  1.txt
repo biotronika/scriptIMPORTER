@@ -1,0 +1,6 @@
+# TONSILLAR NOD  1 9m
+# Tonsillar_nodules
+# 
+freq 246000.00 180
+freq 151000.00 180
+freq 414000.00 180

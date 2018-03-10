@@ -1,0 +1,4 @@
+# CHEMICAL SENS  1 3m
+# Chemical_sensitivity
+# see also Liver support
+freq 727000.00 180

@@ -1,0 +1,4 @@
+# DOG AND CAT H  1 3m
+# Dog_and_cat_hostility_1
+# 
+freq 3600.00 180

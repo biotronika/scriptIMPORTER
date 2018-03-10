@@ -1,0 +1,11 @@
+# E COLI MUTANT  1 24m
+# E_coli_mutant_strain
+# 
+freq 556000.00 180
+freq 934000.00 180
+freq 1242000.00 180
+freq 1244000.00 180
+freq 1703000.00 180
+freq 632000.00 180
+freq 634000.00 180
+freq 776000.00 180

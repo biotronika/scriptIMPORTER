@@ -1,0 +1,11 @@
+# WARTS VERRUCA 24m
+# Warts_verruca
+# a rough surfaced. supposedly harmless. viral caused skin wart
+freq 495000.00 180
+freq 644000.00 180
+freq 767000.00 180
+freq 797000.00 180
+freq 877000.00 180
+freq 953000.00 180
+freq 173000.00 180
+freq 787000.00 180

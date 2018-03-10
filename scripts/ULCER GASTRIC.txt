@@ -1,0 +1,4 @@
+# ULCER GASTRIC 3m
+# Ulcer_gastric
+# 
+freq 676000.00 180

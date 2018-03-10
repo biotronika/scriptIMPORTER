@@ -1,0 +1,9 @@
+# ENTAMOEBA HIS  1 18m
+# Entamoeba_histolytica
+# highly damaging protozoa causing dysentery and liver infection
+freq 148000.00 180
+freq 166000.00 180
+freq 308000.00 180
+freq 393000.00 180
+freq 631000.00 180
+freq 778000.00 180

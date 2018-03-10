@@ -1,0 +1,4 @@
+# PINEAL GLAND   1 3m
+# Pineal_gland_stimulation
+# 
+freq 20000.00 180

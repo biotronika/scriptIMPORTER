@@ -1,0 +1,4 @@
+# CHELIDONIUM 3m
+# Chelidonium
+# 
+freq 162000.00 180

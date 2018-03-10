@@ -1,0 +1,5 @@
+# THERMI BACTERIA 6m
+# Thermi_bacteria
+# 
+freq 233000.00 180
+freq 441000.00 180

@@ -1,0 +1,8 @@
+# TOOTH EXTRACT  1 15m
+# Tooth_extraction_followup
+# see also General antiseptic set
+freq 3000000.00 180
+freq 2720000.00 180
+freq 95000.00 180
+freq 47500.00 180
+freq 7820.00 180

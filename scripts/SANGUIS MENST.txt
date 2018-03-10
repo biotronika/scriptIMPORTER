@@ -1,0 +1,4 @@
+# SANGUIS MENST 3m
+# Sanguis_menst
+# 
+freq 591000.00 180

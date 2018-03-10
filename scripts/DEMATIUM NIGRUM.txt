@@ -1,0 +1,5 @@
+# DEMATIUM NIGRUM 6m
+# Dematium_nigrum
+# soil fungi found in human lesions
+freq 243000.00 180
+freq 738000.00 180

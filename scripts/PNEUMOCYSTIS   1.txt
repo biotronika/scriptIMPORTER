@@ -1,0 +1,6 @@
+# PNEUMOCYSTIS   1 9m
+# Pneumocystis_carnii
+# fungus which causes pneumonia usually developing in the immune suppressed or in infants
+freq 204000.00 180
+freq 340000.00 180
+freq 742000.00 180

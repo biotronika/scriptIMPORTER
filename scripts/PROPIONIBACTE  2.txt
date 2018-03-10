@@ -1,0 +1,6 @@
+# PROPIONIBACTE  2 6m
+# Propionibacterium_acnes_HC
+# 
+freq 19267000.00 1
+scan 19268000.00 179
+freq 959280.00 180

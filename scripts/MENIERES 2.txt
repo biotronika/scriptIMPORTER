@@ -1,0 +1,6 @@
+# MENIERES 2 9m
+# Menieres_2
+# 
+freq 456600.00 180
+freq 723000.00 180
+freq 880000.00 180

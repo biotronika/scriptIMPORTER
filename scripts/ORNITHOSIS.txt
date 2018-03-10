@@ -1,0 +1,9 @@
+# ORNITHOSIS 18m
+# Ornithosis
+# Psittacosis or Parrot Fever; an infectious pneumonia transmitted by certain birds
+freq 233000.00 180
+freq 331000.00 180
+freq 332000.00 180
+freq 583000.00 180
+freq 859000.00 180
+freq 1217000.00 180

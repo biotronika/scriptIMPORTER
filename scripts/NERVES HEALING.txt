@@ -1,0 +1,5 @@
+# NERVES HEALING 6m
+# Nerves_healing
+# 
+freq 200000.00 180
+freq 10000.00 180

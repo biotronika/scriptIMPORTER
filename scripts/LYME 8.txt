@@ -1,0 +1,4 @@
+# LYME 8 3m
+# Lyme_8
+# borrelia garinii
+freq 382000000.00 180

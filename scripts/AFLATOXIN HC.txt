@@ -1,0 +1,9 @@
+# AFLATOXIN HC 12m
+# Aflatoxin_HC
+# 
+freq 438740.00 180
+freq 466010.00 180
+freq 9359000.00 1
+scan 9360000.00 179
+freq 8812000.00 1
+scan 8813000.00 179

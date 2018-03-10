@@ -1,0 +1,6 @@
+# FOLLICULITIS   1 9m
+# Folliculitis_hot_tub
+# tiny pimples
+freq 174000.00 180
+freq 482000.00 180
+freq 5311000.00 180

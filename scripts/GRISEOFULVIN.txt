@@ -1,0 +1,6 @@
+# GRISEOFULVIN 6m
+# Griseofulvin
+# 
+freq 14338000.00 1
+scan 14339000.00 179
+freq 713880.00 180

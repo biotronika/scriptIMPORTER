@@ -1,0 +1,8 @@
+# MEASLES RUBEL  2 15m
+# Measles_rubella_vaccine
+# 
+freq 429000.00 180
+freq 459000.00 180
+freq 832000.00 180
+freq 926000.00 180
+freq 505000.00 180

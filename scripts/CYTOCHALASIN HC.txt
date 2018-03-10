@@ -1,0 +1,9 @@
+# CYTOCHALASIN HC 12m
+# Cytochalasin_HC
+# 
+freq 4530000.00 1
+scan 4531000.00 179
+freq 3833000.00 1
+scan 3834000.00 179
+freq 225570.00 180
+freq 190860.00 180

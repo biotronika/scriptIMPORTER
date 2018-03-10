@@ -1,0 +1,13 @@
+# ITCHING 30m
+# Itching
+# pruritis. Take hot bath with a cup of apple cider vinegar afterwards. If chronic and no long term relief. use Parasite sets including Parasites general and Parasites blood flukes.
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 444000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180
+freq 1865000.00 180
+freq 3176000.00 180

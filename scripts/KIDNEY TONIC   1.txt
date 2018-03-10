@@ -1,0 +1,12 @@
+# KIDNEY TONIC   1 27m
+# Kidney_tonic_general
+# 
+freq 440000.00 180
+freq 248000.00 180
+freq 8000.00 180
+freq 880000.00 180
+freq 20000.00 180
+freq 10000000.00 180
+freq 800000.00 180
+freq 5000000.00 180
+freq 3000000.00 180

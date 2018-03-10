@@ -1,0 +1,13 @@
+# CANCER HARMON  1 30m
+# Cancer_harmonic_series
+# may be based on original Rife/Hoyland cancer frequencies. Extend harmonic series with 66.5 as base. up to 10.000Hz. in this manner: Base*1. 2. 3. 4. 5. 6. 7. 8. 9. 10. etc
+freq 66500.00 180
+freq 133000.00 180
+freq 199500.00 180
+freq 266000.00 180
+freq 332500.00 180
+freq 399000.00 180
+freq 465500.00 180
+freq 532000.00 180
+freq 598500.00 180
+freq 665000.00 180

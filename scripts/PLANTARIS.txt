@@ -1,0 +1,4 @@
+# PLANTARIS 3m
+# Plantaris
+# 
+freq 2008000.00 180

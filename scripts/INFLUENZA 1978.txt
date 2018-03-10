@@ -1,0 +1,6 @@
+# INFLUENZA 1978 9m
+# Influenza_1978
+# 
+freq 844000.00 180
+freq 814000.00 180
+freq 610000.00 180

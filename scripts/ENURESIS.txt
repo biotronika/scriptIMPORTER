@@ -1,0 +1,7 @@
+# ENURESIS 12m
+# Enuresis
+# bed wetting. Use with parasite sets
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

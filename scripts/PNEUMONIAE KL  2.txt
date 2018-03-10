@@ -1,0 +1,10 @@
+# PNEUMONIAE KL  2 12m
+# Pneumoniae_klebsiella_HC
+# 
+freq 19964000.00 1
+scan 19965000.00 179
+freq 20860000.00 1
+scan 20861000.00 179
+freq 1038000.00 1
+scan 1039000.00 179
+freq 993980.00 180

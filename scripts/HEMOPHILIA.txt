@@ -1,0 +1,4 @@
+# HEMOPHILIA 3m
+# Hemophilia
+# 
+freq 603000.00 180

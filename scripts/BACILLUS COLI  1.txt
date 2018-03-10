@@ -1,0 +1,7 @@
+# BACILLUS COLI  1 12m
+# Bacillus_Coli_Rod_Form
+# 
+freq 8020000.00 180
+freq 800000.00 180
+freq 683000.00 180
+freq 417000.00 180

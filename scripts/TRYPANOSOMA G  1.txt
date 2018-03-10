@@ -1,0 +1,8 @@
+# TRYPANOSOMA G  1 15m
+# Trypanosoma_gambiense
+# 
+freq 255000.00 180
+freq 316000.00 180
+freq 403000.00 180
+freq 700000.00 180
+freq 724000.00 180

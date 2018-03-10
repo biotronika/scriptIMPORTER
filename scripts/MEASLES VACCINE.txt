@@ -1,0 +1,8 @@
+# MEASLES VACCINE 15m
+# Measles_vaccine
+# 
+freq 214000.00 180
+freq 725000.00 180
+freq 747000.00 180
+freq 783000.00 180
+freq 962000.00 180

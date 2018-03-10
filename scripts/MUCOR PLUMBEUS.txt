@@ -1,0 +1,7 @@
+# MUCOR PLUMBEUS 12m
+# Mucor_plumbeus
+# 
+freq 361000.00 180
+freq 578000.00 180
+freq 785000.00 180
+freq 877000.00 180

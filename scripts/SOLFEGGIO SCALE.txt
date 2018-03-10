@@ -1,0 +1,9 @@
+# SOLFEGGIO SCALE 18m
+# Solfeggio_scale
+# 
+freq 852000.00 180
+freq 741000.00 180
+freq 639000.00 180
+freq 528000.00 180
+freq 417000.00 180
+freq 396000.00 180

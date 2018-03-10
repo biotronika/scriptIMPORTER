@@ -1,0 +1,6 @@
+# MUCOCUTAN PER  1 9m
+# Mucocutan_perniciosis
+# 
+freq 833000.00 180
+freq 667000.00 180
+freq 756000.00 180

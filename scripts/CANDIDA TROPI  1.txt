@@ -1,0 +1,6 @@
+# CANDIDA TROPI  1 9m
+# Candida_tropicalis
+# 
+freq 1403000.00 180
+freq 675000.00 180
+freq 709000.00 180

@@ -1,0 +1,8 @@
+# MOLES 1 15m
+# Moles_1
+# use 761.7 for 15 min. others for 10 min
+freq 761700.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180
+freq 76200.00 180

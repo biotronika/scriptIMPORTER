@@ -1,0 +1,4 @@
+# RAGWEED 3m
+# Ragweed
+# 
+freq 473000.00 180

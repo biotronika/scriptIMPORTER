@@ -1,0 +1,15 @@
+# PARASITES GEN  5 36m
+# Parasites_general_short_set
+# 
+freq 20000.00 180
+freq 64000.00 180
+freq 72000.00 180
+freq 96000.00 180
+freq 112000.00 180
+freq 120000.00 180
+freq 152000.00 180
+freq 651000.00 180
+freq 732000.00 180
+freq 1360000.00 180
+freq 2720000.00 180
+freq 10000000.00 180

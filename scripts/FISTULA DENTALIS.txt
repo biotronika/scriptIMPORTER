@@ -1,0 +1,9 @@
+# FISTULA DENTALIS 18m
+# Fistula_dentalis
+# 727*. 878*. 1122*
+freq 550000.00 180
+freq 727000.00 180
+freq 844000.00 180
+freq 878000.00 180
+freq 1122000.00 180
+freq 786000.00 180

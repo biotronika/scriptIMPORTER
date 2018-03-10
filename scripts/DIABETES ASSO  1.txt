@@ -1,0 +1,10 @@
+# DIABETES ASSO  1 21m
+# Diabetes_associated_infection
+# 
+freq 2020000.00 180
+freq 800000.00 180
+freq 727000.00 180
+freq 786000.00 180
+freq 190000.00 180
+freq 80000.00 180
+freq 20000.00 180

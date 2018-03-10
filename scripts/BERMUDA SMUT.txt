@@ -1,0 +1,9 @@
+# BERMUDA SMUT 18m
+# Bermuda_smut
+# homeopathic preparation for an allergen
+freq 422000.00 180
+freq 767000.00 180
+freq 847000.00 180
+freq 971000.00 180
+freq 644000.00 180
+freq 780000.00 180

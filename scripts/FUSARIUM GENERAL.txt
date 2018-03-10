@@ -1,0 +1,6 @@
+# FUSARIUM GENERAL 9m
+# Fusarium_general
+# 
+freq 768000.00 180
+freq 625000.00 180
+freq 746000.00 180

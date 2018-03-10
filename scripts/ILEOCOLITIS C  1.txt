@@ -1,0 +1,6 @@
+# ILEOCOLITIS C  1 9m
+# Ileocolitis_colon_inflammation
+# also use Colitis if necssary and see Parasite general and roundworm sets
+freq 802000.00 180
+freq 832000.00 180
+freq 440000.00 180

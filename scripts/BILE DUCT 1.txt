@@ -1,0 +1,9 @@
+# BILE DUCT 1 18m
+# Bile_duct_1
+# spasms and pain
+freq 2000.00 180
+freq 2200.00 180
+freq 2500.00 180
+freq 2700.00 180
+freq 3200.00 180
+freq 3500.00 180

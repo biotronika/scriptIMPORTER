@@ -1,0 +1,5 @@
+# INFLUENZA VIR  3 6m
+# Influenza_virus_1992_1993
+# 
+freq 535000.00 180
+freq 946000.00 180

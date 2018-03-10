@@ -1,0 +1,15 @@
+# MYCOPLASMA FE  1 36m
+# Mycoplasma_fermentans
+# May be a factor in ALS. chronic fatigue. alzheimer's. parkinson's. and MS
+freq 2900000.00 180
+freq 878200.00 180
+freq 880200.00 180
+freq 864000.00 180
+freq 790000.00 180
+freq 706700.00 180
+freq 690000.00 180
+freq 610000.00 180
+freq 484000.00 180
+freq 986000.00 180
+freq 644000.00 180
+freq 254000.00 180

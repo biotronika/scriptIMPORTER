@@ -1,0 +1,12 @@
+# MEASLES RUBELLA 27m
+# Measles_rubella
+# German or 3 day measles
+freq 431000.00 180
+freq 459000.00 180
+freq 510000.00 180
+freq 517000.00 180
+freq 796000.00 180
+freq 967000.00 180
+freq 368000.00 180
+freq 734000.00 180
+freq 772000.00 180

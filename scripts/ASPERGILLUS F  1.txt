@@ -1,0 +1,6 @@
+# ASPERGILLUS F  1 9m
+# Aspergillus_flavus
+# mold found on corn. peanuts. and grain that produces aflatoxin
+freq 1823000.00 180
+freq 247000.00 180
+freq 1972000.00 180

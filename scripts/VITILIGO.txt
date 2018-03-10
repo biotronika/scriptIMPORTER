@@ -1,0 +1,12 @@
+# VITILIGO 27m
+# Vitiligo
+# loss of pigmentation in areas of skin. Use with B complex with extra PABA internally and PABA cream topically. Also see E. coli. Parasite General. Liver support. and Fungus freqs if necessary
+freq 440000.00 180
+freq 600000.00 180
+freq 650000.00 180
+freq 2112000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 444000.00 180
+freq 20000.00 180

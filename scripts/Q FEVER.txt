@@ -1,0 +1,13 @@
+# Q FEVER 30m
+# Q_Fever
+# an infectious disease caused by contact with animals with the parasitic Rickettsia bacteria and Coxiella burnetii whose symptoms may include headache. fever. chills. and sweats. See also Typhoid fever and Rickettsia
+freq 523000.00 180
+freq 1357000.00 180
+freq 607000.00 180
+freq 129000.00 180
+freq 632000.00 180
+freq 943000.00 180
+freq 1062000.00 180
+freq 549000.00 180
+freq 720000.00 180
+freq 726000.00 180

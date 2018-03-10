@@ -1,0 +1,5 @@
+# WART CONDYLOMA 6m
+# Wart_condyloma
+# venereal warts caused by infectious papilloma virus
+freq 466000.00 180
+freq 907000.00 180

@@ -1,0 +1,6 @@
+# COXSACKIE B4 HC 6m
+# Coxsackie_B4_HC
+# 
+freq 18047000.00 1
+scan 18048000.00 179
+freq 898550.00 180

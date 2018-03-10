@@ -1,0 +1,5 @@
+# LARYNGEAL POLYP 6m
+# Laryngeal_polyp
+# 
+freq 765000.00 180
+freq 202000.00 180

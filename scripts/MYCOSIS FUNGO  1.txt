@@ -1,0 +1,8 @@
+# MYCOSIS FUNGO  1 15m
+# Mycosis_fungoides
+# a form of skin cancer resembling eczema
+freq 532000.00 180
+freq 662000.00 180
+freq 678000.00 180
+freq 852000.00 180
+freq 1444000.00 180

@@ -1,0 +1,18 @@
+# NEPHRITIS 45m
+# Nephritis
+# kidney inflammatory disease. Also treat for stones and crystals supplementally. or nephrosis non inflammatory kidney disease
+freq 1550000.00 180
+freq 274000.00 180
+freq 423000.00 180
+freq 636000.00 180
+freq 688000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 10000.00 180
+freq 20000.00 180
+freq 10000000.00 180
+freq 40000.00 180
+freq 73000.00 180
+freq 465000.00 180
+freq 3000000.00 180

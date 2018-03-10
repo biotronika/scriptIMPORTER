@@ -1,0 +1,6 @@
+# ADRENAL STIMU  1 9m
+# Adrenal_stimulant
+# 
+freq 10000.00 180
+freq 20000.00 180
+freq 2250000.00 180

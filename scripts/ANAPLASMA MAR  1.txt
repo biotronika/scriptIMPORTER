@@ -1,0 +1,10 @@
+# ANAPLASMA MAR  1 12m
+# Anaplasma_marginale_HC
+# 
+freq 19267000.00 1
+scan 19268000.00 179
+freq 959280.00 180
+freq 21010000.00 1
+scan 21011000.00 179
+freq 1046000.00 1
+scan 1047000.00 179

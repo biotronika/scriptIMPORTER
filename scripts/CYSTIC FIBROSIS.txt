@@ -1,0 +1,13 @@
+# CYSTIC FIBROSIS 30m
+# Cystic_fibrosis
+# Also called mucoviscidosis. a disorder of the exocrine glands that causes them to release very thick mucus. Use Pseudomonas_aeruginosa. Breathing_deep. and General Antiseptic and see Parasites general and roundworm freqs
+freq 523000.00 180
+freq 557000.00 180
+freq 478000.00 180
+freq 776000.00 180
+freq 660000.00 180
+freq 727000.00 180
+freq 778000.00 180
+freq 787000.00 180
+freq 802000.00 180
+freq 880000.00 180

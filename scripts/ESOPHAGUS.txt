@@ -1,0 +1,6 @@
+# ESOPHAGUS 9m
+# Esophagus
+# constriction. Also see General antiseptic and dental freqs
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

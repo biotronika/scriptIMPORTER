@@ -1,0 +1,5 @@
+# MEASLES HC 6m
+# Measles_HC
+# antigen
+freq 18471000.00 180
+freq 919620.00 180

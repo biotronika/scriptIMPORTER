@@ -1,0 +1,6 @@
+# INFLUENZA ASI  1 9m
+# Influenza_Asian_grippe_A
+# 
+freq 516000.00 180
+freq 656000.00 180
+freq 434000.00 180

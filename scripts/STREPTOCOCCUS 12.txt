@@ -1,0 +1,7 @@
+# STREPTOCOCCUS 12 12m
+# Streptococcus_pneumoniae_mixed_flora
+# 
+freq 158000.00 180
+freq 174000.00 180
+freq 645000.00 180
+freq 801000.00 180

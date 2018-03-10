@@ -1,0 +1,11 @@
+# CANINE PARVOV  3 24m
+# Canine_parvovirus_type_B
+# 
+freq 323000.00 180
+freq 535000.00 180
+freq 613000.00 180
+freq 755000.00 180
+freq 761000.00 180
+freq 764000.00 180
+freq 766000.00 180
+freq 768000.00 180

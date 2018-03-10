@@ -1,0 +1,4 @@
+# ATMENIC ALB 3m
+# Atmenic_Alb
+# 
+freq 562000.00 180

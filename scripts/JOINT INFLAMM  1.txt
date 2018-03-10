@@ -1,0 +1,4 @@
+# JOINT INFLAMM  1 3m
+# Joint_inflammation
+# also see Arthritis sets
+freq 10000000.00 180

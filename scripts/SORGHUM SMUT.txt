@@ -1,0 +1,4 @@
+# SORGHUM SMUT 3m
+# Sorghum_smut
+# homeopathic preparation for an allergen
+freq 294000.00 180

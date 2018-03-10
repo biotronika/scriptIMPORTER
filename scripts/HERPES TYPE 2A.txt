@@ -1,0 +1,5 @@
+# HERPES TYPE 2A 6m
+# Herpes_type_2A
+# 
+freq 532000.00 180
+freq 848000.00 180

@@ -1,0 +1,7 @@
+# HERPES ZOSTER 1 12m
+# Herpes_zoster_1
+# 4 min each freq
+freq 10000000.00 180
+freq 833000.00 180
+freq 802000.00 180
+freq 3900.00 180

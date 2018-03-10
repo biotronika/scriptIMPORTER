@@ -1,0 +1,4 @@
+# ADENOMA CERVICAL 3m
+# Adenoma_cervical
+# epithelial tumor of the cervix that can be either benign or malignant. Also see Cancer.
+freq 433000.00 180

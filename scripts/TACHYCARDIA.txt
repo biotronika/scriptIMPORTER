@@ -1,0 +1,4 @@
+# TACHYCARDIA 3m
+# Tachycardia
+# rapid heart beat. For lab animals only. See also Heart tonic. Relaxation sets.
+freq 1200.00 180

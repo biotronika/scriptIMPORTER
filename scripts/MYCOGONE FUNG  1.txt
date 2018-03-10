@@ -1,0 +1,9 @@
+# MYCOGONE FUNG  1 18m
+# Mycogone_fungoides
+# 
+freq 488000.00 180
+freq 532000.00 180
+freq 662000.00 180
+freq 764000.00 180
+freq 852000.00 180
+freq 1444000.00 180

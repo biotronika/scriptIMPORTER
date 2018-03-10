@@ -1,0 +1,10 @@
+# HAND FOOT AND  1 21m
+# Hand_foot_and_mouth_syndrome
+# a mild viral infection found in young children
+freq 232000.00 180
+freq 237000.00 180
+freq 1214000.00 180
+freq 1243000.00 180
+freq 1244000.00 180
+freq 1271000.00 180
+freq 5411000.00 180

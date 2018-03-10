@@ -1,0 +1,7 @@
+# RHEUMATISM 12m
+# Rheumatism
+# also use Arthritis_rheumatoid
+freq 10000000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 262000.00 180

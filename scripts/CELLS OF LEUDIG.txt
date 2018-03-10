@@ -1,0 +1,4 @@
+# CELLS OF LEUDIG 3m
+# Cells_of_Leudig
+# colon tonic
+freq 2500000.00 180

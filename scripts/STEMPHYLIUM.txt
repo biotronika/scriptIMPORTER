@@ -1,0 +1,6 @@
+# STEMPHYLIUM 9m
+# Stemphylium
+# 
+freq 461000.00 180
+freq 340000.00 180
+freq 114000.00 180

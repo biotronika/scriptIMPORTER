@@ -1,0 +1,4 @@
+# HYPOPHYSEAL D  1 3m
+# Hypophyseal_disturbances
+# pituitary
+freq 4000.00 180

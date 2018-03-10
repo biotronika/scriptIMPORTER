@@ -1,0 +1,7 @@
+# PARASITES TAP  3 12m
+# Parasites_tapeworms_secondary
+# 
+freq 142000.00 180
+freq 187000.00 180
+freq 624000.00 180
+freq 662000.00 180

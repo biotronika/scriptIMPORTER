@@ -1,0 +1,6 @@
+# CLOSTRIDIUM A  1 6m
+# Clostridium_acetobutylicum_HC
+# 
+freq 19118000.00 1
+scan 19119000.00 179
+freq 951840.00 180

@@ -1,0 +1,9 @@
+# INFLUENZA A A  1 12m
+# Influenza_A_and_B_HC
+# flu shot
+freq 15931000.00 1
+scan 15932000.00 179
+freq 15682000.00 1
+scan 15683000.00 179
+freq 793200.00 180
+freq 780810.00 180

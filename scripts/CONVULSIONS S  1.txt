@@ -1,0 +1,6 @@
+# CONVULSIONS S  1 9m
+# Convulsions_spasticity
+# 
+freq 9190.00 180
+freq 8250.00 180
+freq 7690.00 180

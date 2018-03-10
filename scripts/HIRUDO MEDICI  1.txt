@@ -1,0 +1,4 @@
+# HIRUDO MEDICI  1 3m
+# Hirudo_medicinalis
+# a homeopathic remedy prepared from a leech used for therapeutic purposes
+freq 128000.00 180

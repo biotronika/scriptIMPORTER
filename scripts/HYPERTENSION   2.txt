@@ -1,0 +1,4 @@
+# HYPERTENSION   2 3m
+# Hypertension_spastic
+# 
+freq 95000.00 180

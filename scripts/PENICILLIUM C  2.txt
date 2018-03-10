@@ -1,0 +1,11 @@
+# PENICILLIUM C  2 24m
+# Penicillium_chyrosogenium_secondary
+# 
+freq 345000.00 180
+freq 688000.00 180
+freq 868000.00 180
+freq 1070000.00 180
+freq 2411000.00 180
+freq 728000.00 180
+freq 764000.00 180
+freq 765000.00 180

@@ -1,0 +1,6 @@
+# PARASITES FLU  3 9m
+# Parasites_flukes_general_short_set
+# 
+freq 524000.00 180
+freq 854000.00 180
+freq 651000.00 180

@@ -1,0 +1,6 @@
+# NAEGLERIA FOW  1 6m
+# Naegleria_fowleri_HC
+# 
+freq 18022000.00 1
+scan 18023000.00 179
+freq 897310.00 180

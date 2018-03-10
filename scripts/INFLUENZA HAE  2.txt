@@ -1,0 +1,8 @@
+# INFLUENZA HAE  2 15m
+# Influenza_haemophilus_type_B
+# can cause a type of meningitis
+freq 652000.00 180
+freq 942000.00 180
+freq 483000.00 180
+freq 731000.00 180
+freq 746000.00 180

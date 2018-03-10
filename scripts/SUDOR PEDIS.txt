@@ -1,0 +1,4 @@
+# SUDOR PEDIS 3m
+# Sudor_pedis
+# excessive foot sweat
+freq 148000.00 180

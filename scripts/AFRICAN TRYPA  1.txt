@@ -1,0 +1,6 @@
+# AFRICAN TRYPA  1 9m
+# African_trypanosomiasis
+# 
+freq 656000.00 180
+freq 988000.00 180
+freq 780000.00 180

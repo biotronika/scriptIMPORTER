@@ -1,0 +1,10 @@
+# STRUMA NODOSA 21m
+# Struma_nodosa
+# 
+freq 105000.00 180
+freq 122000.00 180
+freq 321000.00 180
+freq 517000.00 180
+freq 532000.00 180
+freq 651000.00 180
+freq 714000.00 180

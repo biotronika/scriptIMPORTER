@@ -1,0 +1,4 @@
+# ARENAS TENNUS 3m
+# Arenas_tennus
+# 
+freq 667000.00 180

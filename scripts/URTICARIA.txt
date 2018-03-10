@@ -1,0 +1,10 @@
+# URTICARIA 21m
+# Urticaria
+# hives. often due to toxins
+freq 1800000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 522000.00 180
+freq 146000.00 180
+freq 4900.00 180

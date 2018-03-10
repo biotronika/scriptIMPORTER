@@ -1,0 +1,6 @@
+# PYROGENIUM SUIS 9m
+# Pyrogenium_suis
+# 
+freq 341000.00 180
+freq 356000.00 180
+freq 673000.00 180

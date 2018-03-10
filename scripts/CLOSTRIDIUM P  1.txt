@@ -1,0 +1,6 @@
+# CLOSTRIDIUM P  1 6m
+# Clostridium_perringens_HC
+# spores
+freq 19715000.00 1
+scan 19716000.00 179
+freq 981590.00 180

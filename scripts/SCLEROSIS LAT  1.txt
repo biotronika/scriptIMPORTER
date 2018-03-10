@@ -1,0 +1,4 @@
+# SCLEROSIS LAT  1 3m
+# Sclerosis_lateral
+# degeneration of spinal cord resulting in spastic paraplegia
+freq 254000.00 180

@@ -1,0 +1,10 @@
+# CANCER NON HO  2 21m
+# Cancer_non_Hodgkins_2
+# also use Simian_virus_40
+freq 2008000.00 180
+freq 2004000.00 180
+freq 2012000.00 180
+freq 2116000.00 180
+freq 2128000.00 180
+freq 3672000.00 180
+freq 7760000.00 180

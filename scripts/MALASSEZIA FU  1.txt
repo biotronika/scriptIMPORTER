@@ -1,0 +1,8 @@
+# MALASSEZIA FU  1 15m
+# Malassezia_furfur
+# causes tinea versicolor. See also Fungus general
+freq 222000.00 180
+freq 225000.00 180
+freq 491000.00 180
+freq 616000.00 180
+freq 700000.00 180

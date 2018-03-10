@@ -1,0 +1,7 @@
+# HUMAN T LYMPH  6 12m
+# Human_T_lymphocyte_Virus6
+# 
+freq 702000.00 180
+freq 747000.00 180
+freq 2245000.00 180
+freq 183000.00 180

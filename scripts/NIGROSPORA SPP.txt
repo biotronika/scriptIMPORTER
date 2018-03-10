@@ -1,0 +1,6 @@
+# NIGROSPORA SPP 9m
+# Nigrospora_spp
+# 
+freq 302000.00 180
+freq 350000.00 180
+freq 764000.00 180

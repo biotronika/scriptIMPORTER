@@ -1,0 +1,8 @@
+# INTESTINAL PR  1 15m
+# Intestinal_problems_colon
+# see also Colitis
+freq 10000.00 180
+freq 440000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

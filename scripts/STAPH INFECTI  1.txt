@@ -1,0 +1,7 @@
+# STAPH INFECTI  1 12m
+# Staph infection_1
+# 
+freq 943000.00 180
+freq 727000.00 180
+freq 643000.00 180
+freq 20000.00 180

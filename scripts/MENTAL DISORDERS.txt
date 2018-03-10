@@ -1,0 +1,15 @@
+# MENTAL DISORDERS 36m
+# Mental_disorders
+# general aid; especially if toxins are the cause. Also use mineral supplement
+freq 522000.00 180
+freq 146000.00 180
+freq 10000000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180
+freq 4900.00 180
+freq 428000.00 180
+freq 550000.00 180
+freq 802000.00 180
+freq 7830.00 180

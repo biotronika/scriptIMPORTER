@@ -1,0 +1,9 @@
+# INFLUENZA GRI  2 18m
+# Influenza_grippe_1987
+# 
+freq 140000.00 180
+freq 332000.00 180
+freq 581000.00 180
+freq 953000.00 180
+freq 4868000.00 180
+freq 730000.00 180

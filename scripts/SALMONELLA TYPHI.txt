@@ -1,0 +1,7 @@
+# SALMONELLA TYPHI 12m
+# Salmonella_typhi
+# can cause typhoid fever
+freq 420000.00 180
+freq 664000.00 180
+freq 8656000.00 180
+freq 773000.00 180

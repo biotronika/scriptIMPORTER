@@ -1,0 +1,4 @@
+# THALAMUS STIM  1 3m
+# Thalamus_stimulant
+# 
+freq 20000.00 180

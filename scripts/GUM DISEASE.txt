@@ -1,0 +1,3 @@
+# GUM DISEASE 0m
+# Gum_disease
+# use Gingivitis_Pyorrhea

@@ -1,0 +1,16 @@
+# STREPTOCOCCUS  7 39m
+# Streptococcus_mutant_strain_secondary
+# 
+freq 108000.00 180
+freq 433000.00 180
+freq 488000.00 180
+freq 687000.00 180
+freq 833000.00 180
+freq 8686000.00 180
+freq 8777000.00 180
+freq 9676000.00 180
+freq 660000.00 180
+freq 732000.00 180
+freq 745000.00 180
+freq 754000.00 180
+freq 764000.00 180

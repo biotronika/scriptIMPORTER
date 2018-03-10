@@ -1,0 +1,4 @@
+# BANTIS SYNDROME 3m
+# Bantis_syndrome
+# Ailment in which blood vessels between the intestines and the liver become blocked. leading to congestion of the veins. an enlarged spleen. bleeding of the stomach and intestines. cirrhosis of the liver. and blood cell destruction.
+freq 1778000.00 180

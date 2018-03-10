@@ -1,0 +1,4 @@
+# LIVER STORES   1 3m
+# Liver_stores_bile_cholesterol
+# 
+freq 21340.00 180

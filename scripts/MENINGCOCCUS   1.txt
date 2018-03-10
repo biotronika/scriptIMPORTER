@@ -1,0 +1,4 @@
+# MENINGCOCCUS   1 3m
+# Meningcoccus_Virus
+# 
+freq 720000.00 180

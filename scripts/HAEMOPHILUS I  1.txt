@@ -1,0 +1,6 @@
+# HAEMOPHILUS I  1 6m
+# Haemophilus_influenzae_HC
+# causes bacterial meningitis. infects joints
+freq 16728000.00 1
+scan 16729000.00 179
+freq 832860.00 180

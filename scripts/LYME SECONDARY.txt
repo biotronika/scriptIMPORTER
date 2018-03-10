@@ -1,0 +1,9 @@
+# LYME SECONDARY 18m
+# Lyme_secondary
+# 254*
+freq 254000.00 180
+freq 525000.00 180
+freq 597000.00 180
+freq 644000.00 180
+freq 885000.00 180
+freq 699000.00 180

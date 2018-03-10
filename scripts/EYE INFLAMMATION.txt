@@ -1,0 +1,5 @@
+# EYE INFLAMMATION 6m
+# Eye_inflammation
+# also see General antiseptic
+freq 1200.00 180
+freq 80000.00 180

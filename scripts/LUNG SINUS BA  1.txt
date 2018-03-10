@@ -1,0 +1,7 @@
+# LUNG SINUS BA  1 12m
+# Lung_sinus_bacteria
+# 
+freq 244000.00 180
+freq 1466000.00 180
+freq 597000.00 180
+freq 1311000.00 180

@@ -1,0 +1,7 @@
+# RHINO PNEUMON  1 12m
+# Rhino_pneumonitis
+# 
+freq 185000.00 180
+freq 367000.00 180
+freq 820000.00 180
+freq 487000.00 180

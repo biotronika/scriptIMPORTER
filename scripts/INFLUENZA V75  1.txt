@@ -1,0 +1,6 @@
+# INFLUENZA V75  1 9m
+# Influenza_V75_Victoria
+# 
+freq 343000.00 180
+freq 316000.00 180
+freq 1020000.00 180

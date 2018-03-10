@@ -1,0 +1,8 @@
+# FUSARIUM OXYS  1 15m
+# Fusarium_oxysporum
+# a fungus causing inflammation of the cornea of the eye
+freq 102000.00 180
+freq 332000.00 180
+freq 705000.00 180
+freq 795000.00 180
+freq 780000.00 180

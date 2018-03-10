@@ -1,0 +1,3 @@
+# CORYNEBACTERI  1 0m
+# Corynebacterium_diptheriae
+# use Diptheria

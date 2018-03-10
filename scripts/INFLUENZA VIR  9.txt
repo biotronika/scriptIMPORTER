@@ -1,0 +1,5 @@
+# INFLUENZA VIR  9 6m
+# Influenza_virus_A_Port_Chalmers
+# 
+freq 622000.00 180
+freq 863000.00 180

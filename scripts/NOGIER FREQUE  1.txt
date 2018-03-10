@@ -1,0 +1,16 @@
+# NOGIER FREQUE  1 39m
+# Nogier_frequencies
+# 
+freq 1140.00 180
+freq 2280.00 180
+freq 4560.00 180
+freq 9125.00 180
+freq 18250.00 180
+freq 36500.00 180
+freq 73000.00 180
+freq 146000.00 180
+freq 292000.00 180
+freq 584000.00 180
+freq 1168000.00 180
+freq 2336000.00 180
+freq 4672000.00 180

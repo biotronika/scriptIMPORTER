@@ -1,0 +1,11 @@
+# CANCER CARCIN  3 24m
+# Cancer_carcinoma_bronchial
+# 
+freq 462000.00 180
+freq 776000.00 180
+freq 852000.00 180
+freq 1582000.00 180
+freq 2104000.00 180
+freq 2144000.00 180
+freq 2184000.00 180
+freq 3672000.00 180

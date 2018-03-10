@@ -1,0 +1,9 @@
+# EPICONDYLITIS 18m
+# Epicondylitis
+# tennis elbow. lateral or vertical
+freq 1200.00 180
+freq 250000.00 180
+freq 728000.00 180
+freq 766000.00 180
+freq 776000.00 180
+freq 880000.00 180

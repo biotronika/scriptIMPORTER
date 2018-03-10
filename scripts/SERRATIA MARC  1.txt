@@ -1,0 +1,6 @@
+# SERRATIA MARC  1 6m
+# Serratia_marcescens_HC
+# 
+freq 17475000.00 1
+scan 17476000.00 179
+freq 870040.00 180

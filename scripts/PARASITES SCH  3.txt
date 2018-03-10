@@ -1,0 +1,5 @@
+# PARASITES SCH  3 6m
+# Parasites_schistosoma_mansoni
+# blood fluke which can cause symptoms identical to hepatitis C
+freq 329000.00 180
+freq 9889000.00 180

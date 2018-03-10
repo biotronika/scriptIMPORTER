@@ -1,0 +1,14 @@
+# FIBROMYALGIA TR 33m
+# Fibromyalgia_TR
+# includes muscle relaxtion frequencies. Run 321. 384. and 40 for 12 min each
+freq 321000.00 180
+freq 384000.00 180
+freq 40000.00 180
+freq 965000.00 180
+freq 200000.00 180
+freq 120000.00 180
+freq 240000.00 180
+freq 760000.00 180
+freq 68000.00 180
+freq 6000000.00 180
+freq 304000.00 180

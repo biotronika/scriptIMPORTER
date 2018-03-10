@@ -1,0 +1,6 @@
+# SORGHUM SYRUP HC 6m
+# Sorghum_syrup_HC
+# 
+freq 13791000.00 1
+scan 13792000.00 179
+freq 686610.00 180

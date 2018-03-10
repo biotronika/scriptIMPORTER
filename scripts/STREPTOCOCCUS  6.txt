@@ -1,0 +1,8 @@
+# STREPTOCOCCUS  6 15m
+# Streptococcus_mutant_strain
+# 
+freq 114000.00 180
+freq 437000.00 180
+freq 625000.00 180
+freq 883000.00 180
+freq 994000.00 180

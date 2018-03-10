@@ -1,0 +1,4 @@
+# CARBO ANIMALIS 3m
+# Carbo_animalis
+# homeopathic remedy from animal bone charcoal
+freq 444000.00 180

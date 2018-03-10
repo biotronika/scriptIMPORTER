@@ -1,0 +1,6 @@
+# ELKANELLA COR  1 6m
+# Elkanella_corroderis_HC
+# 
+freq 19018000.00 1
+scan 19019000.00 179
+freq 946880.00 180

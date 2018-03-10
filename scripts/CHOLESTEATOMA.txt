@@ -1,0 +1,7 @@
+# CHOLESTEATOMA 12m
+# Cholesteatoma
+# benign tumor usually found in middle ear & mastoid region
+freq 453000.00 180
+freq 618000.00 180
+freq 793000.00 180
+freq 5058000.00 180

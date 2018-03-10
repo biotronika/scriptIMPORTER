@@ -1,0 +1,28 @@
+# LYME DISEASE 75m
+# Lyme_disease
+# also known as borreliosis; relapsing fever in humans and animals caused by parasitic spirochetes from ticks. Also use Babesia if necessary.
+freq 6870000.00 180
+freq 6863000.00 180
+freq 46866000.00 180
+freq 46851000.00 180
+freq 34170000.00 180
+freq 34112000.00 180
+freq 4200000.00 180
+freq 2050000.00 180
+freq 2016000.00 180
+freq 1520000.00 180
+freq 1455000.00 180
+freq 920000.00 180
+freq 884000.00 180
+freq 800000.00 180
+freq 797000.00 180
+freq 758000.00 180
+freq 673000.00 180
+freq 625000.00 180
+freq 615000.00 180
+freq 605000.00 180
+freq 432000.00 180
+freq 345000.00 180
+freq 344000.00 180
+freq 338000.00 180
+freq 254000.00 180

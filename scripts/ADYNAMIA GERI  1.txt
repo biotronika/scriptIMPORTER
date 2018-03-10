@@ -1,0 +1,8 @@
+# ADYNAMIA GERI  1 15m
+# Adynamia_geriatric
+# fatigue of age
+freq 410000.00 180
+freq 220000.00 180
+freq 100000.00 180
+freq 60000.00 180
+freq 27500.00 180

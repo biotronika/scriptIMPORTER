@@ -1,0 +1,16 @@
+# FIBROMYALGIA 39m
+# Fibromyalgia
+# run Detox afterwards if needed
+freq 328000.00 180
+freq 880000.00 180
+freq 800000.00 180
+freq 728000.00 180
+freq 5000000.00 180
+freq 2720000.00 180
+freq 2180000.00 180
+freq 2128000.00 180
+freq 664000.00 180
+freq 464000.00 180
+freq 304000.00 180
+freq 120000.00 180
+freq 20000.00 180

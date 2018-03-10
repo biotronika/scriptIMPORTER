@@ -1,0 +1,20 @@
+# PROSTATE PROB  1 51m
+# Prostate_problems_general
+# see also Strep sets and practice metals avoidance
+freq 2720000.00 180
+freq 2128000.00 180
+freq 2008000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 728000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180
+freq 465000.00 180
+freq 408000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180
+freq 9000.00 180

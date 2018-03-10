@@ -1,0 +1,6 @@
+# BURSITIS 9m
+# Bursitis
+# May be caused by any number of organisms and viruses; experiment with arthritis frequencies as well.
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

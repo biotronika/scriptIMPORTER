@@ -1,0 +1,24 @@
+# COLD IN HEAD   1 63m
+# Cold_in_head_chest
+# Mutates constantly; too many strains to include complete list of frequencies. See also Strep Pneumonia. Adenovirus. Rhinitis. Coronavirus. Sinusitis. Pneumonia. Chest infection. and Rhino pneumonitis sets. Use lots of echinacea at onset to prevent cell damage that prolongs healing. even if correct freqs are found.
+freq 10000000.00 180
+freq 7344000.00 180
+freq 4412000.00 180
+freq 3176000.00 180
+freq 2489000.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 728000.00 180
+freq 712000.00 180
+freq 688000.00 180
+freq 683000.00 180
+freq 665000.00 180
+freq 660000.00 180
+freq 600000.00 180
+freq 444000.00 180
+freq 333000.00 180
+freq 20000.00 180

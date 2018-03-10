@@ -1,0 +1,5 @@
+# POSTSURGERY D  1 6m
+# Postsurgery_detoxification
+# also use saunas and electrolyte replacement
+freq 522000.00 180
+freq 146000.00 180

@@ -1,0 +1,8 @@
+# CERUMEN 15m
+# Cerumen
+# ear wax
+freq 311000.00 180
+freq 320000.00 180
+freq 750000.00 180
+freq 984000.00 180
+freq 720000.00 180

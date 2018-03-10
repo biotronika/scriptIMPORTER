@@ -1,0 +1,10 @@
+# PARASITES PAR  1 12m
+# Parasites_paragonimus_Westermanil_HC
+# 
+freq 22503000.00 1
+scan 22504000.00 179
+freq 1120000.00 1
+scan 1121000.00 179
+freq 22254000.00 1
+scan 22255000.00 179
+freq 1108000.00 180

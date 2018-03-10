@@ -1,0 +1,4 @@
+# NASTURTIUM 3m
+# Nasturtium
+# a healing herb
+freq 143000.00 180

@@ -1,0 +1,5 @@
+# PSORINUM 6m
+# Psorinum
+# 
+freq 786000.00 180
+freq 767000.00 180

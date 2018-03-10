@@ -1,0 +1,7 @@
+# PARASITES TRY  2 6m
+# Parasites_trypanosoma_cruzi_HC
+# brain tissue
+freq 23051000.00 1
+scan 23052000.00 179
+freq 1147000.00 1
+scan 1148000.00 179

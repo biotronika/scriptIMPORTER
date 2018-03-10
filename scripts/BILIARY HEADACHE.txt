@@ -1,0 +1,5 @@
+# BILIARY HEADACHE 6m
+# Biliary_headache
+# 
+freq 8500.00 180
+freq 3500.00 180

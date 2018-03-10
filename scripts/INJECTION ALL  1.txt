@@ -1,0 +1,4 @@
+# INJECTION ALL  1 3m
+# Injection_allergic_reaction
+# 
+freq 10000000.00 180

@@ -1,0 +1,6 @@
+# PAPILLOMA VIR  2 6m
+# Papilloma_virus_plantar_wart_HC
+# 
+freq 20163000.00 1
+scan 20164000.00 179
+freq 1003000.00 180

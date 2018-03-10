@@ -1,0 +1,8 @@
+# TOBACCO MOSAIC 15m
+# Tobacco_mosaic
+# 
+freq 233000.00 180
+freq 274000.00 180
+freq 543000.00 180
+freq 782000.00 180
+freq 1052000.00 180

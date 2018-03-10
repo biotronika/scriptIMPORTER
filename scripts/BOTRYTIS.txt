@@ -1,0 +1,4 @@
+# BOTRYTIS 3m
+# Botrytis
+# 
+freq 1545000.00 180

@@ -1,0 +1,5 @@
+# INFLUENZA SPA  1 6m
+# Influenza_spanish
+# 
+freq 462000.00 180
+freq 787000.00 180

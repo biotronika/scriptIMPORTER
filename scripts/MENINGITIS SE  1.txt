@@ -1,0 +1,7 @@
+# MENINGITIS SE  1 12m
+# Meningitis_secondary
+# 
+freq 130000.00 180
+freq 676000.00 180
+freq 677000.00 180
+freq 507000.00 180

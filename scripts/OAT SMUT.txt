@@ -1,0 +1,4 @@
+# OAT SMUT 3m
+# Oat_smut
+# 
+freq 806000.00 180

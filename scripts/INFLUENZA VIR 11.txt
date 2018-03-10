@@ -1,0 +1,4 @@
+# INFLUENZA VIR 11 3m
+# Influenza_virus_B_Hong_Kong
+# 
+freq 555000.00 180

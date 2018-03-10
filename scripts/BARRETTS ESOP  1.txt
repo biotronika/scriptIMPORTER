@@ -1,0 +1,14 @@
+# BARRETTS ESOP  1 30m
+# Barretts_esophagus_1
+# changes in esophageal cells usually caused by acid reflux. use 2127.5 for 6 min
+freq 10000000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 676000.00 180
+freq 727000.00 180
+freq 20000.00 180
+freq 146000.00 180
+freq 2127000.00 1
+scan 2128000.00 179

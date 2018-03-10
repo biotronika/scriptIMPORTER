@@ -1,0 +1,8 @@
+# CEREBRAL PALSY 15m
+# Cerebral_palsy
+# 
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 522000.00 180
+freq 146000.00 180

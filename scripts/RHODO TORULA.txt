@@ -1,0 +1,6 @@
+# RHODO TORULA 9m
+# Rhodo_torula
+# 
+freq 833000.00 180
+freq 598000.00 180
+freq 778000.00 180

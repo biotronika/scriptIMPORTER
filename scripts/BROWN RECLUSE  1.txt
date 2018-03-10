@@ -1,0 +1,8 @@
+# BROWN RECLUSE  1 15m
+# Brown_recluse_spider bite
+# also use a lot of Echinacea and vitamin C
+freq 724000.00 180
+freq 884000.00 180
+freq 1830000.00 180
+freq 3260000.00 180
+freq 30008000.00 180

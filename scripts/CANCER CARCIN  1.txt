@@ -1,0 +1,8 @@
+# CANCER CARCIN  1 15m
+# Cancer_carcinoma_basal_cell_skin
+# use 2116 for 30min. others for 5 min. 2116*
+freq 2116000.00 180
+freq 760000.00 180
+freq 2128000.00 180
+freq 2280000.00 180
+freq 2876000.00 180

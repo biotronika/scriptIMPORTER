@@ -1,0 +1,7 @@
+# HYPEROSMIA 12m
+# Hyperosmia
+# overacute smell and taste
+freq 20000.00 180
+freq 10000000.00 180
+freq 522000.00 180
+freq 146000.00 180

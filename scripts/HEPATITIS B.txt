@@ -1,0 +1,12 @@
+# HEPATITIS B 27m
+# Hepatitis_B
+# add Hepatitis general freqs if necessary
+freq 334000.00 180
+freq 433000.00 180
+freq 767000.00 180
+freq 869000.00 180
+freq 876000.00 180
+freq 477000.00 180
+freq 574000.00 180
+freq 752000.00 180
+freq 779000.00 180

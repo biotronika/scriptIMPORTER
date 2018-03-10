@@ -1,0 +1,4 @@
+# CANCER FIBROU  1 3m
+# Cancer_fibrous_tumor_secondary
+# 
+freq 1340000.00 180

@@ -1,0 +1,4 @@
+# STAPHYLOCOCCU  3 3m
+# Staphylococcus_coagulae_positive
+# 
+freq 643000.00 180

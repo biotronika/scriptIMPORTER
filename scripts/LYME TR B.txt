@@ -1,0 +1,18 @@
+# LYME TR B 45m
+# Lyme_TR_B
+# Program B. run every other day
+freq 765000.00 180
+freq 758000.00 180
+freq 749000.00 180
+freq 726000.00 180
+freq 672000.00 180
+freq 604000.00 180
+freq 600000.00 180
+freq 581000.00 180
+freq 464000.00 180
+freq 451000.00 180
+freq 432000.00 180
+freq 345000.00 180
+freq 250000.00 180
+freq 144000.00 180
+freq 62000.00 180

@@ -1,0 +1,24 @@
+# ARTHRITIS GEN  1 63m
+# Arthritis_general
+# use Strep pneumonia and Mycoplasma general if needed
+freq 10000000.00 180
+freq 5000000.00 180
+freq 2720000.00 180
+freq 1664000.00 180
+freq 1550000.00 180
+freq 1500000.00 180
+freq 962000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 800000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 727000.00 180
+freq 688000.00 180
+freq 683000.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180
+freq 120000.00 180
+freq 20000.00 180

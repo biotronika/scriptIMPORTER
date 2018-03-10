@@ -1,0 +1,3 @@
+# TAINIO SWEEP 0m
+# Tainio_sweep
+# sweep from 42 to 72 Hz in small intervals. at most 1Hz. to possibly stimulate the immune system

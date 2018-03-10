@@ -1,0 +1,5 @@
+# SEDATION AND   1 6m
+# Sedation_and_pain_relief
+# 
+freq 304000.00 180
+freq 6000000.00 180

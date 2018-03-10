@@ -1,0 +1,6 @@
+# CANCER BREAST 3 9m
+# Cancer_breast_3
+# use 2128 for 56min
+freq 2128000.00 180
+freq 33000.00 180
+freq 1131000.00 180

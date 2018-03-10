@@ -1,0 +1,5 @@
+# CANINE PARVOV  2 6m
+# Canine_parvovirus_mutant_strain
+# 
+freq 323000.00 180
+freq 514000.00 180

@@ -1,0 +1,4 @@
+# CERVIX ADENOMA 3m
+# Cervix adenoma
+# epithelial tumor of the cervix
+freq 433000.00 180

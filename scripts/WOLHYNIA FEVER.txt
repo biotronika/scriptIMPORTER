@@ -1,0 +1,4 @@
+# WOLHYNIA FEVER 3m
+# Wolhynia_fever
+# a Rickettsia illness. transmitted by lice. that is debilitating and conducive to relapse. Also see Rickettsia
+freq 547000.00 180

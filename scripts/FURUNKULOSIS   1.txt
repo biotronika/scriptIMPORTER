@@ -1,0 +1,9 @@
+# FURUNKULOSIS   1 18m
+# Furunkulosis_herpes
+# also see Herpes general and Furunkulosis
+freq 200000.00 180
+freq 1000000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180

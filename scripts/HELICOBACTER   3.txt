@@ -1,0 +1,7 @@
+# HELICOBACTER   3 12m
+# Helicobacter_pylori_2
+# 
+freq 695000.00 180
+freq 2779000.00 180
+freq 705000.00 180
+freq 2819000.00 180

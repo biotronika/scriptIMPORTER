@@ -1,0 +1,8 @@
+# HUMAN T LYMPH  2 15m
+# Human_T_lymphocyte_Virus2
+# used for Gulf War syndrome
+freq 725000.00 180
+freq 1230000.00 180
+freq 245000.00 180
+freq 314000.00 180
+freq 965000.00 180

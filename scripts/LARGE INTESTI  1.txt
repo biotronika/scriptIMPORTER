@@ -1,0 +1,6 @@
+# LARGE INTESTI  1 9m
+# Large_intestine_tonic
+# 
+freq 8000.00 180
+freq 440000.00 180
+freq 880000.00 180

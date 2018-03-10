@@ -1,0 +1,4 @@
+# METHOTREXATE   1 3m
+# Methotrexate_toxicity
+# 
+freq 584000.00 180

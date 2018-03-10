@@ -1,0 +1,7 @@
+# TUBERCULOSIS   6 12m
+# Tuberculosis_secondary_complications
+# 
+freq 776000.00 180
+freq 2127000.00 180
+freq 2008000.00 180
+freq 465000.00 180

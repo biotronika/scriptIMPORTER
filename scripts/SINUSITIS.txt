@@ -1,0 +1,8 @@
+# SINUSITIS 15m
+# Sinusitis
+# sinus and lung infections can be caused by a large number of pathogens including viruses like RSV. adenovirus. parainfluenza. influenza A. influenza B. rhino virus. et al. Common bacteria like strep pneum. are always suspect when condition is chronic. as are fungi.
+freq 952000.00 180
+freq 741000.00 180
+freq 682000.00 180
+freq 320000.00 180
+freq 160000.00 180

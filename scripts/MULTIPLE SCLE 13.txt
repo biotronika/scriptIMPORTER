@@ -1,0 +1,26 @@
+# MULTIPLE SCLE 13 69m
+# Multiple_sclerosis_v
+# aspertame. mercury. benzene. lead. and toluene can cause same symptoms. Also use Chlamydia General and Herpes type 6 and see ALS sets. Herpes general. Blastocystis hominus. Parasites flukes. Shigella. Nocardia. and Herpes zoster
+freq 2145000.00 180
+freq 938000.00 180
+freq 862000.00 180
+freq 841000.00 180
+freq 741000.00 180
+freq 739000.00 180
+freq 682000.00 180
+freq 660000.00 180
+freq 572000.00 180
+freq 532000.00 180
+freq 520000.00 180
+freq 477000.00 180
+freq 442000.00 180
+freq 433000.00 180
+freq 344000.00 180
+freq 343000.00 180
+freq 342000.00 180
+freq 338000.00 180
+freq 324000.00 180
+freq 322000.00 180
+freq 253000.00 180
+freq 242000.00 180
+freq 112000.00 180

@@ -1,0 +1,6 @@
+# BRUISES 9m
+# Bruises
+# 
+freq 9100.00 180
+freq 110000.00 180
+freq 10000000.00 180

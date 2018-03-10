@@ -1,0 +1,6 @@
+# ENTEROHEPATITIS 9m
+# Enterohepatitis
+# inflammation of bowel & liver
+freq 552000.00 180
+freq 932000.00 180
+freq 953000.00 180

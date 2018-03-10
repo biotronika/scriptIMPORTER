@@ -1,0 +1,20 @@
+# IRRITABLE BOW  1 51m
+# Irritable_bowel_syndrome
+# see also Parasites general set and Colitis
+freq 6766000.00 180
+freq 5429000.00 180
+freq 4334000.00 180
+freq 2018000.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 829000.00 180
+freq 812000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 422000.00 180
+freq 407000.00 180
+freq 334000.00 180
+freq 20000.00 180

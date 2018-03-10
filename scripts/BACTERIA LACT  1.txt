@@ -1,0 +1,8 @@
+# BACTERIA LACT  1 15m
+# Bacteria_lactis_nosode
+# 
+freq 512000.00 180
+freq 526000.00 180
+freq 798000.00 180
+freq 951000.00 180
+freq 5412000.00 180

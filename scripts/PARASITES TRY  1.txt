@@ -1,0 +1,7 @@
+# PARASITES TRY  1 6m
+# Parasites_trypanosoma_brucel_HC
+# 
+freq 21358000.00 1
+scan 21359000.00 179
+freq 1063000.00 1
+scan 1064000.00 179

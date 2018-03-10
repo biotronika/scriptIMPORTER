@@ -1,0 +1,4 @@
+# GRANULOMA DENT 3m
+# Granuloma_dent
+# 
+freq 441000.00 180

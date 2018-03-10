@@ -1,0 +1,4 @@
+# MULTIPLE SCLE 12 3m
+# Multiple_sclerosis_tremor_or_twitch
+# 
+freq 470000.00 180

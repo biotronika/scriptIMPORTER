@@ -1,0 +1,7 @@
+# PARASITES FAS  4 6m
+# Parasites_fasciola_hepatica_miracidia_HC
+# 
+freq 21059000.00 1
+scan 21060000.00 179
+freq 1048000.00 1
+scan 1049000.00 179

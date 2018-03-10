@@ -1,0 +1,10 @@
+# AMOEBA 21m
+# Amoeba
+# a single celled. sometimes infectious microorganism
+freq 310000.00 180
+freq 333000.00 180
+freq 532000.00 180
+freq 732000.00 180
+freq 769000.00 180
+freq 827000.00 180
+freq 1522000.00 180

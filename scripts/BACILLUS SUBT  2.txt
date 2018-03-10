@@ -1,0 +1,12 @@
+# BACILLUS SUBT  2 18m
+# Bacillus_subtilis_niger_HC
+# 
+freq 19168000.00 1
+scan 19169000.00 179
+freq 18919000.00 1
+scan 18920000.00 179
+freq 18670000.00 1
+scan 18671000.00 179
+freq 954320.00 180
+freq 941930.00 180
+freq 929530.00 180

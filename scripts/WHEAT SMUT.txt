@@ -1,0 +1,6 @@
+# WHEAT SMUT 9m
+# Wheat_smut
+# 
+freq 10163000.00 180
+freq 156000.00 180
+freq 375000.00 180

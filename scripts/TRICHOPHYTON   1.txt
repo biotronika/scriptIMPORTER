@@ -1,0 +1,9 @@
+# TRICHOPHYTON   1 18m
+# Trichophyton_general
+# 
+freq 132000.00 180
+freq 725000.00 180
+freq 808000.00 180
+freq 812000.00 180
+freq 2422000.00 180
+freq 9493000.00 180

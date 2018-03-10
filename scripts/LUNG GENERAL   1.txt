@@ -1,0 +1,6 @@
+# LUNG GENERAL   1 9m
+# Lung_general_tonic
+# 
+freq 318000.00 180
+freq 307900.00 180
+freq 568000.00 180

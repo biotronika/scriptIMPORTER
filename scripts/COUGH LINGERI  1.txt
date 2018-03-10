@@ -1,0 +1,13 @@
+# COUGH LINGERI  1 15m
+# Cough_lingering_TR
+# 
+freq 4664000.00 1
+scan 4665000.00 179
+freq 3444000.00 1
+scan 3445000.00 179
+freq 2543000.00 1
+scan 2544000.00 179
+freq 1666000.00 1
+scan 1667000.00 179
+freq 3665000.00 1
+scan 3666000.00 179

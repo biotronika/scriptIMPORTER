@@ -1,0 +1,6 @@
+# NOCARDIA ASTE  2 6m
+# Nocardia_asteroides_HC
+# found in Parkinson’s disease
+freq 17679000.00 1
+scan 17680000.00 179
+freq 880200.00 180

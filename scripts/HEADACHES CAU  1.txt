@@ -1,0 +1,5 @@
+# HEADACHES CAU  1 6m
+# Headaches_caused_by_vertebral_misalignment
+# Not a substitute for adjustment
+freq 9600.00 180
+freq 3000000.00 180

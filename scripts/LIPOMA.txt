@@ -1,0 +1,6 @@
+# LIPOMA 9m
+# Lipoma
+# benign. soft tumor of fatty tissue. Also use Liver support.
+freq 47000.00 180
+freq 606000.00 180
+freq 709000.00 180

@@ -1,0 +1,9 @@
+# INFLUENZA VIR 13 18m
+# Influenza_virus_general
+# 
+freq 728000.00 180
+freq 800000.00 180
+freq 880000.00 180
+freq 7760000.00 180
+freq 8000000.00 180
+freq 8250000.00 180

@@ -1,0 +1,5 @@
+# PARVOVIRUS NE  1 6m
+# Parvovirus_new_strain
+# 
+freq 2257000.00 180
+freq 488000.00 180

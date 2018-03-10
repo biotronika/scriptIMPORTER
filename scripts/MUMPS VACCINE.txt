@@ -1,0 +1,8 @@
+# MUMPS VACCINE 15m
+# Mumps_vaccine
+# 
+freq 273000.00 180
+freq 551000.00 180
+freq 711000.00 180
+freq 730000.00 180
+freq 1419000.00 180

@@ -1,0 +1,7 @@
+# CYTOPHAGA RUB  1 6m
+# Cytophaga_rubra_HC
+# 
+freq 21408000.00 1
+scan 21409000.00 179
+freq 1065000.00 1
+scan 1066000.00 179

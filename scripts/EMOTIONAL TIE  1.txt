@@ -1,0 +1,5 @@
+# EMOTIONAL TIE  1 6m
+# Emotional_ties_to_diseases
+# 
+freq 764000.00 180
+freq 664000.00 180

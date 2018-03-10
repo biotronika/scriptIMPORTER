@@ -1,0 +1,4 @@
+# CANCER FIBROS  1 3m
+# Cancer_fibrosarcoma
+# malignancy containing connective tissue and developing rapidly from small bumps on the skin
+freq 1744000.00 180

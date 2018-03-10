@@ -1,0 +1,7 @@
+# BALANTIDIUM C  1 6m
+# Balantidium_coli_HC
+# cysts. B. coli is the largest ciliated protozoon found in humans and can cause a severe colitis with ulcerations
+freq 22902000.00 1
+scan 22903000.00 179
+freq 1140000.00 1
+scan 1141000.00 179

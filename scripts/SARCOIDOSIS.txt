@@ -1,0 +1,6 @@
+# SARCOIDOSIS 9m
+# Sarcoidosis
+# also see Cancer. lymphogranuloma
+freq 2167000.00 180
+freq 2967000.00 180
+freq 3289000.00 180

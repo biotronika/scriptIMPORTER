@@ -1,0 +1,5 @@
+# STREPTOCOCCUS  1 6m
+# Streptococcus_enterococcinum
+# can cause infection in the digestive and urinary tracts
+freq 686000.00 180
+freq 409000.00 180

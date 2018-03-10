@@ -1,0 +1,10 @@
+# ENDOLIMAX NAN  1 12m
+# Endolimax_nana_HC
+# trophozoites and cysts
+freq 19715000.00 1
+scan 19716000.00 179
+freq 981590.00 180
+freq 21508000.00 1
+scan 21509000.00 179
+freq 1070000.00 1
+scan 1071000.00 179

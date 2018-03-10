@@ -1,0 +1,5 @@
+# MYOCARDITIS N  2 6m
+# Myocarditis_necrose
+# homeopathic remedy from heart cells that died as a result of inadequate blood flow to them. See also Circulatory stasis
+freq 706000.00 180
+freq 789000.00 180

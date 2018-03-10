@@ -1,0 +1,6 @@
+# STREPTOCOCCUS 10 6m
+# Streptococcus_pneumoniae_HC
+# pneumonia. inner ear disease
+freq 18321000.00 1
+scan 18322000.00 179
+freq 912180.00 180

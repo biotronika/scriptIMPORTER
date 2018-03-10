@@ -1,0 +1,6 @@
+# BORRELIA BURG  1 6m
+# Borrelia_burgdorferi_HC
+# causes Lyme disease. see also Lyme_disease
+freq 18919000.00 1
+scan 18920000.00 179
+freq 941930.00 180

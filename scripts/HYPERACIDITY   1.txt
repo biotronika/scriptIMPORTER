@@ -1,0 +1,6 @@
+# HYPERACIDITY   1 9m
+# Hyperacidity_stomach
+# 
+freq 7820.00 180
+freq 20000.00 180
+freq 230000.00 180

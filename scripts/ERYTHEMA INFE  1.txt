@@ -1,0 +1,5 @@
+# ERYTHEMA INFE  1 6m
+# Erythema_infectiosum
+# human parvovirus B19. sometimes known as Fifth disease. a contagious viral infection which causes blotchy or raised red rash with mild illness. exp
+freq 809000.00 180
+freq 1618000.00 180

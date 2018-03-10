@@ -1,0 +1,7 @@
+# TRICHOPHYTON   3 12m
+# Trichophyton_nagel
+# 
+freq 381000.00 180
+freq 585000.00 180
+freq 593000.00 180
+freq 812000.00 180

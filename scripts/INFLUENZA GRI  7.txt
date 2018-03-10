@@ -1,0 +1,5 @@
+# INFLUENZA GRI  7 6m
+# Influenza_grippe_vapch
+# 
+freq 153000.00 180
+freq 343000.00 180

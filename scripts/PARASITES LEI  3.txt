@@ -1,0 +1,5 @@
+# PARASITES LEI  3 6m
+# Parasites_leishmania_donovani
+# 
+freq 525000.00 180
+freq 781000.00 180

@@ -1,0 +1,4 @@
+# SEDATIVE EFFECT 3m
+# Sedative_effect
+# Reported use on bleeding. bruises. insomnia. sinusitis
+freq 2500.00 180

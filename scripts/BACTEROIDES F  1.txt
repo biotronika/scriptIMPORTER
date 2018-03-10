@@ -1,0 +1,8 @@
+# BACTEROIDES F  1 15m
+# Bacteroides_fragilis
+# use with Parasites ascaris set
+freq 633000.00 180
+freq 634000.00 180
+freq 635000.00 180
+freq 636000.00 180
+freq 637000.00 180

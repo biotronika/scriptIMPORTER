@@ -1,0 +1,6 @@
+# LYCOGALA HC 6m
+# Lycogala_HC
+# 
+freq 6273000.00 1
+scan 6274000.00 179
+freq 312320.00 180

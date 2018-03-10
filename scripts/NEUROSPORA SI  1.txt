@@ -1,0 +1,5 @@
+# NEUROSPORA SI  1 6m
+# Neurospora_sitophila
+# 
+freq 705000.00 180
+freq 878000.00 180

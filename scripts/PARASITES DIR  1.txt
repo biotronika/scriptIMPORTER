@@ -1,0 +1,7 @@
+# PARASITES DIR  1 6m
+# Parasites_dirofilaria_immitis_HC
+# dog heartworm
+freq 20362000.00 1
+scan 20363000.00 179
+freq 1013000.00 1
+scan 1014000.00 179

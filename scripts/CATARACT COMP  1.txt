@@ -1,0 +1,7 @@
+# CATARACT COMP  1 12m
+# Cataract_complicated
+# secondary type caused by disease. degeneration. or surgery. 1830*
+freq 1830000.00 180
+freq 496000.00 180
+freq 325000.00 180
+freq 774000.00 180

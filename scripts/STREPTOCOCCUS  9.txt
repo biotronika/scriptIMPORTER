@@ -1,0 +1,13 @@
+# STREPTOCOCCUS  9 30m
+# Streptococcus_pneumoniae
+# can cause pneumonia. empyema. middle ear infections. endocarditis. peritonitis. arthritis. bacteremia. and meningitis. 683*. 688*
+freq 231000.00 180
+freq 232000.00 180
+freq 683000.00 180
+freq 688000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 728000.00 180
+freq 846000.00 180
+freq 1552000.00 180
+freq 8865000.00 180

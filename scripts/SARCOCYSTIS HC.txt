@@ -1,0 +1,7 @@
+# SARCOCYSTIS HC 6m
+# Sarcocystis_HC
+# 
+freq 22503000.00 1
+scan 22504000.00 179
+freq 1120000.00 1
+scan 1121000.00 179

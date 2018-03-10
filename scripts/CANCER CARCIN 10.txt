@@ -1,0 +1,6 @@
+# CANCER CARCIN 10 6m
+# Cancer_carcinoma_original_crane
+# 
+freq 21275000.00 180
+freq 2127000.00 1
+scan 2128000.00 179

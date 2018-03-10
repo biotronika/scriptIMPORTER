@@ -1,0 +1,4 @@
+# CANCER PLASMA  1 3m
+# Cancer_plasmacytoma
+# a tumor with plasma cells that occurs in the bone marrow. as in multiple myeloma. or outside of the bone marrow. as in tumors of the inner organs and lining of the nose. mouth. and throat
+freq 475000.00 180

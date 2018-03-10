@@ -1,0 +1,7 @@
+# PARASITES GIA  2 6m
+# Parasites_giardia_lamblia_HC
+# 
+freq 21109000.00 1
+scan 21110000.00 179
+freq 1050000.00 1
+scan 1051000.00 179

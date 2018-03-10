@@ -1,0 +1,11 @@
+# SLIPPED DISCS 24m
+# Slipped_discs
+# spasms from microbial toxins
+freq 125000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 728000.00 180
+freq 727000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180

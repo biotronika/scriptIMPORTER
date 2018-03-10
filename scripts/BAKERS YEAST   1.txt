@@ -1,0 +1,6 @@
+# BAKERS YEAST   1 9m
+# Bakers_Yeast_allergy
+# homeopathy preparation
+freq 775000.00 180
+freq 843000.00 180
+freq 1000000.00 180

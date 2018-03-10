@@ -1,0 +1,9 @@
+# MALABSORPTION  1 18m
+# Malabsorption_syndrome
+# use with Parasites. General set
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 800000.00 180
+freq 1552000.00 180
+freq 3000000.00 180

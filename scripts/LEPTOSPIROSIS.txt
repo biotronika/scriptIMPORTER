@@ -1,0 +1,5 @@
+# LEPTOSPIROSIS 6m
+# Leptospirosis
+# a spirochete bacterial disease that is spread to humans through animal urine that can cause meningitis. jaundice. anemia. miscarriage. and death
+freq 612000.00 180
+freq 663000.00 180

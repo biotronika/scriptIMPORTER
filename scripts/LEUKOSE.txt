@@ -1,0 +1,8 @@
+# LEUKOSE 15m
+# Leukose
+# proliferation of tissues that form white blood cells; considered to be foundational stage of leukemia. See also Cancer Leukemia. Parasite general. Parasite fluke sets
+freq 612000.00 180
+freq 633000.00 180
+freq 653000.00 180
+freq 3722000.00 180
+freq 644000.00 180

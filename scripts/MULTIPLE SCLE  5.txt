@@ -1,0 +1,12 @@
+# MULTIPLE SCLE  5 27m
+# Multiple_sclerosis_5
+# use 5000 for 30 min
+freq 5000000.00 180
+freq 728000.00 180
+freq 166000.00 180
+freq 224000.00 180
+freq 317000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 218000.00 180

@@ -1,0 +1,13 @@
+# ALS 1 30m
+# ALS_1
+# Amyotropic lateral sclerosis. possibly caused by mycoplasma fermentans. Also use MS and see Echo virus. Coxsackie. Herpes 6. Bartonella. and Lyme freqs. Use 2900 for 30 min
+freq 2900000.00 180
+freq 864000.00 180
+freq 790000.00 180
+freq 690000.00 180
+freq 610000.00 180
+freq 470000.00 180
+freq 484000.00 180
+freq 986000.00 180
+freq 644000.00 180
+freq 254000.00 180

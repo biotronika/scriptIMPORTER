@@ -1,0 +1,12 @@
+# CANCER BY VIRUS 24m
+# Cancer_BY_virus
+# sarcoma virus. also use Cancer_sarcoma
+freq 879230000.00 1
+scan 879231000.00 179
+freq 20080000.00 180
+freq 17034000.00 180
+freq 11780000.00 180
+freq 11430000.00 180
+freq 3524000.00 180
+freq 2128000.00 180
+freq 2008000.00 180

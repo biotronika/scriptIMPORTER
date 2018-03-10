@@ -1,0 +1,8 @@
+# ULCER VENTRIC 15m
+# Ulcer_ventric
+# 
+freq 142000.00 180
+freq 566000.00 180
+freq 676000.00 180
+freq 232000.00 180
+freq 1000000.00 180

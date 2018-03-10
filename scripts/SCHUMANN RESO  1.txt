@@ -1,0 +1,10 @@
+# SCHUMANN RESO  1 21m
+# Schumann_resonance
+# Earth frequencies which may be relaxing
+freq 7830.00 180
+freq 14000.00 180
+freq 20000.00 180
+freq 26000.00 180
+freq 33000.00 180
+freq 39000.00 180
+freq 45000.00 180

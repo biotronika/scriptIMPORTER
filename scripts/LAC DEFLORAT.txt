@@ -1,0 +1,7 @@
+# LAC DEFLORAT 12m
+# Lac_deflorat
+# 
+freq 230000.00 180
+freq 371000.00 180
+freq 232000.00 180
+freq 2121000.00 180

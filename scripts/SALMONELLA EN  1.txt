@@ -1,0 +1,6 @@
+# SALMONELLA EN  1 6m
+# Salmonella_enteriditis_HC
+# causes intestinal infection
+freq 16379000.00 1
+scan 16380000.00 179
+freq 815510.00 180

@@ -1,0 +1,10 @@
+# BILIRUBIN 21m
+# Bilirubin
+# a bile pigment that may result in jaundice in high concentrations. See also Liver support
+freq 717000.00 180
+freq 726000.00 180
+freq 731000.00 180
+freq 863000.00 180
+freq 9305000.00 180
+freq 649000.00 180
+freq 734000.00 180

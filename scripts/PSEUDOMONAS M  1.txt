@@ -1,0 +1,12 @@
+# PSEUDOMONAS M  1 27m
+# Pseudomonas_mallei
+# also called glanders bacillus. Causes glanders. a blue pus infection of the respiratory system and mouth. and transmitted occasionally to man by equine.
+freq 986000.00 180
+freq 737000.00 180
+freq 687000.00 180
+freq 857000.00 180
+freq 875000.00 180
+freq 1273000.00 180
+freq 501000.00 180
+freq 743000.00 180
+freq 774000.00 180

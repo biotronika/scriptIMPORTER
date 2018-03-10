@@ -1,0 +1,16 @@
+# KNEE JOINT PAIN 39m
+# Knee_joint_pain
+# 
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 28000.00 180
+freq 20000.00 180
+freq 7690.00 180
+freq 3000.00 180
+freq 1200.00 180
+freq 250000.00 180
+freq 9600.00 180
+freq 9390.00 180

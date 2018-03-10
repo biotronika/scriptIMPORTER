@@ -1,0 +1,12 @@
+# INFLUENZA 199  2 27m
+# Influenza_1994_secondary
+# 
+freq 337000.00 180
+freq 690000.00 180
+freq 868000.00 180
+freq 869000.00 180
+freq 702000.00 180
+freq 727000.00 180
+freq 729000.00 180
+freq 776000.00 180
+freq 779000.00 180

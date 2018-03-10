@@ -1,0 +1,6 @@
+# BRANHAMELLA N  1 6m
+# Branhamella_Neisseria_catarrhalis_HC
+# 
+freq 19715000.00 1
+scan 19716000.00 179
+freq 981590.00 180

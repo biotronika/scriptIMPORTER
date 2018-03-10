@@ -1,0 +1,7 @@
+# PARASITES FIL  1 12m
+# Parasites_filariose
+# worms in blood and organs of mammals. larvae passed from biting insects
+freq 112000.00 180
+freq 120000.00 180
+freq 332000.00 180
+freq 753000.00 180

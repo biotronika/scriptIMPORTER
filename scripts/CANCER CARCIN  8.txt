@@ -1,0 +1,4 @@
+# CANCER CARCIN  8 3m
+# Cancer_carcinoma_liver_fermentative
+# 
+freq 214000.00 180

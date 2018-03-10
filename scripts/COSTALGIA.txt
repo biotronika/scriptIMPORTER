@@ -1,0 +1,7 @@
+# COSTALGIA 12m
+# Costalgia
+# rib pain
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

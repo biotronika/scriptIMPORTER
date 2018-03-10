@@ -1,0 +1,5 @@
+# HELMINTHOSPORIUM 6m
+# Helminthosporium
+# the reproductive element of some parasitic worms
+freq 793000.00 180
+freq 969000.00 180

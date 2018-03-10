@@ -1,0 +1,6 @@
+# CATARACT 2 9m
+# Cataract_2
+# 
+freq 292000.00 180
+freq 30000.00 180
+freq 9100.00 180

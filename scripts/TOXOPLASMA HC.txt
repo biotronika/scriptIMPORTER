@@ -1,0 +1,6 @@
+# TOXOPLASMA HC 6m
+# Toxoplasma_HC
+# human strain
+freq 19665000.00 1
+scan 19666000.00 179
+freq 979110.00 180

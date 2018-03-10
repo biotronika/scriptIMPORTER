@@ -1,0 +1,5 @@
+# GREEN DYE 6m
+# Green_Dye
+# 
+freq 563000.00 180
+freq 2333000.00 180

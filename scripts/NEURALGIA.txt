@@ -1,0 +1,6 @@
+# NEURALGIA 9m
+# Neuralgia
+# a painful disorder of the nervous system
+freq 833000.00 180
+freq 3900.00 180
+freq 10000000.00 180

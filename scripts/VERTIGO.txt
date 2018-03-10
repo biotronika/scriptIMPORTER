@@ -1,0 +1,6 @@
+# VERTIGO 9m
+# Vertigo
+# also use Otitis. Meniere’s. and see General antiseptic freqs
+freq 60000.00 180
+freq 5800.00 180
+freq 4000.00 180

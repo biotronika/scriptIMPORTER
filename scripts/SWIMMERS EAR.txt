@@ -1,0 +1,10 @@
+# SWIMMERS EAR 21m
+# Swimmers_ear
+# also see Pseudomonas aeruginosa and Otitis externa. To help prevent. always disinfect and dry ears after using public pools with 40% alcohol solution such as vodka or white rum
+freq 728000.00 180
+freq 784000.00 180
+freq 880000.00 180
+freq 464000.00 180
+freq 174000.00 180
+freq 482000.00 180
+freq 5311000.00 180

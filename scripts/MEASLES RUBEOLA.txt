@@ -1,0 +1,10 @@
+# MEASLES RUBEOLA 21m
+# Measles_rubeola
+# 9 day measles
+freq 342000.00 180
+freq 467000.00 180
+freq 520000.00 180
+freq 784000.00 180
+freq 787000.00 180
+freq 962000.00 180
+freq 1489000.00 180

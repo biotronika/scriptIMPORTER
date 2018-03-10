@@ -1,0 +1,5 @@
+# EPICOCCUM 6m
+# Epicoccum
+# 
+freq 734000.00 180
+freq 778000.00 180

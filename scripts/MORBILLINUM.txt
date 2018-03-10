@@ -1,0 +1,6 @@
+# MORBILLINUM 9m
+# Morbillinum
+# 
+freq 467000.00 180
+freq 520000.00 180
+freq 1489000.00 180

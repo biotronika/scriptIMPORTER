@@ -1,0 +1,9 @@
+# DIPLOCOCCUS P  1 12m
+# Diplococcus_pneumoniae_HC
+# 
+freq 17923000.00 1
+scan 17924000.00 179
+freq 18172000.00 1
+scan 18173000.00 179
+freq 892350.00 180
+freq 904740.00 180

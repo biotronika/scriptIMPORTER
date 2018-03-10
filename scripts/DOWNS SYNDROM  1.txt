@@ -1,0 +1,4 @@
+# DOWNS SYNDROM  1 3m
+# Downs_syndrome_palliative
+# 
+freq 20000.00 180

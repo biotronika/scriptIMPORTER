@@ -1,0 +1,16 @@
+# CAMPYLOBACTER 36m
+# Campylobacter
+# bacteria causing sudden infectious diarrhea in newborns. 732*. 1633*. 333*
+freq 732000.00 180
+freq 733000.00 180
+freq 1633000.00 180
+freq 1834000.00 180
+freq 2222000.00 180
+freq 786000.00 180
+freq 768000.00 180
+freq 523000.00 180
+freq 333000.00 180
+freq 378000.00 180
+freq 705860.00 180
+freq 2823000.00 1
+scan 2824000.00 179

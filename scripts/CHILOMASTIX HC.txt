@@ -1,0 +1,10 @@
+# CHILOMASTIX HC 12m
+# Chilomastix_HC
+# amoeba cysts
+freq 19367000.00 1
+scan 19368000.00 179
+freq 964230.00 180
+freq 21209000.00 1
+scan 21210000.00 179
+freq 1055000.00 1
+scan 1056000.00 179

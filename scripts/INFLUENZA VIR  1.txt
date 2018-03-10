@@ -1,0 +1,9 @@
+# INFLUENZA VIR  1 18m
+# Influenza_virus_1991_1992
+# 
+freq 153000.00 180
+freq 345000.00 180
+freq 387000.00 180
+freq 758000.00 180
+freq 984000.00 180
+freq 985000.00 180

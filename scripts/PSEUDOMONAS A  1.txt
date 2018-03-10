@@ -1,0 +1,18 @@
+# PSEUDOMONAS A  1 42m
+# Pseudomonas_aeruginosa
+# bacteria causing blue pus infections found in wounds. burns. and the urinary tract. et al
+freq 174000.00 180
+freq 482000.00 180
+freq 785000.00 180
+freq 1132000.00 180
+freq 5311000.00 180
+freq 3965000.00 180
+freq 405000.00 180
+freq 633000.00 180
+freq 191000.00 180
+freq 178000.00 180
+freq 731000.00 180
+freq 6646000.00 180
+freq 739800.00 180
+freq 2959000.00 1
+scan 2960000.00 179

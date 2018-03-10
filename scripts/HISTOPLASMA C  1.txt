@@ -1,0 +1,6 @@
+# HISTOPLASMA C  1 6m
+# Histoplasma_capsulatum_HC
+# 
+freq 15035000.00 1
+scan 15036000.00 179
+freq 748580.00 180

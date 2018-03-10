@@ -1,0 +1,7 @@
+# SERUM SCHWEIN  1 12m
+# Serum_schweinepest
+# swine fever or hog cholera
+freq 503000.00 180
+freq 246000.00 180
+freq 604000.00 180
+freq 465000.00 180

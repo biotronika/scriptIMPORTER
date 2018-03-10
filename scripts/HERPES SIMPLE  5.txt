@@ -1,0 +1,9 @@
+# HERPES SIMPLE  5 12m
+# Herpes_simplex_I_HC
+# 
+freq 14537000.00 1
+scan 14538000.00 179
+freq 17201000.00 1
+scan 17202000.00 179
+freq 723800.00 180
+freq 856410.00 180

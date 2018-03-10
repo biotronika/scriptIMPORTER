@@ -1,0 +1,9 @@
+# INFLUENZA TRI  1 18m
+# Influenza_triple_nosode
+# 
+freq 421000.00 180
+freq 632000.00 180
+freq 1242000.00 180
+freq 1422000.00 180
+freq 1922000.00 180
+freq 3122000.00 180

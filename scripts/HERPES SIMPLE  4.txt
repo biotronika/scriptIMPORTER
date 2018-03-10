@@ -1,0 +1,4 @@
+# HERPES SIMPLE  4 3m
+# Herpes_simplex_I_4
+# use 2950 for 20min
+freq 2950000.00 180

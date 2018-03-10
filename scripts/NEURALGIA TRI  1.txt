@@ -1,0 +1,4 @@
+# NEURALGIA TRI  1 3m
+# Neuralgia_trigeminal
+# 
+freq 880000.00 180

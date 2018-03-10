@@ -1,0 +1,5 @@
+# ALTERNARIA TE  1 6m
+# Alternaria_tenuis
+# a fungus associated with lung ailments
+freq 853000.00 180
+freq 304000.00 180

@@ -1,0 +1,5 @@
+# ENTEROCOCCINUM 6m
+# Enterococcinum
+# homeopathic nosode for Strep family organisms found in the digestive and urinary tracts
+freq 686000.00 180
+freq 409000.00 180

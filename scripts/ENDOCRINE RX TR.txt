@@ -1,0 +1,14 @@
+# ENDOCRINE RX TR 33m
+# Endocrine_RX_TR
+# includes stimulating frequencies for pineal. hypothalamus. pituitary. thyroid. adrenal. and thymus gands
+freq 662000.00 180
+freq 1725000.00 180
+freq 1342000.00 180
+freq 1534000.00 180
+freq 1413000.00 180
+freq 1351000.00 180
+freq 635000.00 180
+freq 763000.00 180
+freq 1335000.00 180
+freq 645000.00 180
+freq 10000000.00 180

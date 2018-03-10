@@ -1,0 +1,6 @@
+# FOOD POISONING 9m
+# Food_poisoning
+# some classes. Also use Salmonella typhimurium and see General antiseptic. Abdominal pain. and Abdominal inflammation.
+freq 1552000.00 180
+freq 802000.00 180
+freq 832000.00 180

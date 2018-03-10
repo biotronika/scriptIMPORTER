@@ -1,0 +1,16 @@
+# SWELLING 39m
+# Swelling
+# edema. See also Kidney insufficiency and Lymph stasis freqs
+freq 522000.00 180
+freq 146000.00 180
+freq 6300.00 180
+freq 148000.00 180
+freq 444000.00 180
+freq 440000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180
+freq 10000000.00 180
+freq 5000000.00 180
+freq 3000000.00 180

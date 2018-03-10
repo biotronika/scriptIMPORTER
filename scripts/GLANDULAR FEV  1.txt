@@ -1,0 +1,6 @@
+# GLANDULAR FEV  1 9m
+# Glandular_fever_thyroid
+# exp
+freq 10000000.00 180
+freq 20000.00 180
+freq 16000000.00 180

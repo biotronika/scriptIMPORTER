@@ -1,0 +1,16 @@
+# PERICARDITIS 39m
+# Pericarditis
+# NOTE. Cardiac conditions are inherently unstable. Therefore.we cannot recommend the use of frequencies on humans. even outside U.S. jurisdiction. These frequencies are for animal research only.
+freq 2720000.00 180
+freq 2170000.00 180
+freq 1600000.00 180
+freq 880000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 625000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180

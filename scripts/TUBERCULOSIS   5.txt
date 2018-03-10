@@ -1,0 +1,10 @@
+# TUBERCULOSIS   5 21m
+# Tuberculosis_rod_form
+# 803*
+freq 8030000.00 180
+freq 369000.00 180
+freq 583000.00 180
+freq 541000.00 180
+freq 802000.00 180
+freq 803000.00 180
+freq 1513000.00 180

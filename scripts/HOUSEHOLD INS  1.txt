@@ -1,0 +1,5 @@
+# HOUSEHOLD INS  1 6m
+# Household_Insect_Mix
+# 
+freq 723000.00 180
+freq 100000.00 180

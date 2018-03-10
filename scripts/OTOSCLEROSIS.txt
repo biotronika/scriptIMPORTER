@@ -1,0 +1,4 @@
+# OTOSCLEROSIS 3m
+# Otosclerosis
+# 
+freq 9190.00 180

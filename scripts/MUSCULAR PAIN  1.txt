@@ -1,0 +1,21 @@
+# MUSCULAR PAIN  1 54m
+# Muscular_pain_and_injury
+# also see Pain and General antiseptic
+freq 2720000.00 180
+freq 6000000.00 180
+freq 324000.00 180
+freq 320000.00 180
+freq 250000.00 180
+freq 240000.00 180
+freq 160000.00 180
+freq 125000.00 180
+freq 80000.00 180
+freq 40000.00 180
+freq 20000.00 180
+freq 10000.00 180
+freq 5800.00 180
+freq 2500.00 180
+freq 1500.00 180
+freq 1200.00 180
+freq 1000.00 180
+freq 1000.00 180

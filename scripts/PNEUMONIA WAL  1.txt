@@ -1,0 +1,3 @@
+# PNEUMONIA WAL  1 0m
+# Pneumonia_walking
+# use Pneumonia mycoplasma

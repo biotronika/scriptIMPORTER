@@ -1,0 +1,6 @@
+# MUCOR RACEMOSIS 9m
+# Mucor_racemosis
+# grows on decaying vegetation and bread and can cause ear infection
+freq 310000.00 180
+freq 474000.00 180
+freq 875000.00 180

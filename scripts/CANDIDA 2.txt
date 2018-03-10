@@ -1,0 +1,18 @@
+# CANDIDA 2 45m
+# Candida_2
+# includes candida carcinomas and tropicalis
+freq 1403000.00 180
+freq 675000.00 180
+freq 709000.00 180
+freq 2167000.00 180
+freq 2128000.00 180
+freq 2182000.00 180
+freq 465000.00 180
+freq 20000.00 180
+freq 60000.00 180
+freq 95000.00 180
+freq 125000.00 180
+freq 225000.00 180
+freq 427000.00 180
+freq 464000.00 180
+freq 727000.00 180

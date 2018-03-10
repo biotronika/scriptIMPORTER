@@ -1,0 +1,5 @@
+# BONE REGENERA  1 6m
+# Bone_regeneration
+# combine with adequate nutrition. especially protein. and minerals. especially calcium and magnesium
+freq 2720000.00 180
+freq 10000000.00 180

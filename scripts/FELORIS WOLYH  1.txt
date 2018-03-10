@@ -1,0 +1,4 @@
+# FELORIS WOLYH  1 3m
+# Feloris_Wolyhnica
+# 
+freq 547000.00 180

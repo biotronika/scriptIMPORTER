@@ -1,0 +1,6 @@
+# YEAST CERVICAL 9m
+# Yeast_cervical
+# also use Candida
+freq 788000.00 180
+freq 706000.00 180
+freq 771000.00 180

@@ -1,0 +1,6 @@
+# BONE SPURS 9m
+# Bone_spurs
+# also use mineral supplement plus high dose bromelain and water
+freq 1200.00 180
+freq 120000.00 180
+freq 250000.00 180

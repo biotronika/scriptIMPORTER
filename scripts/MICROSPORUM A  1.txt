@@ -1,0 +1,7 @@
+# MICROSPORUM A  1 12m
+# Microsporum_audouini
+# a fungus which commonly causes ringworm of the scalp and other areas
+freq 422000.00 180
+freq 831000.00 180
+freq 1222000.00 180
+freq 285000.00 180

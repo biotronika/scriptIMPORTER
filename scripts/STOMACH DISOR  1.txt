@@ -1,0 +1,21 @@
+# STOMACH DISOR  1 54m
+# Stomach_disorders
+# see also E. Coli and Parasites general if no lasting relief
+freq 2127000.00 180
+freq 2008000.00 180
+freq 1552000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 802000.00 180
+freq 784000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 676000.00 180
+freq 664000.00 180
+freq 450000.00 180
+freq 422000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180
+freq 3900.00 180

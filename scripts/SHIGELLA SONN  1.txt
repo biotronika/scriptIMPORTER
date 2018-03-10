@@ -1,0 +1,6 @@
+# SHIGELLA SONN  1 6m
+# Shigella_sonnei_HC
+# invades tumors
+freq 15832000.00 1
+scan 15833000.00 179
+freq 788240.00 180

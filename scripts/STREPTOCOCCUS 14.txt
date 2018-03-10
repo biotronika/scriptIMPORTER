@@ -1,0 +1,6 @@
+# STREPTOCOCCUS 14 6m
+# Streptococcus_pyogenes_HC
+# infects teeth
+freq 18570000.00 1
+scan 18571000.00 179
+freq 924570.00 180

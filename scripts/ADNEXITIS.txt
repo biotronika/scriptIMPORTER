@@ -1,0 +1,10 @@
+# ADNEXITIS 21m
+# Adnexitis
+# swelling of the ovaries or Fallopian tubes
+freq 440000.00 180
+freq 441000.00 180
+freq 522000.00 180
+freq 572000.00 180
+freq 3343000.00 180
+freq 3833000.00 180
+freq 5312000.00 180

@@ -1,0 +1,5 @@
+# FEBRIS WOLHYNIA 6m
+# Febris_wolhynia
+# a Rickettsia illness. transmitted by lice. that is debilitating and conducive to relapse
+freq 547000.00 180
+freq 356000.00 180

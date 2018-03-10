@@ -1,0 +1,21 @@
+# ACTINOMYCES I  1 54m
+# Actinomyces_israelii
+# a bacterium normally found in the bowel and throat that can cause deep. pus filled holes in tissue. Also see Streptothrix. 222*. 262*. 488*. 567*. 7880*
+freq 23000.00 180
+freq 222000.00 180
+freq 262000.00 180
+freq 2154000.00 180
+freq 465000.00 180
+freq 488000.00 180
+freq 567000.00 180
+freq 7880000.00 180
+freq 10000000.00 180
+freq 787000.00 180
+freq 747000.00 180
+freq 727000.00 180
+freq 20000.00 180
+freq 660000.00 180
+freq 690000.00 180
+freq 160000.00 180
+freq 73000.00 180
+freq 1100.00 180

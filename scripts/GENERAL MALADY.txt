@@ -1,0 +1,6 @@
+# GENERAL MALADY 9m
+# General_malady
+# 
+freq 40000000.00 180
+freq 10000000.00 180
+freq 5000000.00 180

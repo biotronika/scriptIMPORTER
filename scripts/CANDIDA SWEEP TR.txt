@@ -1,0 +1,3 @@
+# CANDIDA SWEEP TR 0m
+# Candida_sweep_TR
+# sweep from 12006.25 to 12137.5 by .03125 dwell 0.5 pulse 64 75

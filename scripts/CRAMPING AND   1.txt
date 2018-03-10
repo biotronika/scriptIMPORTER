@@ -1,0 +1,12 @@
+# CRAMPING AND   1 27m
+# Cramping_and_nausea
+# 
+freq 72000.00 180
+freq 95000.00 180
+freq 190000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180
+freq 4900.00 180

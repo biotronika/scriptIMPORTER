@@ -1,0 +1,4 @@
+# PENNYROYAL 3m
+# Pennyroyal
+# an herb
+freq 772000.00 180

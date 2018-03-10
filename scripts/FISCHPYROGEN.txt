@@ -1,0 +1,4 @@
+# FISCHPYROGEN 3m
+# Fischpyrogen
+# 
+freq 832000.00 180

@@ -1,0 +1,5 @@
+# CIRCULATION D  1 6m
+# Circulation_disturbances
+# 
+freq 40000.00 180
+freq 9390.00 180

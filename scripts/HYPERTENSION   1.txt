@@ -1,0 +1,5 @@
+# HYPERTENSION   1 6m
+# Hypertension_renin_induced
+# red high. diastolic high pressure. Also see Kidney freqs
+freq 9190.00 180
+freq 6000.00 180

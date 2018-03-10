@@ -1,0 +1,8 @@
+# LYME 4 15m
+# Lyme_4
+# use 2016 and 625 for 10 min. others for 5 min
+freq 2050000.00 180
+freq 1520000.00 180
+freq 615000.00 180
+freq 2016000.00 180
+freq 625000.00 180

@@ -1,0 +1,5 @@
+# DISTORTION 6m
+# Distortion
+# twisting of muscles. spine
+freq 9100.00 180
+freq 110000.00 180

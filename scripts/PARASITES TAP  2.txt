@@ -1,0 +1,8 @@
+# PARASITES TAP  2 15m
+# Parasites_tapeworms_echinococcinum
+# tapeworms found in dogs. wolves. cats. & rodents that can infect man. 5522*
+freq 164000.00 180
+freq 453000.00 180
+freq 542000.00 180
+freq 623000.00 180
+freq 5522000.00 180

@@ -1,0 +1,12 @@
+# PARASITES ANC  2 18m
+# Parasites_ancylostoma_caninum_HC
+# 
+freq 19914000.00 1
+scan 19915000.00 179
+freq 991500.00 180
+freq 19566000.00 1
+scan 19567000.00 179
+freq 974150.00 180
+freq 19217000.00 1
+scan 19218000.00 179
+freq 956800.00 180

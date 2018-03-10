@@ -1,0 +1,5 @@
+# VARICOSES 6m
+# Varicoses
+# 
+freq 1200.00 180
+freq 28000.00 180

@@ -1,0 +1,5 @@
+# PARVOVIRUS CA  2 6m
+# Parvovirus_canine_mutant_strain
+# 
+freq 323000.00 180
+freq 514000.00 180

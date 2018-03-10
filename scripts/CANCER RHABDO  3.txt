@@ -1,0 +1,6 @@
+# CANCER RHABDO  3 9m
+# Cancer_rhabdomyosarcoma_embryonal_v
+# 
+freq 2586000.00 180
+freq 5476000.00 180
+freq 4445000.00 180

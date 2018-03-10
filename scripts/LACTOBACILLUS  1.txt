@@ -1,0 +1,6 @@
+# LACTOBACILLUS  1 6m
+# Lactobacillus_acidophilus_HC
+# 
+freq 17375000.00 1
+scan 17376000.00 179
+freq 865080.00 180

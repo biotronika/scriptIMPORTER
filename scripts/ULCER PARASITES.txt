@@ -1,0 +1,8 @@
+# ULCER PARASITES 15m
+# Ulcer_parasites
+# 
+freq 3000.00 180
+freq 3500.00 180
+freq 4000.00 180
+freq 6800.00 180
+freq 9900.00 180

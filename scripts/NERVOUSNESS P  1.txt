@@ -1,0 +1,5 @@
+# NERVOUSNESS P  1 6m
+# Nervousness_Prozac_agitation
+# akathisia. See also Relaxation
+freq 3000.00 180
+freq 7830.00 180

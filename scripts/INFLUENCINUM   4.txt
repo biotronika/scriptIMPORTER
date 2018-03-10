@@ -1,0 +1,10 @@
+# INFLUENCINUM   4 21m
+# Influencinum_vesica_general
+# blisters
+freq 203000.00 180
+freq 292000.00 180
+freq 588000.00 180
+freq 612000.00 180
+freq 975000.00 180
+freq 407000.00 180
+freq 682000.00 180

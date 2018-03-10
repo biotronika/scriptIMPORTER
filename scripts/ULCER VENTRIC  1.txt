@@ -1,0 +1,5 @@
+# ULCER VENTRIC  1 6m
+# Ulcer_ventricular
+# 
+freq 769000.00 180
+freq 760000.00 180

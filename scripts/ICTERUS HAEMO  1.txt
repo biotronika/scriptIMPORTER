@@ -1,0 +1,5 @@
+# ICTERUS HAEMO  1 6m
+# Icterus_haemolytic
+# a chronic form of jaundice involving anemia
+freq 243000.00 180
+freq 768000.00 180

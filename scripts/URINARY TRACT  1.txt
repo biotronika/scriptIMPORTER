@@ -1,0 +1,15 @@
+# URINARY TRACT  1 36m
+# Urinary_Tract_Infections
+# also see Bacterium_coli sets
+freq 2050000.00 180
+freq 880000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 20000.00 180
+freq 9390.00 180
+freq 642000.00 180
+freq 358000.00 180
+freq 539000.00 180

@@ -1,0 +1,11 @@
+# PARASITES STR  1 24m
+# Parasites_strongyloides
+# threadworm. genus of roundworms
+freq 332000.00 180
+freq 422000.00 180
+freq 721000.00 180
+freq 732000.00 180
+freq 749000.00 180
+freq 942000.00 180
+freq 3212000.00 180
+freq 4412000.00 180

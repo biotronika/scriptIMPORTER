@@ -1,0 +1,10 @@
+# DIARRHEA 21m
+# Diarrhea
+# see also Colitis. Clostridium difficile. E. coli. and for chronic problems. giardia and IBS freqs. Also see Parasite general set if no relief.
+freq 1550000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 802000.00 180
+freq 786000.00 180
+freq 727000.00 180
+freq 465000.00 180

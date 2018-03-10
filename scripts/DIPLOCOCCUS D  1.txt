@@ -1,0 +1,6 @@
+# DIPLOCOCCUS D  1 6m
+# Diplococcus_diptheriae_HC
+# 
+freq 17973000.00 1
+scan 17974000.00 179
+freq 894830.00 180

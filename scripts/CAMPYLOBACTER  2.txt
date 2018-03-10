@@ -1,0 +1,6 @@
+# CAMPYLOBACTER  2 6m
+# Campylobacter_pyloridid_HC
+# 
+freq 17674000.00 1
+scan 17675000.00 179
+freq 879960.00 180

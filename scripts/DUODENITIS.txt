@@ -1,0 +1,4 @@
+# DUODENITIS 3m
+# Duodenitis
+# 
+freq 223000.00 180

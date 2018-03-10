@@ -1,0 +1,4 @@
+# LYMPH MOVER 3m
+# Lymph_mover
+# 
+freq 100000000.00 180

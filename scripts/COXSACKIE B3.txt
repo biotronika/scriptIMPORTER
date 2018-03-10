@@ -1,0 +1,8 @@
+# COXSACKIE B3 15m
+# Coxsackie_B3
+# 
+freq 612000.00 180
+freq 487000.00 180
+freq 868000.00 180
+freq 653000.00 180
+freq 654000.00 180

@@ -1,0 +1,7 @@
+# PARASITES TRI  1 6m
+# Parasites_trichinella_spiralis_HC
+# found in muscle
+freq 20138000.00 1
+scan 20139000.00 179
+freq 1002000.00 1
+scan 1003000.00 179

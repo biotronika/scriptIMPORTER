@@ -1,0 +1,15 @@
+# COLORS 36m
+# Colors
+# color decode from Jade Machine
+freq 2155000.00 180
+freq 2055000.00 180
+freq 960000.00 180
+freq 920000.00 180
+freq 858000.00 180
+freq 815000.00 180
+freq 800000.00 180
+freq 745000.00 180
+freq 677000.00 180
+freq 640000.00 180
+freq 624000.00 180
+freq 470000.00 180

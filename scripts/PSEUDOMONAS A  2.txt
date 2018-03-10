@@ -1,0 +1,6 @@
+# PSEUDOMONAS A  2 6m
+# Pseudomonas_ aeruginosa_HC
+# causes infection in open wounds
+freq 16579000.00 1
+scan 16580000.00 179
+freq 825420.00 180

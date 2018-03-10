@@ -1,0 +1,5 @@
+# INTELLIGENCE   1 6m
+# Intelligence_and_clarity_of_thought
+# 
+freq 20000.00 180
+freq 10000000.00 180

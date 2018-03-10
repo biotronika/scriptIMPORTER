@@ -1,0 +1,6 @@
+# FISSURES 9m
+# Fissures
+# 
+freq 787000.00 180
+freq 20000.00 180
+freq 10000000.00 180

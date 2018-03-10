@@ -1,0 +1,4 @@
+# CANCER LYMPHO  3 3m
+# Cancer_lymphosarcoma
+# 
+freq 482000.00 180

@@ -1,0 +1,4 @@
+# FUNGUS FOOT A  1 3m
+# Fungus_foot_and_general_1
+# use 1550 for 30min
+freq 1550000.00 180

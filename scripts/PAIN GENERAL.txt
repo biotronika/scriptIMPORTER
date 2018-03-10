@@ -1,0 +1,9 @@
+# PAIN GENERAL 18m
+# Pain_general
+# Also look under name of condition causing pain
+freq 3000000.00 180
+freq 2720000.00 180
+freq 95000.00 180
+freq 666000.00 180
+freq 80000.00 180
+freq 40000.00 180

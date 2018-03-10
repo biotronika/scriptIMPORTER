@@ -1,0 +1,5 @@
+# SLEEPING SICK  1 6m
+# Sleeping_sickness
+# 
+freq 120000.00 180
+freq 20000.00 180

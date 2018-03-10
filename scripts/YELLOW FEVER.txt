@@ -1,0 +1,13 @@
+# YELLOW FEVER 30m
+# Yellow_fever
+# a severe viral infection which can cause damage to the liver. kidneys. heart. and entire gastrointestinal tract
+freq 20000.00 180
+freq 142000.00 180
+freq 178000.00 180
+freq 232000.00 180
+freq 432000.00 180
+freq 734000.00 180
+freq 1187000.00 180
+freq 733000.00 180
+freq 779000.00 180
+freq 10000000.00 180

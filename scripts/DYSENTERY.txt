@@ -1,0 +1,6 @@
+# DYSENTERY 9m
+# Dysentery
+# acute diarrhea with blood and mucus. Also use Entamoeba histolytica. Salmonella. and Shigella
+freq 1552000.00 180
+freq 802000.00 180
+freq 832000.00 180

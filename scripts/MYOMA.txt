@@ -1,0 +1,7 @@
+# MYOMA 12m
+# Myoma
+# a benign tumor on the uterus
+freq 253000.00 180
+freq 420000.00 180
+freq 453000.00 180
+freq 832000.00 180

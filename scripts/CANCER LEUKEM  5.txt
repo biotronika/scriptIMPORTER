@@ -1,0 +1,8 @@
+# CANCER LEUKEM  5 15m
+# Cancer_leukemia_T_cell
+# 
+freq 222000.00 180
+freq 262000.00 180
+freq 822000.00 180
+freq 3042000.00 180
+freq 3734000.00 180

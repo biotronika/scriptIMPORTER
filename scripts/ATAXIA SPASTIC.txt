@@ -1,0 +1,6 @@
+# ATAXIA SPASTIC 9m
+# Ataxia_spastic
+# 
+freq 9190.00 180
+freq 8250.00 180
+freq 7690.00 180

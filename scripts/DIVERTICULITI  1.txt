@@ -1,0 +1,5 @@
+# DIVERTICULITI  1 6m
+# Diverticulitis_acute
+# see Intestines. inflammation. All freqs for 10 min
+freq 120000.00 180
+freq 500000.00 180

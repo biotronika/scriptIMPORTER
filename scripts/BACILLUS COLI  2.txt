@@ -1,0 +1,10 @@
+# BACILLUS COLI  2 21m
+# Bacillus_Coli_Virus
+# 
+freq 17220000.00 180
+freq 11103000.00 180
+freq 8581000.00 180
+freq 2872000.00 180
+freq 1722000.00 180
+freq 1552000.00 180
+freq 770000.00 180

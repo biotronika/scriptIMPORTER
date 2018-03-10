@@ -1,0 +1,6 @@
+# PARASITES STR  2 6m
+# Parasites_strongyloides_HC
+# filariform larva
+freq 19914000.00 1
+scan 19915000.00 179
+freq 991500.00 180

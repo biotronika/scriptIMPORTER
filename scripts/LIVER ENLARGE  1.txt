@@ -1,0 +1,6 @@
+# LIVER ENLARGE  1 9m
+# Liver_enlargement
+# 
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180

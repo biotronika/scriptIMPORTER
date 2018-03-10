@@ -1,0 +1,11 @@
+# PARASITES FLU  1 24m
+# Parasites_flukes_blood
+# 
+freq 847000.00 180
+freq 867000.00 180
+freq 329000.00 180
+freq 419000.00 180
+freq 635000.00 180
+freq 7391000.00 180
+freq 5516000.00 180
+freq 9889000.00 180

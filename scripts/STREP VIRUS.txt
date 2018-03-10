@@ -1,0 +1,6 @@
+# STREP VIRUS 9m
+# Strep_virus
+# 
+freq 563000.00 180
+freq 611000.00 180
+freq 727000.00 180

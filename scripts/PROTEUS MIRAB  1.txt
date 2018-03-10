@@ -1,0 +1,6 @@
+# PROTEUS MIRAB  1 6m
+# Proteus_mirabilis_HC
+# 
+freq 16131000.00 1
+scan 16132000.00 179
+freq 803120.00 180

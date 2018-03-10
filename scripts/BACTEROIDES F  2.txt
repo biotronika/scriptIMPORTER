@@ -1,0 +1,9 @@
+# BACTEROIDES F  2 12m
+# Bacteroides_fragilis_HC
+# 
+freq 16180000.00 1
+scan 16181000.00 179
+freq 16230000.00 1
+scan 16231000.00 179
+freq 808070.00 180
+freq 805590.00 180

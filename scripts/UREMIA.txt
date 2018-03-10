@@ -1,0 +1,4 @@
+# UREMIA 3m
+# Uremia
+# also known as uremic poisoning; excessive amounts of nitrogenous waste products in the blood. as seen in kidney failure. Also use Kidney and Lymph stasis freqs.
+freq 911000.00 180

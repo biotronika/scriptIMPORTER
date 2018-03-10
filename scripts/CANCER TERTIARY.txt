@@ -1,0 +1,8 @@
+# CANCER TERTIARY 15m
+# Cancer_tertiary
+# 
+freq 20000.00 180
+freq 421000.00 180
+freq 965000.00 180
+freq 50000.00 180
+freq 383000.00 180

@@ -1,0 +1,7 @@
+# HEART GENERAL 12m
+# Heart_general
+# 
+freq 20000.00 180
+freq 81000.00 180
+freq 162000.00 180
+freq 5000000.00 180

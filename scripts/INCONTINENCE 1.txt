@@ -1,0 +1,8 @@
+# INCONTINENCE 1 15m
+# Incontinence_1
+# use all freqs for 10 min
+freq 2250000.00 180
+freq 2050000.00 180
+freq 2128000.00 180
+freq 690000.00 180
+freq 666000.00 180

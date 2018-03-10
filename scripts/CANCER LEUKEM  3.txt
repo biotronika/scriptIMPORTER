@@ -1,0 +1,5 @@
+# CANCER LEUKEM  3 6m
+# Cancer_leukemia_lymphatic
+# 
+freq 478000.00 180
+freq 833000.00 180

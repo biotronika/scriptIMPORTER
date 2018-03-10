@@ -1,0 +1,4 @@
+# BLEPHARISMA 3m
+# Blepharisma
+# 
+freq 3120000.00 180

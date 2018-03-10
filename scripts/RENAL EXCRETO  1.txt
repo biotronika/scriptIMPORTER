@@ -1,0 +1,4 @@
+# RENAL EXCRETO  1 3m
+# Renal_excretory_insufficiency_diastolic_hypertensive
+# also see Kidney insufficiency
+freq 9200.00 180

@@ -1,0 +1,5 @@
+# HUMAN T LYMPH  4 6m
+# Human_T_lymphocyte_Virus4
+# 
+freq 444000.00 180
+freq 2323000.00 180

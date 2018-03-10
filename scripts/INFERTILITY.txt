@@ -1,0 +1,16 @@
+# INFERTILITY 39m
+# Infertility
+# see also Impotence
+freq 2127000.00 180
+freq 2008000.00 180
+freq 465000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180
+freq 9390.00 180

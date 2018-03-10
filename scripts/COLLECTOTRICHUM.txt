@@ -1,0 +1,4 @@
+# COLLECTOTRICHUM 3m
+# Collectotrichum
+# 
+freq 1482000.00 180

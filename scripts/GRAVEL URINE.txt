@@ -1,0 +1,9 @@
+# GRAVEL URINE 18m
+# Gravel_urine
+# 
+freq 2650.00 180
+freq 3000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

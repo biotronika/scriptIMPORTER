@@ -1,0 +1,4 @@
+# ANAPHYLAXIS 3m
+# Anaphylaxis
+# 
+freq 10000000.00 180

@@ -1,0 +1,6 @@
+# AIDS SECONDARY 9m
+# AIDS_secondary
+# use 1113 for 12 min. 2128 for 16 min. 6121 for 21 min. 33 for 1 min
+freq 1113000.00 180
+freq 2128000.00 180
+freq 6121000.00 180

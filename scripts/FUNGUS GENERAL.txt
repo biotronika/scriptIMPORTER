@@ -1,0 +1,20 @@
+# FUNGUS GENERAL 51m
+# Fungus_general
+# also see candida. yeast. and other specific types
+freq 2222000.00 180
+freq 1552000.00 180
+freq 1550000.00 180
+freq 1153000.00 180
+freq 1134000.00 180
+freq 1016000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 784000.00 180
+freq 727000.00 180
+freq 582000.00 180
+freq 465000.00 180
+freq 422000.00 180
+freq 254000.00 180
+freq 72000.00 180
+freq 20000.00 180

@@ -1,0 +1,19 @@
+# ATHLETES FOOT 48m
+# Athletes_foot
+# also see Epidermophyton floccinum. Tinea. and Trichophyton rubrum freqs. Use all freqs for 5 min
+freq 20000.00 180
+freq 379000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 5000000.00 180
+freq 644000.00 180
+freq 766000.00 180
+freq 464000.00 180
+freq 802000.00 180
+freq 1552000.00 180
+freq 9999000.00 180
+freq 752000.00 180
+freq 923000.00 180
+freq 3176000.00 180
+freq 304000.00 180

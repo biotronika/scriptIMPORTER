@@ -1,0 +1,6 @@
+# PARASITES ANC  1 6m
+# Parasites_ancylostoma_braziliense_HC
+# Dog and cat hookworm. the larva of which is the most common cause of cutaneous larva migrans aka creeping eruption. Also see Parasites hookworm
+freq 19964000.00 1
+scan 19965000.00 179
+freq 993980.00 180

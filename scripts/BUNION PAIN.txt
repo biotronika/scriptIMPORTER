@@ -1,0 +1,4 @@
+# BUNION PAIN 3m
+# Bunion_pain
+# 
+freq 20000.00 180

@@ -1,0 +1,7 @@
+# FELON 1 12m
+# Felon_1
+# pus. infection of finger tips
+freq 657000.00 180
+freq 659000.00 180
+freq 738000.00 180
+freq 751000.00 180

@@ -1,0 +1,6 @@
+# CHLAMYDIA TRA  2 6m
+# Chlamydia_trachomatis_HC
+# 
+freq 18968000.00 1
+scan 18969000.00 179
+freq 944400.00 180

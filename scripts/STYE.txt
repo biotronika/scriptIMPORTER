@@ -1,0 +1,10 @@
+# STYE 21m
+# Stye
+# staph infection of sebaceous gland of eyelash. Also use Staphylococci infection set
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180
+freq 453000.00 180
+freq 2600000.00 180

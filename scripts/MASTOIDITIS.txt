@@ -1,0 +1,4 @@
+# MASTOIDITIS 3m
+# Mastoiditis
+# inflammation of the bony structure of the head in the region of the ears below the eyes
+freq 287000.00 180

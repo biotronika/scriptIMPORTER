@@ -1,0 +1,5 @@
+# PROSTATITIS 1 6m
+# Prostatitis_1
+# use 2050 and 2250 for 15 min
+freq 2050000.00 180
+freq 2250000.00 180

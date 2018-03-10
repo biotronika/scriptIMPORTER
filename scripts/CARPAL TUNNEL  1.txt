@@ -1,0 +1,5 @@
+# CARPAL TUNNEL  1 6m
+# Carpal_tunnel_secondary
+# also use Arthritis
+freq 2008000.00 180
+freq 666000.00 180

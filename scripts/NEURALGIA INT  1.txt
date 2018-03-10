@@ -1,0 +1,4 @@
+# NEURALGIA INT  1 3m
+# Neuralgia_intercostal
+# 
+freq 802000.00 180

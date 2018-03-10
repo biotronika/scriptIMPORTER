@@ -1,0 +1,12 @@
+# EPSTEIN BARR   2 27m
+# Epstein_Barr_virus_secondary
+# also try General parasite and roundworm freqs
+freq 744000.00 180
+freq 776000.00 180
+freq 778000.00 180
+freq 465000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 1032000.00 180
+freq 1920000.00 180

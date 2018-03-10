@@ -1,0 +1,6 @@
+# BACTERIUM COLI 9m
+# Bacterium_coli
+# a type of E. coli normally found in the intestines. water. milk. and soil that is the most frequent cause of urinary-tract infections and a common cause of wound infection
+freq 642000.00 180
+freq 358000.00 180
+freq 539000.00 180

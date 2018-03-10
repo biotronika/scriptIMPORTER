@@ -1,0 +1,14 @@
+# HELICOBACTER   1 33m
+# Helicobacter_pylori
+# ulcer. Run 676 for 10 min. 676*
+freq 2950000.00 180
+freq 2819000.00 180
+freq 2779000.00 180
+freq 2167000.00 180
+freq 880000.00 180
+freq 728000.00 180
+freq 705000.00 180
+freq 695000.00 180
+freq 676000.00 180
+freq 352000.00 180
+freq 347000.00 180

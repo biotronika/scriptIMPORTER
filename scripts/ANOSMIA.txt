@@ -1,0 +1,5 @@
+# ANOSMIA 6m
+# Anosmia
+# loss of smell
+freq 20000.00 180
+freq 10000000.00 180

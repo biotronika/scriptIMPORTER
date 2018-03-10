@@ -1,0 +1,7 @@
+# PYROGENIUM EX  1 12m
+# Pyrogenium_ex_ovo
+# 
+freq 231000.00 180
+freq 1244000.00 180
+freq 1210000.00 180
+freq 1216000.00 180

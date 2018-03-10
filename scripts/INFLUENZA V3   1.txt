@@ -1,0 +1,5 @@
+# INFLUENZA V3   1 6m
+# Influenza_V3_grippe
+# 
+freq 550000.00 180
+freq 553000.00 180

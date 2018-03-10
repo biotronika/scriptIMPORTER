@@ -1,0 +1,5 @@
+# ARNICA 6m
+# Arnica
+# a topical healing herb
+freq 1042000.00 180
+freq 1032000.00 180

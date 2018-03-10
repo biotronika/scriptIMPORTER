@@ -1,0 +1,6 @@
+# SHIGELLA FLEX  1 6m
+# Shigella_flexneri_HC
+# causes depression
+freq 19616000.00 1
+scan 19617000.00 179
+freq 976630.00 180

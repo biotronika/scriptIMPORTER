@@ -1,0 +1,12 @@
+# LYME TERTIARY 27m
+# Lyme_tertiary
+# 
+freq 306000.00 180
+freq 432000.00 180
+freq 484000.00 180
+freq 610000.00 180
+freq 625000.00 180
+freq 690000.00 180
+freq 864000.00 180
+freq 2016000.00 180
+freq 790000.00 180

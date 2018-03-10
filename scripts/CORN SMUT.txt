@@ -1,0 +1,6 @@
+# CORN SMUT 9m
+# Corn_smut
+# 
+freq 546000.00 180
+freq 1642000.00 180
+freq 289000.00 180

@@ -1,0 +1,6 @@
+# COXSACKIE B1 HC 6m
+# Coxsackie_B1_HC
+# 
+freq 18122000.00 1
+scan 18123000.00 179
+freq 902270.00 180

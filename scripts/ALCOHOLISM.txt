@@ -1,0 +1,4 @@
+# ALCOHOLISM 3m
+# Alcoholism
+# 
+freq 10000000.00 180

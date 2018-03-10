@@ -1,0 +1,4 @@
+# PARACELI 3m
+# Paraceli
+# 
+freq 232000.00 180

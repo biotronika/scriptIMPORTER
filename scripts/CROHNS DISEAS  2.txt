@@ -1,0 +1,6 @@
+# CROHNS DISEAS  2 9m
+# Crohns_disease_viroid_1
+# 
+freq 585000.00 180
+freq 593000.00 180
+freq 600000.00 180

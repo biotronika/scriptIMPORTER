@@ -1,0 +1,6 @@
+# PARASITES SCH  1 9m
+# Parasites_schistosoma_haematobium
+# blood flukes
+freq 847000.00 180
+freq 867000.00 180
+freq 635000.00 180

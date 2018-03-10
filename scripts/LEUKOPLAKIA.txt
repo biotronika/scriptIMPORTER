@@ -1,0 +1,9 @@
+# LEUKOPLAKIA 18m
+# Leukoplakia
+# white patches on mucous membranes. also see EBV. Papilloma. and Cancer. carcinoma freqs
+freq 465000.00 180
+freq 2127000.00 180
+freq 2008000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180

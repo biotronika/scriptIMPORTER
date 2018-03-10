@@ -1,0 +1,5 @@
+# PARASITES FLU  6 6m
+# Parasites_flukes_lymph
+# 
+freq 10050000.00 180
+freq 157000.00 180

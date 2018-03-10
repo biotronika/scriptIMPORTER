@@ -1,0 +1,4 @@
+# CANCER GASTRI  1 3m
+# Cancer_gastric_adenocarcinoma
+# 
+freq 676000.00 180

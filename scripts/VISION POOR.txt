@@ -1,0 +1,6 @@
+# VISION POOR 9m
+# Vision_poor
+# see also Cataracts. Run 1830 for 15 minutes.
+freq 350000.00 180
+freq 360000.00 180
+freq 1830000.00 180

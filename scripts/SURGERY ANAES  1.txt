@@ -1,0 +1,5 @@
+# SURGERY ANAES  1 6m
+# Surgery_anaesthesia_detox
+# see also Liver support
+freq 522000.00 180
+freq 146000.00 180

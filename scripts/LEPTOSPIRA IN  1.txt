@@ -1,0 +1,6 @@
+# LEPTOSPIRA IN  1 6m
+# Leptospira_interrogans_HC
+# 
+freq 19865000.00 1
+scan 19866000.00 179
+freq 989020.00 180

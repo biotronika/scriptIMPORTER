@@ -1,0 +1,6 @@
+# INFLUENZA VIR  7 9m
+# Influenza_virus_A
+# 
+freq 322000.00 180
+freq 332000.00 180
+freq 776000.00 180

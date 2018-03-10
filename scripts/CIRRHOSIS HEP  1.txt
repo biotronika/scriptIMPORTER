@@ -1,0 +1,4 @@
+# CIRRHOSIS HEP  1 3m
+# Cirrhosis_hepatitis
+# 
+freq 291000.00 180

@@ -1,0 +1,4 @@
+# PALSY GENERAL 3m
+# Palsy_general
+# 
+freq 10000000.00 180

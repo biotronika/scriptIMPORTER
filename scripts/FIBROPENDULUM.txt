@@ -1,0 +1,8 @@
+# FIBROPENDULUM 15m
+# Fibropendulum
+# 
+freq 661000.00 180
+freq 7465000.00 180
+freq 211000.00 180
+freq 233000.00 180
+freq 766000.00 180

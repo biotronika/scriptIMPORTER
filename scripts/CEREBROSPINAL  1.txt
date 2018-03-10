@@ -1,0 +1,4 @@
+# CEREBROSPINAL  1 3m
+# Cerebrospinal_troubles
+# 
+freq 10000000.00 180

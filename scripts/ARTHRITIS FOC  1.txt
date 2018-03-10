@@ -1,0 +1,4 @@
+# ARTHRITIS FOC  1 3m
+# Arthritis_focal_origin_gastrogenic_tonsiltogenic_and_paresis
+# 
+freq 9390.00 180

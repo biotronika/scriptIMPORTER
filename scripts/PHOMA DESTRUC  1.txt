@@ -1,0 +1,6 @@
+# PHOMA DESTRUC  1 9m
+# Phoma_Destructiva
+# homeopathic
+freq 163000.00 180
+freq 815000.00 180
+freq 621000.00 180

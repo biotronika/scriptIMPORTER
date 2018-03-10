@@ -1,0 +1,15 @@
+# IMMUNE SYSTEM  1 36m
+# Immune_system_stabilization_TR
+# 
+freq 330000.00 180
+freq 10000000.00 180
+freq 7344000.00 180
+freq 5000000.00 180
+freq 1550000.00 180
+freq 1234000.00 180
+freq 740000.00 180
+freq 880000.00 180
+freq 835000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 30000.00 180

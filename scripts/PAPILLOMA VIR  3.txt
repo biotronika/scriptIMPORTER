@@ -1,0 +1,7 @@
+# PAPILLOMA VIR  3 6m
+# Papilloma_virus_wart_HC
+# 
+freq 20263000.00 1
+scan 20264000.00 179
+freq 1008000.00 1
+scan 1009000.00 179

@@ -1,0 +1,5 @@
+# ASPERGILLUS N  1 6m
+# Aspergillus_niger
+# common mold that may produce severe and persistent infection
+freq 374000.00 180
+freq 697000.00 180

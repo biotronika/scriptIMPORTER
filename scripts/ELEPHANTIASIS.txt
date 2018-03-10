@@ -1,0 +1,7 @@
+# ELEPHANTIASIS 12m
+# Elephantiasis
+# use with parasite. esp roundworm and nematode freqs
+freq 623000.00 180
+freq 824000.00 180
+freq 865000.00 180
+freq 710000.00 180

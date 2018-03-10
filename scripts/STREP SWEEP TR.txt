@@ -1,0 +1,3 @@
+# STREP SWEEP TR 0m
+# Strep_sweep_TR
+# sweep for strep pneumonia. group G. and pyogenes strains. Sweep from 5632.8152 to 5763 by 0.015625 and 5763 to 6053.125 by 0.03125 for dwell 0.25 and pulse 64 75

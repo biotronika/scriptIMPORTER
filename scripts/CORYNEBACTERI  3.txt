@@ -1,0 +1,6 @@
+# CORYNEBACTERI  3 6m
+# Corynebacterium_xerosis_HC
+# 
+freq 15732000.00 1
+scan 15733000.00 179
+freq 783290.00 180

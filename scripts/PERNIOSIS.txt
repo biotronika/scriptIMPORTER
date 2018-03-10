@@ -1,0 +1,9 @@
+# PERNIOSIS 18m
+# Perniosis
+# chillbains. A disorder of the blood vessels caused by prolonged exposure to cold and characterized by skin lesions on the lower legs. hands. toes. feet. ears and face
+freq 20000.00 180
+freq 232000.00 180
+freq 622000.00 180
+freq 822000.00 180
+freq 4211000.00 180
+freq 2112000.00 180

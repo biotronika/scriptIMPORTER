@@ -1,0 +1,6 @@
+# ENDOMETRIOSIS  1 9m
+# Endometriosis_chronic
+# growth of uterine tissue outside the uterus that may cause pain. infertility. & abnormal uterine bleeding. Use with Parasites. flukes. general
+freq 246000.00 180
+freq 800000.00 180
+freq 1550000.00 180

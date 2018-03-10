@@ -1,0 +1,4 @@
+# UTERINE POLYP 3m
+# Uterine_polyp
+# 
+freq 689000.00 180

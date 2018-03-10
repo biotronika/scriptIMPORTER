@@ -1,0 +1,6 @@
+# HISTOPLASMA 9m
+# Histoplasma
+# 
+freq 424000.00 180
+freq 616000.00 180
+freq 749000.00 180

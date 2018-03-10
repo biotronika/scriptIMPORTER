@@ -1,0 +1,5 @@
+# DEPRESSION DR  1 6m
+# Depression_drugs_or_toxins
+# 
+freq 1100.00 180
+freq 73000.00 180

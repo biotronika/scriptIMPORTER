@@ -1,0 +1,6 @@
+# ELECTROLYTE L  1 9m
+# Electrolyte_levels
+# to improve
+freq 8100.00 180
+freq 20000.00 180
+freq 10000000.00 180

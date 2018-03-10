@@ -1,0 +1,5 @@
+# LYMPH PLAQUE 6m
+# Lymph_plaque
+# 
+freq 596000.00 180
+freq 346000.00 180

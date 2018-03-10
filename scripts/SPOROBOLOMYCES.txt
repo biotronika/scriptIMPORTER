@@ -1,0 +1,5 @@
+# SPOROBOLOMYCES 6m
+# Sporobolomyces
+# 
+freq 753000.00 180
+freq 700000.00 180

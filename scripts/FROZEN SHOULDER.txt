@@ -1,0 +1,9 @@
+# FROZEN SHOULDER 18m
+# Frozen_shoulder
+# also use strep pneumonia if necessary
+freq 10000000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 766000.00 180
+freq 727000.00 180

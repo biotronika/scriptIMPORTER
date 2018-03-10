@@ -1,0 +1,22 @@
+# CHEMTRAIL DETOX 57m
+# Chemtrail_detox
+# can also be useful for lung and sinus problems. All freqs for 5 min
+freq 664000.00 180
+freq 7344000.00 180
+freq 2842000.00 180
+freq 1147000.00 180
+freq 686600.00 180
+freq 684100.00 180
+freq 1113000.00 180
+freq 779900.00 180
+freq 829300.00 180
+freq 679200.00 180
+freq 865000.00 180
+freq 969900.00 180
+freq 1067000.00 180
+freq 783600.00 180
+freq 800400.00 180
+freq 1045000.00 180
+freq 1062000.00 180
+freq 673900.00 180
+freq 690700.00 180

@@ -1,0 +1,6 @@
+# MENINGIOMA 9m
+# Meningioma
+# a benign. slow-growing tumor of the membranes that envelop the brain and spinal cord
+freq 446000.00 180
+freq 535000.00 180
+freq 537000.00 180

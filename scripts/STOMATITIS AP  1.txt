@@ -1,0 +1,12 @@
+# STOMATITIS AP  1 27m
+# Stomatitis_aphthous
+# ulcers on mucous membrane of mouth. Also called canker sores. All freqs for 5 min
+freq 478000.00 180
+freq 487000.00 180
+freq 498000.00 180
+freq 788000.00 180
+freq 955000.00 180
+freq 982000.00 180
+freq 1902000.00 180
+freq 1904000.00 180
+freq 1906000.00 180

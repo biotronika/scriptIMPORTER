@@ -1,0 +1,5 @@
+# PARADONTOSE 6m
+# Paradontose
+# 
+freq 424000.00 180
+freq 1552000.00 180

@@ -1,0 +1,5 @@
+# ASPERGILLUS T  1 6m
+# Aspergillus_terreus
+# mold occasionally associated with infection of the bronchi and lungs
+freq 743000.00 180
+freq 339000.00 180

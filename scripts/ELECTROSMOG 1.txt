@@ -1,0 +1,4 @@
+# ELECTROSMOG 1 3m
+# Electrosmog_1
+# 
+freq 99500.00 180

@@ -1,0 +1,7 @@
+# COXSACKIE B4 12m
+# Coxsackie_B4
+# 
+freq 421000.00 180
+freq 353000.00 180
+freq 540000.00 180
+freq 8632000.00 180

@@ -1,0 +1,7 @@
+# TOBACCO MOSAI  1 6m
+# Tobacco_mosaic_virus_HC
+# 
+freq 21308000.00 1
+scan 21309000.00 179
+freq 1060000.00 1
+scan 1061000.00 179

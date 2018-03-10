@@ -1,0 +1,4 @@
+# LYME 5 3m
+# Lyme_5
+# use 920 for 10 min
+freq 920000.00 180

@@ -1,0 +1,5 @@
+# TASTE LACK OF 6m
+# Taste_lack_of
+# 
+freq 10000000.00 180
+freq 20000.00 180

@@ -1,0 +1,5 @@
+# HEMOBARTINELL  1 6m
+# Hemobartinella_felis
+# 
+freq 603000.00 180
+freq 957000.00 180

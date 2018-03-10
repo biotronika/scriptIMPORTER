@@ -1,0 +1,15 @@
+# PARASITES TRY  3 18m
+# Parasites_trypanosoma_equiperdum_HC
+# 
+freq 22055000.00 1
+scan 22056000.00 179
+freq 1098000.00 1
+scan 1099000.00 179
+freq 22005000.00 1
+scan 22006000.00 179
+freq 1095000.00 1
+scan 1096000.00 179
+freq 21707000.00 1
+scan 21708000.00 179
+freq 1080000.00 1
+scan 1081000.00 179

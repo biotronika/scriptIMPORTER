@@ -1,0 +1,7 @@
+# BLEPHARISMA HC 6m
+# Blepharisma_HC
+# 
+freq 20238000.00 1
+scan 20239000.00 179
+freq 1007000.00 1
+scan 1008000.00 179

@@ -1,0 +1,12 @@
+# PLANETARY ORBITS 27m
+# Planetary_orbits
+# brainwave freqs. from mercury to pluto
+freq 141270.00 180
+freq 221230.00 180
+freq 272200.00 180
+freq 144720.00 180
+freq 183580.00 180
+freq 295700.00 180
+freq 414700.00 180
+freq 422800.00 180
+freq 280500.00 180

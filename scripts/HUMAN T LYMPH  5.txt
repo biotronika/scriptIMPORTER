@@ -1,0 +1,10 @@
+# HUMAN T LYMPH  5 21m
+# Human_T_lymphocyte_Virus5
+# 
+freq 83000.00 180
+freq 235000.00 180
+freq 645000.00 180
+freq 2323000.00 180
+freq 3432000.00 180
+freq 4093000.00 180
+freq 5532000.00 180

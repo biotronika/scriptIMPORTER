@@ -1,0 +1,4 @@
+# BLUE COHOSH 3m
+# Blue_cohosh
+# a healing herb
+freq 364000.00 180

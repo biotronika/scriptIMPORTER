@@ -1,0 +1,6 @@
+# ACONITE 9m
+# Aconite
+# used to stimulate lymphocyte production
+freq 3347000.00 180
+freq 5611000.00 180
+freq 2791000.00 180

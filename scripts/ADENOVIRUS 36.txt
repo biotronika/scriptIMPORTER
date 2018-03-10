@@ -1,0 +1,7 @@
+# ADENOVIRUS 36 12m
+# Adenovirus_36
+# AD-36 may be related to weight gain in some cases
+freq 8875000.00 180
+freq 6140000.00 180
+freq 5859000.00 180
+freq 5797000.00 180

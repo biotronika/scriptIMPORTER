@@ -1,0 +1,13 @@
+# ARTHRITIS RHE  1 30m
+# Arthritis_rheumatoid
+# Cause could be bacteria like strep pneumoniae. chlamydia pneumonia. mycoplasma fermentans. or dental bacteria which must be addressed too. Also try General antiseptic and Parasites roundworms general if no response. Use 766 longer periods after building up.
+freq 250000.00 180
+freq 1200.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 262000.00 180
+freq 776000.00 180
+freq 766000.00 180

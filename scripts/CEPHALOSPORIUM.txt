@@ -1,0 +1,6 @@
+# CEPHALOSPORIUM 9m
+# Cephalosporium
+# fungi that are the source of some broad spectrum antibiotics
+freq 481000.00 180
+freq 3966000.00 180
+freq 544000.00 180

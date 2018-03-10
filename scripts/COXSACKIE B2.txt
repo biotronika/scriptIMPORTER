@@ -1,0 +1,6 @@
+# COXSACKIE B2 9m
+# Coxsackie_B2
+# 
+freq 705000.00 180
+freq 534000.00 180
+freq 867000.00 180

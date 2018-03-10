@@ -1,0 +1,10 @@
+# PYODERMA 21m
+# Pyoderma
+# or Pyoderma Gangrenosum; a rare skin disorder of unknown cause. Small pustules develop into large ulcers at various sites on the body. Also see Parasites general and General antiseptic
+freq 123000.00 180
+freq 132000.00 180
+freq 967000.00 180
+freq 974000.00 180
+freq 1556000.00 180
+freq 1489000.00 180
+freq 663000.00 180

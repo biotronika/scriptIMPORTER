@@ -1,0 +1,13 @@
+# PERIODONTAL D  1 30m
+# Periodontal_disease
+# see also osteo and dental infection freqs
+freq 47500.00 180
+freq 1800000.00 180
+freq 1600000.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180

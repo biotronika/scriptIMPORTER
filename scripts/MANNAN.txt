@@ -1,0 +1,5 @@
+# MANNAN 6m
+# Mannan
+# 
+freq 961000.00 180
+freq 661000.00 180

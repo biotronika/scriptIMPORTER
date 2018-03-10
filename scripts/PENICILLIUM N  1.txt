@@ -1,0 +1,5 @@
+# PENICILLIUM N  1 6m
+# Penicillium_notatum
+# 
+freq 334000.00 180
+freq 629000.00 180

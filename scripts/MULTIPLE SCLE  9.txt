@@ -1,0 +1,16 @@
+# MULTIPLE SCLE  9 39m
+# Multiple_sclerosis_myelin_sheath_repair
+# 
+freq 4400.00 180
+freq 8000.00 180
+freq 9400.00 180
+freq 9500.00 180
+freq 9800.00 180
+freq 12600.00 180
+freq 13300.00 180
+freq 14200.00 180
+freq 14400.00 180
+freq 14800.00 180
+freq 225000.00 180
+freq 259000.00 180
+freq 280000.00 180

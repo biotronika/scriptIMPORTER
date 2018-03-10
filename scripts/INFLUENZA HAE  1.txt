@@ -1,0 +1,11 @@
+# INFLUENZA HAE  1 21m
+# Influenza_haemophilus
+# 
+freq 542000.00 180
+freq 552000.00 180
+freq 885000.00 180
+freq 959000.00 180
+freq 734000.00 180
+freq 633100.00 180
+freq 2532000.00 1
+scan 2533000.00 179

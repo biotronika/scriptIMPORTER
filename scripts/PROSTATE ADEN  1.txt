@@ -1,0 +1,8 @@
+# PROSTATE ADEN  1 15m
+# Prostate_adenominum
+# 
+freq 442000.00 180
+freq 688000.00 180
+freq 1875000.00 180
+freq 748000.00 180
+freq 766000.00 180

@@ -1,0 +1,5 @@
+# DETOX ASSIST 6m
+# Detox_assist
+# 
+freq 10000000.00 180
+freq 3176000.00 180

@@ -1,0 +1,32 @@
+# E COLI 87m
+# E_coli
+# Escherichia coli; can cause infections in wounds and the urinary tract. If using these leads to common cold symptoms. follow with Adenovirus freqs. 800/802*. 1550/1552*
+freq 7849000.00 180
+freq 7847000.00 180
+freq 1730000.00 180
+freq 1722000.00 180
+freq 1552000.00 180
+freq 1550000.00 180
+freq 1320000.00 180
+freq 1244000.00 180
+freq 1000000.00 180
+freq 957000.00 180
+freq 934000.00 180
+freq 856000.00 180
+freq 840000.00 180
+freq 832000.00 180
+freq 804000.00 180
+freq 802000.00 180
+freq 800000.00 180
+freq 799000.00 180
+freq 776000.00 180
+freq 642000.00 180
+freq 634000.00 180
+freq 556000.00 180
+freq 548000.00 180
+freq 413000.00 180
+freq 333000.00 180
+freq 330000.00 180
+freq 327000.00 180
+freq 289000.00 180
+freq 282000.00 180

@@ -1,0 +1,4 @@
+# TRICHODERMIA 3m
+# Trichodermia
+# 
+freq 711000.00 180

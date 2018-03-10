@@ -1,0 +1,4 @@
+# WHEAT STEM RU  1 3m
+# Wheat_stem_rust_1
+# 
+freq 643000.00 180

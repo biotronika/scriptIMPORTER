@@ -1,0 +1,4 @@
+# CYST OVARIAN 3m
+# Cyst_ovarian
+# 
+freq 982000.00 180

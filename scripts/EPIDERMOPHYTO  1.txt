@@ -1,0 +1,9 @@
+# EPIDERMOPHYTO  1 18m
+# Epidermophyton_floccinum
+# fungus that attacks skin & nails. including some athlete's foot and jock itch ringworms. Also use Microsporum freqs and Fungal general if necessary.
+freq 22107000.00 180
+freq 465000.00 180
+freq 784000.00 180
+freq 644000.00 180
+freq 766000.00 180
+freq 345000.00 180

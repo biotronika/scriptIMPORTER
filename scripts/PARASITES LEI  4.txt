@@ -1,0 +1,6 @@
+# PARASITES LEI  4 6m
+# Parasites_leishmania_donovani_HC
+# 
+freq 19914000.00 1
+scan 19915000.00 179
+freq 991500.00 180

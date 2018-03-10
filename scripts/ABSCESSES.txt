@@ -1,0 +1,14 @@
+# ABSCESSES 33m
+# Abscesses
+# also use Staphylococcus aureus and see Listeriose
+freq 2720000.00 180
+freq 2170000.00 180
+freq 1865000.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 500000.00 180
+freq 444000.00 180
+freq 190000.00 180

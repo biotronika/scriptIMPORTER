@@ -1,0 +1,3 @@
+# RHEUMATOID AR  1 0m
+# Rheumatoid_arthritis
+# use Arthritis_rheumatoid

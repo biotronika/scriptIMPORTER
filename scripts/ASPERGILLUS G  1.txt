@@ -1,0 +1,12 @@
+# ASPERGILLUS G  1 27m
+# Aspergillus_general
+# 
+freq 1972000.00 180
+freq 1823000.00 180
+freq 758000.00 180
+freq 743000.00 180
+freq 697000.00 180
+freq 524000.00 180
+freq 374000.00 180
+freq 339000.00 180
+freq 247000.00 180

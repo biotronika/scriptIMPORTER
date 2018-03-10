@@ -1,0 +1,4 @@
+# INFLUENZUM TO  1 3m
+# Influenzum_toxicum
+# 
+freq 854000.00 180

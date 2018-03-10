@@ -1,0 +1,7 @@
+# BC G VACCINE 12m
+# BC_G_Vaccine
+# 
+freq 277000.00 180
+freq 768000.00 180
+freq 832000.00 180
+freq 725000.00 180

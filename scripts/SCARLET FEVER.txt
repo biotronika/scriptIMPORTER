@@ -1,0 +1,9 @@
+# SCARLET FEVER 18m
+# Scarlet_fever
+# 
+freq 437000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180

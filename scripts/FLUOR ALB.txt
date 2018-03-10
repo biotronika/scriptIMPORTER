@@ -1,0 +1,9 @@
+# FLUOR ALB 18m
+# Fluor_Alb
+# homeopathic cell salt
+freq 110000.00 180
+freq 342000.00 180
+freq 420000.00 180
+freq 423000.00 180
+freq 688000.00 180
+freq 757000.00 180

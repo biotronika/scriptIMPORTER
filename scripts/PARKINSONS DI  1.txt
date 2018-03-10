@@ -1,0 +1,11 @@
+# PARKINSONS DI  1 24m
+# Parkinsons_disease
+# a slowly progressive. degenerative. neurologic disorder. also use Mycoplasma fermentans. try Chlamydia pneumoniae. and see Nocardia asteroides freqs. Use 33 for 30 min. 33*
+freq 470000.00 180
+freq 693000.00 180
+freq 813000.00 180
+freq 1100.00 180
+freq 5000000.00 180
+freq 6000000.00 180
+freq 1131000.00 180
+freq 33000.00 180

@@ -1,0 +1,4 @@
+# COMEDONES 3m
+# Comedones
+# blackhead
+freq 778000.00 180

@@ -1,0 +1,7 @@
+# DIENTAMOEBA F  1 6m
+# Dientamoeba_fragilis_HC
+# 
+freq 20113000.00 1
+scan 20114000.00 179
+freq 1001000.00 1
+scan 1002000.00 179

@@ -1,0 +1,5 @@
+# WELLNESS 6m
+# Wellness
+# 
+freq 6800.00 180
+freq 7830.00 180

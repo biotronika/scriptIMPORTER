@@ -1,0 +1,7 @@
+# IODAMOEBA BUT  1 6m
+# Iodamoeba_butschlii_HC
+# 
+freq 22155000.00 1
+scan 22156000.00 179
+freq 1103000.00 1
+scan 1104000.00 179

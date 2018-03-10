@@ -1,0 +1,8 @@
+# ULCER DUODENAL 15m
+# Ulcer_duodenal
+# 
+freq 676000.00 180
+freq 727000.00 180
+freq 750000.00 180
+freq 880000.00 180
+freq 10000000.00 180

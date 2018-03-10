@@ -1,0 +1,7 @@
+# ORCHITIS SECO  1 12m
+# Orchitis_secondary
+# 
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 10000000.00 180

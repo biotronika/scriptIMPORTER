@@ -1,0 +1,4 @@
+# FACIAL TONING 3m
+# Facial_toning
+# 
+freq 1200.00 180

@@ -1,0 +1,11 @@
+# CANCER LEUKEMIA 24m
+# Cancer_leukemia
+# also use Leukose
+freq 2127000.00 180
+freq 2008000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180
+freq 2217000.00 180

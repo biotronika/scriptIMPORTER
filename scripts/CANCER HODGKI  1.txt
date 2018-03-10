@@ -1,0 +1,5 @@
+# CANCER HODGKI  1 6m
+# Cancer_Hodgkins_disease
+# a form of malignancy characterized by enlargement of the lymph nodes. spleen. and lymph tissue and often includes weight loss. fever. night sweats. and anemia. Also called lymphogranuloma. Also see Chlamydia pneumoniae. Pseudomonas. Penicillium. Aspergillus. and Rhizopus.
+freq 552000.00 180
+freq 1522000.00 180

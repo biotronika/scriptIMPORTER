@@ -1,0 +1,20 @@
+# MACULAR DEGEN  1 51m
+# Macular_degeneration_and_visual_acuity
+# use with Cataracts freqs if necessary. 1830*
+freq 8000.00 180
+freq 1830000.00 180
+freq 1832000.00 180
+freq 1834000.00 180
+freq 1836000.00 180
+freq 1838000.00 180
+freq 1840000.00 180
+freq 1842000.00 180
+freq 1844000.00 180
+freq 1846000.00 180
+freq 1848000.00 180
+freq 1850000.00 180
+freq 1852000.00 180
+freq 1854000.00 180
+freq 1856000.00 180
+freq 1858000.00 180
+freq 1860000.00 180

@@ -1,0 +1,19 @@
+# LUPUS GENERAL 48m
+# Lupus_general
+# localized degeneration of skin by various diseases; vulgaris is a common form of this ailment that is actually a rare form of tuberculosis that manifests with disfigurement and destruction of the skin and cartilage of the face. Also use Parasite fluke sets for any type. Use 633 for 5 min. 2125 and 3612 for 4 min. 2008 and 802 for 8 min
+freq 3612000.00 180
+freq 2489000.00 180
+freq 2125000.00 180
+freq 2010000.00 180
+freq 2008000.00 180
+freq 2006000.00 180
+freq 942000.00 180
+freq 802000.00 180
+freq 800000.00 180
+freq 798000.00 180
+freq 702000.00 180
+freq 633000.00 180
+freq 632000.00 180
+freq 442000.00 180
+freq 386000.00 180
+freq 243000.00 180

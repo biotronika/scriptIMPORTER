@@ -1,0 +1,23 @@
+# BOTULINUM 60m
+# Botulinum
+# a bacillus that causes an often fatal form of food poisoning
+freq 518000.00 180
+freq 533000.00 180
+freq 639000.00 180
+freq 172000.00 180
+freq 1372000.00 180
+freq 691000.00 180
+freq 683000.00 180
+freq 253000.00 180
+freq 435000.00 180
+freq 668000.00 180
+freq 775000.00 180
+freq 2688000.00 180
+freq 660000.00 180
+freq 690000.00 180
+freq 727000.00 180
+freq 802000.00 180
+freq 1550000.00 180
+freq 831000.00 180
+freq 1552000.00 180
+freq 10000000.00 180

@@ -1,0 +1,13 @@
+# LEUKOENCEPHAL  2 30m
+# Leukoencephalitis_secondary
+# 
+freq 338000.00 180
+freq 783000.00 180
+freq 932000.00 180
+freq 1035000.00 180
+freq 1160000.00 180
+freq 1630000.00 180
+freq 712000.00 180
+freq 713000.00 180
+freq 715000.00 180
+freq 1244000.00 180

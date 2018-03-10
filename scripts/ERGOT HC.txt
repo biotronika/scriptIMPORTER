@@ -1,0 +1,6 @@
+# ERGOT HC 6m
+# Ergot_HC
+# 
+freq 14687000.00 1
+scan 14688000.00 179
+freq 731230.00 180

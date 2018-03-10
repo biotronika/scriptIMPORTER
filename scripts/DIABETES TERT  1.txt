@@ -1,0 +1,7 @@
+# DIABETES TERT  1 12m
+# Diabetes_tertiary
+# 
+freq 1850000.00 180
+freq 32000000.00 180
+freq 4000000.00 180
+freq 500000.00 180

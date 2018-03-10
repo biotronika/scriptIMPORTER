@@ -1,0 +1,6 @@
+# INFLUENZA V2   1 9m
+# Influenza_V2_grippe
+# 
+freq 324000.00 180
+freq 652000.00 180
+freq 653000.00 180

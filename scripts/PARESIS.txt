@@ -1,0 +1,4 @@
+# PARESIS 3m
+# Paresis
+# 
+freq 9400.00 180

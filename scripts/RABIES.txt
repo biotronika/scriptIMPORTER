@@ -1,0 +1,7 @@
+# RABIES 12m
+# Rabies
+# lyssinum
+freq 20000.00 180
+freq 120000.00 180
+freq 547000.00 180
+freq 793000.00 180

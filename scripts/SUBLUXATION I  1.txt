@@ -1,0 +1,4 @@
+# SUBLUXATION I  1 3m
+# Subluxation_induced_disorders
+# 
+freq 9600.00 180

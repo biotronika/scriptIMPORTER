@@ -1,0 +1,10 @@
+# RHODOCOCCUS 21m
+# Rhodococcus
+# 
+freq 124000.00 180
+freq 835000.00 180
+freq 432000.00 180
+freq 764000.00 180
+freq 337000.00 180
+freq 682000.00 180
+freq 720000.00 180

@@ -1,0 +1,5 @@
+# ASPERGILLUS G  2 6m
+# Aspergillus_glaucus
+# blue mold occurring in some human infectious processes
+freq 524000.00 180
+freq 758000.00 180

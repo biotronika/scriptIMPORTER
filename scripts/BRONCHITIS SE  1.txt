@@ -1,0 +1,6 @@
+# BRONCHITIS SE  1 9m
+# Bronchitis_secondary
+# 
+freq 776000.00 180
+freq 766000.00 180
+freq 688000.00 180

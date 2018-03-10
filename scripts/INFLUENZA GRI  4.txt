@@ -1,0 +1,6 @@
+# INFLUENZA GRI  4 9m
+# Influenza_grippe_1989
+# 
+freq 353000.00 180
+freq 536000.00 180
+freq 874000.00 180

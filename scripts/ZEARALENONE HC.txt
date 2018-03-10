@@ -1,0 +1,6 @@
+# ZEARALENONE HC 6m
+# Zearalenone_HC
+# 
+freq 4978000.00 1
+scan 4979000.00 179
+freq 247880.00 180

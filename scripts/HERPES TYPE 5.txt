@@ -1,0 +1,11 @@
+# HERPES TYPE 5 24m
+# Herpes_type_5
+# cytomegalovirus. 2145*
+freq 126000.00 180
+freq 597000.00 180
+freq 629000.00 180
+freq 682000.00 180
+freq 1045000.00 180
+freq 2145000.00 180
+freq 8848000.00 180
+freq 8856000.00 180

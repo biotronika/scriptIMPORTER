@@ -1,0 +1,7 @@
+# PAPILLOMA VIR  1 6m
+# Papilloma_virus_cervix_HC
+# smear
+freq 20128000.00 1
+scan 20129000.00 179
+freq 1002000.00 1
+scan 1003000.00 179

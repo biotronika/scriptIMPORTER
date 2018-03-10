@@ -1,0 +1,11 @@
+# NOCARDIA ASTE  1 24m
+# Nocardia_asteroides
+# the microorganism causing Nocardiosis. an infectious pulmonary disease characterized by abscesses in the lungs. Also see Streptothrix.
+freq 228000.00 180
+freq 231000.00 180
+freq 237000.00 180
+freq 694000.00 180
+freq 719000.00 180
+freq 747000.00 180
+freq 887000.00 180
+freq 2890000.00 180

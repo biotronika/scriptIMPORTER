@@ -1,0 +1,11 @@
+# PNEUMONIA MYC  1 21m
+# Pneumonia_mycoplasma
+# a contagious pneumonia of children and young adults. See also Mycoplasma General
+freq 688000.00 180
+freq 975000.00 180
+freq 777000.00 180
+freq 2688000.00 180
+freq 660000.00 180
+freq 709200.00 180
+freq 2838000.00 1
+scan 2839000.00 179

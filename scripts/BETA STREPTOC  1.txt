@@ -1,0 +1,6 @@
+# BETA STREPTOC  1 6m
+# Beta_streptococcus_HC
+# 
+freq 19168000.00 1
+scan 19169000.00 179
+freq 954320.00 180

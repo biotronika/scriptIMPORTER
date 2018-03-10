@@ -1,0 +1,5 @@
+# PORPHYRIA 6m
+# Porphyria
+# several rare disorders of the nervous system and skin
+freq 698000.00 180
+freq 780000.00 180

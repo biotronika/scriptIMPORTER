@@ -1,0 +1,7 @@
+# PARASITES FAS  3 6m
+# Parasites_fasciola_hepatica_eggs_HC
+# 
+freq 21159000.00 1
+scan 21160000.00 179
+freq 1053000.00 1
+scan 1054000.00 179

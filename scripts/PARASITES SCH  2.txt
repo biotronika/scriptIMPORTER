@@ -1,0 +1,7 @@
+# PARASITES SCH  2 6m
+# Parasites_schistosoma_haematobium_HC
+# 
+freq 23549000.00 1
+scan 23550000.00 179
+freq 1172000.00 1
+scan 1173000.00 179

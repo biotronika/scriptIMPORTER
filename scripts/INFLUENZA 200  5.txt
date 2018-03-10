@@ -1,0 +1,3 @@
+# INFLUENZA 200  5 0m
+# Influenza_2005_sweep_TR
+# long sweep from 9750 to 10156.25 by 0.03125 steps at 0.25 sec duration/step

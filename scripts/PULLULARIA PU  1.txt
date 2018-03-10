@@ -1,0 +1,9 @@
+# PULLULARIA PU  1 18m
+# Pullularia_pullulans
+# allergy remedy
+freq 432000.00 180
+freq 873000.00 180
+freq 1364000.00 180
+freq 684000.00 180
+freq 739000.00 180
+freq 750000.00 180

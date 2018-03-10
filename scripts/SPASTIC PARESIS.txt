@@ -1,0 +1,5 @@
+# SPASTIC PARESIS 6m
+# Spastic_paresis
+# 
+freq 30870.00 180
+freq 48000.00 180

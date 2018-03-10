@@ -1,0 +1,16 @@
+# MENIERES DISEASE 39m
+# Menieres_disease
+# auditory vertigo associated with deafness and tinnitus. Use 5000 for 16 min. 782 for 26 min. others for 7 min. Also use General_antiseptic
+freq 1550000.00 180
+freq 802000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 428000.00 180
+freq 33000.00 180
+freq 329000.00 180
+freq 5000000.00 180
+freq 1130000.00 180
+freq 782000.00 180
+freq 9000.00 180

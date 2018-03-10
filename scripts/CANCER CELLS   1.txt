@@ -1,0 +1,4 @@
+# CANCER CELLS   1 3m
+# Cancer_cells_conidium_head
+# 
+freq 728000.00 180

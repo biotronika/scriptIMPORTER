@@ -1,0 +1,9 @@
+# STOMACH GAS 18m
+# Stomach_gas
+# 
+freq 50000.00 180
+freq 51000.00 180
+freq 52000.00 180
+freq 53000.00 180
+freq 56000.00 180
+freq 59000.00 180

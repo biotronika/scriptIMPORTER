@@ -1,0 +1,7 @@
+# HEPATITIS B HC 6m
+# Hepatitis_B_HC
+# antigen
+freq 20562000.00 1
+scan 20563000.00 179
+freq 1023000.00 1
+scan 1024000.00 179

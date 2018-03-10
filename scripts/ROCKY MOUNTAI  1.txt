@@ -1,0 +1,9 @@
+# ROCKY MOUNTAI  1 18m
+# Rocky_Mountain_spotted_fever
+# 
+freq 375000.00 180
+freq 862000.00 180
+freq 943000.00 180
+freq 788000.00 180
+freq 468000.00 180
+freq 308000.00 180

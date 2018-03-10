@@ -1,0 +1,6 @@
+# SCIATICA 2 9m
+# Sciatica_2
+# 
+freq 782000.00 180
+freq 732000.00 180
+freq 860000.00 180

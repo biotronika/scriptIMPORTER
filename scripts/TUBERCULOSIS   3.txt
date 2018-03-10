@@ -1,0 +1,13 @@
+# TUBERCULOSIS   3 30m
+# Tuberculosis_klebsiella
+# 
+freq 217000.00 180
+freq 220000.00 180
+freq 221000.00 180
+freq 686000.00 180
+freq 1132000.00 180
+freq 1644000.00 180
+freq 2313000.00 180
+freq 6516000.00 180
+freq 729000.00 180
+freq 748000.00 180

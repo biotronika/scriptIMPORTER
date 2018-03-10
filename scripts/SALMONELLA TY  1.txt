@@ -1,0 +1,5 @@
+# SALMONELLA TY  1 6m
+# Salmonella_type_B
+# 
+freq 546000.00 180
+freq 1634000.00 180

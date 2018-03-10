@@ -1,0 +1,9 @@
+# AFLATOXIN 18m
+# Aflatoxin
+# a liver-damaging toxin produced by certain food molds
+freq 344000.00 180
+freq 510000.00 180
+freq 943000.00 180
+freq 474000.00 180
+freq 476000.00 180
+freq 568000.00 180

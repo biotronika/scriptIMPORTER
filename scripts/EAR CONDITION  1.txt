@@ -1,0 +1,22 @@
+# EAR CONDITION  1 57m
+# Ear_conditions_various
+# discharges. tinnitus. itching. hearing loss. Also see Otitis.
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 688000.00 180
+freq 683000.00 180
+freq 652000.00 180
+freq 645000.00 180
+freq 542000.00 180
+freq 535000.00 180
+freq 440000.00 180
+freq 410000.00 180
+freq 340000.00 180
+freq 201000.00 180
+freq 158000.00 180
+freq 20000.00 180
+freq 9190.00 180

@@ -1,0 +1,6 @@
+# THROMBOPHLEBITIS 9m
+# Thrombophlebitis
+# inflammation of vein walls from clotting. Use on lab animals only. See also Circulatory stasis and Stroke_followup
+freq 1500000.00 180
+freq 776000.00 180
+freq 685000.00 180

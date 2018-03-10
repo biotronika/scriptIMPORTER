@@ -1,0 +1,7 @@
+# PARVOVIRUS CA  3 12m
+# Parvovirus_canine_type_B
+# 
+freq 323000.00 180
+freq 535000.00 180
+freq 613000.00 180
+freq 755000.00 180

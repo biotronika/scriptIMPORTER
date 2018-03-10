@@ -1,0 +1,6 @@
+# HANGOVER 9m
+# Hangover
+# see also Kidney and Liver support freqs
+freq 10000000.00 180
+freq 522000.00 180
+freq 146000.00 180

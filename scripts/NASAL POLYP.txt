@@ -1,0 +1,5 @@
+# NASAL POLYP 6m
+# Nasal_polyp
+# benign growth inside the nasal passage
+freq 542000.00 180
+freq 1436000.00 180

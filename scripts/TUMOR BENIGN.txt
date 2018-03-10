@@ -1,0 +1,10 @@
+# TUMOR BENIGN 21m
+# Tumor_benign
+# 
+freq 1000.00 180
+freq 10000.00 180
+freq 10200.00 180
+freq 10400.00 180
+freq 10600.00 180
+freq 10800.00 180
+freq 11000.00 180

@@ -1,0 +1,21 @@
+# APPENDICITIS 54m
+# Appendicitis
+# Seek medical help! If micro perforation has occurred. infection must be eliminated before drinking any water or eating. Even a few drops of water may be fatal
+freq 1550000.00 180
+freq 802000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 444000.00 180
+freq 380000.00 180
+freq 190000.00 180
+freq 10000.00 180
+freq 650000.00 180
+freq 522000.00 180
+freq 125000.00 180
+freq 95000.00 180
+freq 72000.00 180
+freq 20000.00 180
+freq 146000.00 180
+freq 440000.00 180
+freq 450000.00 180

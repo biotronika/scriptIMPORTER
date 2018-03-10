@@ -1,0 +1,6 @@
+# GARDNEREILA V  1 6m
+# Gardnereila_vaginalis_HC
+# causes ovarian and genital tract infection
+freq 16927000.00 1
+scan 16928000.00 179
+freq 842780.00 180

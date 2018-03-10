@@ -1,0 +1,6 @@
+# CLOSTRIDIUM S  1 6m
+# Clostridium_septicum_HC
+# 
+freq 18122000.00 1
+scan 18123000.00 179
+freq 902270.00 180

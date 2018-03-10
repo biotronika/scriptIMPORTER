@@ -1,0 +1,10 @@
+# PERTUSSIS 21m
+# Pertussis
+# whooping cough
+freq 526000.00 180
+freq 765000.00 180
+freq 46000.00 180
+freq 284000.00 180
+freq 9101000.00 180
+freq 697000.00 180
+freq 906000.00 180

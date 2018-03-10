@@ -1,0 +1,9 @@
+# SALMONELLA TY  3 12m
+# Salmonella_typhimurium_HC
+# can cause food poisoning. nervousness. apathy
+freq 19168000.00 1
+scan 19169000.00 179
+freq 19217000.00 1
+scan 19218000.00 179
+freq 954320.00 180
+freq 956800.00 180

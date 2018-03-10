@@ -1,0 +1,6 @@
+# FEVER SUNSTROKE 9m
+# Fever_sunstroke
+# 
+freq 20000.00 180
+freq 440000.00 180
+freq 880000.00 180

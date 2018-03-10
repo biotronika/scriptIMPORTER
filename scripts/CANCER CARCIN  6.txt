@@ -1,0 +1,7 @@
+# CANCER CARCIN  6 12m
+# Cancer_carcinoma_larynx
+# 
+freq 327000.00 180
+freq 524000.00 180
+freq 731000.00 180
+freq 1133000.00 180

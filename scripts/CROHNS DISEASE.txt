@@ -1,0 +1,11 @@
+# CROHNS DISEASE 24m
+# Crohns_disease
+# also use colitis. colon. and parasite freqs
+freq 10000000.00 180
+freq 727000.00 180
+freq 786000.00 180
+freq 440000.00 180
+freq 832000.00 180
+freq 880000.00 180
+freq 1550000.00 180
+freq 20000.00 180

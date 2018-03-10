@@ -1,0 +1,6 @@
+# ERWINIA CAROT  1 6m
+# Erwinia_carotovora_HC
+# 
+freq 18570000.00 1
+scan 18571000.00 179
+freq 924570.00 180

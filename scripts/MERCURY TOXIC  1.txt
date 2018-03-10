@@ -1,0 +1,7 @@
+# MERCURY TOXIC  1 12m
+# Mercury_toxicity_v
+# 
+freq 47000.00 180
+freq 48000.00 180
+freq 49000.00 180
+freq 75000.00 180

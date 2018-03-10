@@ -1,0 +1,4 @@
+# WARTS 1 3m
+# Warts_1
+# apply with pad at negative 24v for 5 min at a time
+freq 21750000.00 180

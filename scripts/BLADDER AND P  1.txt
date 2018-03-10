@@ -1,0 +1,12 @@
+# BLADDER AND P  1 27m
+# Bladder_and_prostate_complaints
+# 
+freq 2050000.00 180
+freq 880000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 20000.00 180
+freq 9390.00 180

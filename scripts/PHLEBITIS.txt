@@ -1,0 +1,5 @@
+# PHLEBITIS 6m
+# Phlebitis
+# vein inflammation
+freq 1500000.00 180
+freq 776000.00 180

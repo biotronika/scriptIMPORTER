@@ -1,0 +1,4 @@
+# CYSTOPYELO NE  1 3m
+# Cystopyelo_nephritis
+# inflammation from bladder to kidney
+freq 1385000.00 180

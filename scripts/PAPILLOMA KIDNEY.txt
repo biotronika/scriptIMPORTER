@@ -1,0 +1,13 @@
+# PAPILLOMA KIDNEY 30m
+# Papilloma_kidney
+# small. usually benign growth on a kidney
+freq 110000.00 180
+freq 148000.00 180
+freq 264000.00 180
+freq 634000.00 180
+freq 767000.00 180
+freq 848000.00 180
+freq 917000.00 180
+freq 760000.00 180
+freq 762000.00 180
+freq 1102000.00 180

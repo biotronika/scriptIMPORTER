@@ -1,0 +1,9 @@
+# COLON PROBLEM  1 18m
+# Colon_problems_general
+# 
+freq 20000.00 180
+freq 440000.00 180
+freq 880000.00 180
+freq 1552000.00 180
+freq 802000.00 180
+freq 832000.00 180

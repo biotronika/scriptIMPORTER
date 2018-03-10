@@ -1,0 +1,5 @@
+# DIABETIC LOADING 6m
+# Diabetic_loading
+# 
+freq 35000.00 180
+freq 700000.00 180

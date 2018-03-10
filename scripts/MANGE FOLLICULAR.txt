@@ -1,0 +1,5 @@
+# MANGE FOLLICULAR 6m
+# Mange_follicular
+# 
+freq 253000.00 180
+freq 693000.00 180

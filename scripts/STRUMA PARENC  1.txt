@@ -1,0 +1,5 @@
+# STRUMA PARENC  1 6m
+# Struma_parenchyme
+# 
+freq 121000.00 180
+freq 576000.00 180

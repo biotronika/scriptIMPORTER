@@ -1,0 +1,6 @@
+# CHAETOMIUM GL  1 9m
+# Chaetomium_globosum
+# 867*
+freq 221000.00 180
+freq 867000.00 180
+freq 102000.00 180

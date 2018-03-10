@@ -1,0 +1,7 @@
+# ENTAMOEBA GIN  1 6m
+# Entamoeba_gingivalis_HC
+# trophozoite
+freq 21806000.00 1
+scan 21807000.00 179
+freq 1085000.00 1
+scan 1086000.00 179

@@ -1,0 +1,5 @@
+# INFLUENZA VIR 12 6m
+# Influenza_virus_British
+# 
+freq 558000.00 180
+freq 932000.00 180

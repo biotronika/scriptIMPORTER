@@ -1,0 +1,4 @@
+# ERYTHEMA NOSODUM 3m
+# Erythema_nosodum
+# 
+freq 9390.00 180

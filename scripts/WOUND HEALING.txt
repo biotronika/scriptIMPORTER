@@ -1,0 +1,11 @@
+# WOUND HEALING 24m
+# Wound_healing
+# also see General antiseptic
+freq 2720000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 220000.00 180
+freq 190000.00 180
+freq 20000.00 180
+freq 40000.00 180

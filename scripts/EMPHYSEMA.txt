@@ -1,0 +1,12 @@
+# EMPHYSEMA 27m
+# Emphysema
+# use with mycoplasma pulmonis. mycoplasma pneumonia. and parasite freqs. esp roundworm
+freq 1234000.00 180
+freq 3672000.00 180
+freq 7344000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 120000.00 180
+freq 20000.00 180
+freq 80000.00 180

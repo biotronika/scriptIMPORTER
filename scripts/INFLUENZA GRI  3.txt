@@ -1,0 +1,9 @@
+# INFLUENZA GRI  3 18m
+# Influenza_grippe_1988
+# 
+freq 267000.00 180
+freq 536000.00 180
+freq 568000.00 180
+freq 2050000.00 180
+freq 752000.00 180
+freq 781000.00 180

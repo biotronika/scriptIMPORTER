@@ -1,0 +1,19 @@
+# CONJUNCTIVITIS 48m
+# Conjunctivitis
+# also known as pink eye. Also use Chlamydia trachomatis and see Bacillus subtilis if necessary
+freq 2025000.00 180
+freq 1830000.00 180
+freq 1552000.00 180
+freq 1550000.00 180
+freq 1246000.00 180
+freq 1206000.00 180
+freq 880000.00 180
+freq 822000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 722000.00 180
+freq 489000.00 180
+freq 432000.00 180
+freq 80000.00 180
+freq 20000.00 180

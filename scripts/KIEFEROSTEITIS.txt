@@ -1,0 +1,6 @@
+# KIEFEROSTEITIS 9m
+# Kieferosteitis
+# a type of bone inflammation marked by enlargement and pain
+freq 432000.00 180
+freq 516000.00 180
+freq 384000.00 180

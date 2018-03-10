@@ -1,0 +1,10 @@
+# INFLUENZA VA2  1 21m
+# Influenza_VA2_grippe
+# 
+freq 334000.00 180
+freq 472000.00 180
+freq 496000.00 180
+freq 833000.00 180
+freq 836000.00 180
+freq 922000.00 180
+freq 728000.00 180

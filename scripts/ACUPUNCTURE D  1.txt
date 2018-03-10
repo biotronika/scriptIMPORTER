@@ -1,0 +1,4 @@
+# ACUPUNCTURE D  1 3m
+# Acupuncture_disturbance_field
+# scar focus
+freq 5900.00 180

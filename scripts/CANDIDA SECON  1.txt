@@ -1,0 +1,17 @@
+# CANDIDA SECON  1 42m
+# Candida_secondary
+# also use other parasite sets esp roundworm freqs if necessary
+freq 72000.00 180
+freq 422000.00 180
+freq 582000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 802000.00 180
+freq 1016000.00 180
+freq 1134000.00 180
+freq 1153000.00 180
+freq 1550000.00 180
+freq 2222000.00 180
+freq 412000.00 180
+freq 543000.00 180
+freq 2128000.00 180

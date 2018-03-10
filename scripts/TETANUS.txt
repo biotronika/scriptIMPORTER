@@ -1,0 +1,20 @@
+# TETANUS 51m
+# Tetanus
+# infectious disease of the central nervous system caused by clostridium tetani
+freq 15770000.00 180
+freq 1200000.00 180
+freq 1142000.00 180
+freq 880000.00 180
+freq 700000.00 180
+freq 628000.00 180
+freq 600000.00 180
+freq 554000.00 180
+freq 465000.00 180
+freq 458000.00 180
+freq 400000.00 180
+freq 363000.00 180
+freq 352000.00 180
+freq 244000.00 180
+freq 234000.00 180
+freq 120000.00 180
+freq 20000.00 180

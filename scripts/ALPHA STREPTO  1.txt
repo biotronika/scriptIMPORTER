@@ -1,0 +1,9 @@
+# ALPHA STREPTO  1 12m
+# Alpha_streptococcus_HC
+# 
+freq 18919000.00 1
+scan 18920000.00 179
+freq 18670000.00 1
+scan 18671000.00 179
+freq 941930.00 180
+freq 929530.00 180

@@ -1,0 +1,11 @@
+# DYSMENORRHEA 24m
+# Dysmenorrhea
+# painful menstruation. Use with plain water douche
+freq 26000.00 180
+freq 4900.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180

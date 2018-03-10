@@ -1,0 +1,4 @@
+# OX BILE 3m
+# Ox_bile
+# the homeopathic remedy derived from it
+freq 672000.00 180

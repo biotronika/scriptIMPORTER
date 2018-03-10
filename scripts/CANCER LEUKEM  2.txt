@@ -1,0 +1,9 @@
+# CANCER LEUKEM  2 18m
+# Cancer_leukemia_hairy_cell
+# typified by abnormal blood cells & shortage of others
+freq 122000.00 180
+freq 622000.00 180
+freq 932000.00 180
+freq 5122000.00 180
+freq 488000.00 180
+freq 781000.00 180

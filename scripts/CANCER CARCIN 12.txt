@@ -1,0 +1,4 @@
+# CANCER CARCIN 12 3m
+# Cancer_carcinoma_uterine_fermentative
+# 
+freq 127000.00 180

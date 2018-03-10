@@ -1,0 +1,11 @@
+# PARASITES ENT  1 24m
+# Parasites_enterobiasis
+# pinworms; intestinal worms which cause itching of the anal and perianal areas
+freq 20000.00 180
+freq 112000.00 180
+freq 120000.00 180
+freq 773000.00 180
+freq 826000.00 180
+freq 827000.00 180
+freq 835000.00 180
+freq 4152000.00 180

@@ -1,0 +1,6 @@
+# GLIOCLADIUM 9m
+# Gliocladium
+# brain fungus
+freq 855000.00 180
+freq 469000.00 180
+freq 633000.00 180

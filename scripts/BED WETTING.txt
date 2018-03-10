@@ -1,0 +1,12 @@
+# BED WETTING 27m
+# Bed_wetting
+# enuresis. See also Parasite general. pinworm. and ascaris freqs
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 120000.00 180
+freq 112000.00 180
+freq 7830.00 180

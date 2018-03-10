@@ -1,0 +1,5 @@
+# TRICHOPHYTON   6 6m
+# Trichophyton_tonsuraus
+# 
+freq 454000.00 180
+freq 765000.00 180

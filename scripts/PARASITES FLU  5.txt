@@ -1,0 +1,10 @@
+# PARASITES FLU  5 21m
+# Parasites_flukes_liver
+# 
+freq 143000.00 180
+freq 275000.00 180
+freq 676000.00 180
+freq 763000.00 180
+freq 238000.00 180
+freq 6641000.00 180
+freq 6672000.00 180

@@ -1,0 +1,17 @@
+# EPSTEIN BARR   1 42m
+# Epstein_Barr_virus
+# the herpes virus causing mononucleosis
+freq 8768000.00 180
+freq 6618000.00 180
+freq 1920000.00 180
+freq 1013000.00 180
+freq 825000.00 180
+freq 738000.00 180
+freq 669000.00 180
+freq 667000.00 180
+freq 663000.00 180
+freq 660000.00 180
+freq 274000.00 180
+freq 253000.00 180
+freq 172000.00 180
+freq 105000.00 180

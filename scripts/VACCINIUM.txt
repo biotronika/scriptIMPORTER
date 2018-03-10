@@ -1,0 +1,4 @@
+# VACCINIUM 3m
+# Vaccinium
+# a homeopathic nosode
+freq 476000.00 180

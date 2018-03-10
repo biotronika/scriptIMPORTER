@@ -1,0 +1,5 @@
+# PEPTO STREPTO  1 6m
+# Pepto_streptococcus
+# see also other Strep sets
+freq 201000.00 180
+freq 629000.00 180

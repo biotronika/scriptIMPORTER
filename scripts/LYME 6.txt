@@ -1,0 +1,4 @@
+# LYME 6 3m
+# Lyme_6
+# borrelia afzellii
+freq 387500000.00 180

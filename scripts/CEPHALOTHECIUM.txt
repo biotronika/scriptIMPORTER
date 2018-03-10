@@ -1,0 +1,6 @@
+# CEPHALOTHECIUM 9m
+# Cephalothecium
+# 
+freq 371000.00 180
+freq 574000.00 180
+freq 6933000.00 180

@@ -1,0 +1,21 @@
+# HERPES TR 54m
+# Herpes_TR
+# run set three times. pausing 10 minutes between runs. All frequencies can run 60 sec except 2950. which runs 180 sec
+freq 2950000.00 180
+freq 322000.00 180
+freq 476000.00 180
+freq 468000.00 180
+freq 589000.00 180
+freq 664000.00 180
+freq 785000.00 180
+freq 822000.00 180
+freq 895000.00 180
+freq 936000.00 180
+freq 944000.00 180
+freq 1043000.00 180
+freq 1614000.00 180
+freq 1871000.00 180
+freq 2062000.00 180
+freq 1489000.00 180
+freq 3742000.00 180
+freq 748000.00 180

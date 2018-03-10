@@ -1,0 +1,8 @@
+# BREATHING DEEP 15m
+# Breathing_deep
+# 
+freq 1234000.00 180
+freq 3702000.00 180
+freq 3672000.00 180
+freq 7344000.00 180
+freq 7760000.00 180

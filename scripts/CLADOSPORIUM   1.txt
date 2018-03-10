@@ -1,0 +1,7 @@
+# CLADOSPORIUM   1 12m
+# Cladosporium_fulvum
+# a pathogenic fungus
+freq 438000.00 180
+freq 233000.00 180
+freq 776000.00 180
+freq 510000.00 180

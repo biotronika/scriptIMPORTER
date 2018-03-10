@@ -1,0 +1,4 @@
+# ALS 3 3m
+# ALS_3
+# use 2900 for 60 min
+freq 2900000.00 180

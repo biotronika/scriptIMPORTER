@@ -1,0 +1,7 @@
+# PARASITES GAS  1 6m
+# Parasites_gastrothylax elongatus_HC
+# 
+freq 22653000.00 1
+scan 22654000.00 179
+freq 1127000.00 1
+scan 1128000.00 179

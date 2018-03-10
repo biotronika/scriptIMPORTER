@@ -1,0 +1,14 @@
+# RHINITIS 33m
+# Rhinitis
+# runny nose. also see Sinusitis
+freq 20000.00 180
+freq 120000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 1500000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 522000.00 180
+freq 146000.00 180

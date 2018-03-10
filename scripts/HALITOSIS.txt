@@ -1,0 +1,9 @@
+# HALITOSIS 18m
+# Halitosis
+# bad breath. See also Strep pneumonia. Strep aureus. Pharyngitis. Dental. Parasite general. and General antiseptic sets
+freq 1550000.00 180
+freq 802000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

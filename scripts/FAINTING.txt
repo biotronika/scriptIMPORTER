@@ -1,0 +1,4 @@
+# FAINTING 3m
+# Fainting
+# 
+freq 20000.00 180

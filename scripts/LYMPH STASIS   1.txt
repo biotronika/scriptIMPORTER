@@ -1,0 +1,16 @@
+# LYMPH STASIS   1 39m
+# Lymph_stasis_secondary
+# also see Lymphangitis
+freq 6300.00 180
+freq 148000.00 180
+freq 522000.00 180
+freq 146000.00 180
+freq 444000.00 180
+freq 440000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 10000000.00 180
+freq 2500.00 180
+freq 465000.00 180
+freq 10000.00 180

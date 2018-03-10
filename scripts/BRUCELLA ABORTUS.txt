@@ -1,0 +1,4 @@
+# BRUCELLA ABORTUS 3m
+# Brucella_abortus
+# undulant fever or Bang's bacillus. found in cattle
+freq 1423000.00 180

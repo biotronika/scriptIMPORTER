@@ -1,0 +1,4 @@
+# PYOCYANEUS 3m
+# Pyocyaneus
+# homeopathic nosode for Pseudomonas pyocyanea
+freq 437000.00 180

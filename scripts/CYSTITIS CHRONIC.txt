@@ -1,0 +1,11 @@
+# CYSTITIS CHRONIC 24m
+# Cystitis_chronic
+# long-term inflammation of the urinary bladder and ureters
+freq 246000.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 20000.00 180

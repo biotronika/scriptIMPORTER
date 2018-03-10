@@ -1,0 +1,7 @@
+# FOLLICULAR MANGE 12m
+# Follicular_mange
+# contagious dermatitis found in many animals that is caused by mites and in which the principle activity is at the hair follicles. Also soak with vegetable oil. let sit at least 15 minutes. and rinse with thyme tea.
+freq 253000.00 180
+freq 693000.00 180
+freq 701000.00 180
+freq 774000.00 180

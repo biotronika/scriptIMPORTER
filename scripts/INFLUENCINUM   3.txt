@@ -1,0 +1,7 @@
+# INFLUENCINUM   3 12m
+# Influencinum_vesic_SW
+# 
+freq 433000.00 180
+freq 645000.00 180
+freq 658000.00 180
+freq 824000.00 180

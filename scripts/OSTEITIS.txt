@@ -1,0 +1,4 @@
+# OSTEITIS 3m
+# Osteitis
+# bone inflammation
+freq 770000.00 180

@@ -1,0 +1,8 @@
+# PARASITES HOO  1 15m
+# Parasites_hookworm
+# 
+freq 6800.00 180
+freq 440000.00 180
+freq 2008000.00 180
+freq 6436000.00 180
+freq 5868000.00 180

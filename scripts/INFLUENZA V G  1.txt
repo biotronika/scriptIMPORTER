@@ -1,0 +1,4 @@
+# INFLUENZA V G  1 3m
+# Influenza_V_grippe
+# 
+freq 861000.00 180

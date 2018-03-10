@@ -1,0 +1,13 @@
+# SMALLPOX SECO  1 30m
+# Smallpox_secondary
+# 
+freq 334000.00 180
+freq 360000.00 180
+freq 471000.00 180
+freq 647000.00 180
+freq 506000.00 180
+freq 711000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

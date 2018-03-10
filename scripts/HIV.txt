@@ -1,0 +1,8 @@
+# HIV 15m
+# HIV
+# see also AIDS
+freq 683000.00 180
+freq 714000.00 180
+freq 3554000.00 180
+freq 830000.00 180
+freq 450000.00 180

@@ -1,0 +1,5 @@
+# BACILLUS LICH  1 6m
+# Bacillus_lichenoformis
+# 
+freq 2655000.00 180
+freq 21554000.00 180

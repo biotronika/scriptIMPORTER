@@ -1,0 +1,12 @@
+# HERPES PROGEN  1 27m
+# Herpes_progenetalis
+# genital. Also use Herpes simplex II
+freq 141000.00 180
+freq 878000.00 180
+freq 898000.00 180
+freq 5310000.00 180
+freq 440000.00 180
+freq 171000.00 180
+freq 660000.00 180
+freq 590000.00 180
+freq 1175000.00 180

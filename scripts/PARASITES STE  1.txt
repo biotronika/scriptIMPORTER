@@ -1,0 +1,7 @@
+# PARASITES STE  1 6m
+# Parasites_stephanurus_dentalus
+# ova
+freq 22951000.00 1
+scan 22952000.00 179
+freq 1142000.00 1
+scan 1143000.00 179

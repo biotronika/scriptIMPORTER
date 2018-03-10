@@ -1,0 +1,4 @@
+# SEMPERILLIUM 3m
+# Semperillium
+# 
+freq 1140000.00 180

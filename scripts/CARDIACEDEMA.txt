@@ -1,0 +1,4 @@
+# CARDIACEDEMA 3m
+# Cardiacedema
+# 
+freq 9190.00 180

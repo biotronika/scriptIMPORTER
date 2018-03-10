@@ -1,0 +1,6 @@
+# SUN ALLERGY 9m
+# Sun_allergy
+# Examine prescription drugs. such as Psoralen. for photo sensitization properties.
+freq 3000.00 180
+freq 330000.00 180
+freq 10000000.00 180

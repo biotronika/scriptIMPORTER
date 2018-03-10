@@ -1,0 +1,8 @@
+# ANXIETY 1 15m
+# Anxiety_1
+# General anxiety disorder. Use 1.5 for 3 min. 6.8. 7.8 for 5 min. 95 for 3 min. 10000 for 5 min
+freq 1500.00 180
+freq 6800.00 180
+freq 7800.00 180
+freq 95000.00 180
+freq 10000000.00 180

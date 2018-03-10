@@ -1,0 +1,9 @@
+# MYCOPLASMA PU  1 15m
+# Mycoplasma_pulmonis
+# 
+freq 2404000.00 1
+scan 2405000.00 179
+freq 601000.00 180
+freq 300500.00 180
+freq 150300.00 180
+freq 75100.00 180

@@ -1,0 +1,6 @@
+# STREPTOCOCCUS  4 6m
+# Streptococcus_lactis_HC
+# occurs in milk
+freq 19168000.00 1
+scan 19169000.00 179
+freq 954320.00 180

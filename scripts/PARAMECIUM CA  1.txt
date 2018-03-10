@@ -1,0 +1,6 @@
+# PARAMECIUM CA  1 9m
+# Paramecium_caudatum
+# 
+freq 4500000.00 180
+freq 1150000.00 180
+freq 2298000.00 180

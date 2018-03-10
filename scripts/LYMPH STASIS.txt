@@ -1,0 +1,4 @@
+# LYMPH STASIS 3m
+# Lymph_stasis
+# use 3176 for 10 minutes
+freq 3176000.00 180

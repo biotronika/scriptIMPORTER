@@ -1,0 +1,13 @@
+# HEPATITIS GEN  2 30m
+# Hepatitis_general_secondary
+# 
+freq 284000.00 180
+freq 458000.00 180
+freq 477000.00 180
+freq 534000.00 180
+freq 788000.00 180
+freq 922000.00 180
+freq 9670000.00 180
+freq 768000.00 180
+freq 777000.00 180
+freq 1041000.00 180

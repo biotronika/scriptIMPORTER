@@ -1,0 +1,13 @@
+# DEPRESSION GE  1 30m
+# Depression_general
+# avoid starches in diet. use a multivitamin and multimineral. and drink plenty of water
+freq 10000000.00 180
+freq 5000000.00 180
+freq 3176000.00 180
+freq 800000.00 180
+freq 787000.00 180
+freq 73000.00 180
+freq 35000.00 180
+freq 7830.00 180
+freq 3500.00 180
+freq 1100.00 180

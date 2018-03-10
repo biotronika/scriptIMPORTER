@@ -1,0 +1,6 @@
+# PARASITES HAE  1 6m
+# Parasites_haemonchus_contortus_HC
+# 
+freq 19566000.00 1
+scan 19567000.00 179
+freq 974150.00 180

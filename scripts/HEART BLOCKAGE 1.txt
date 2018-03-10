@@ -1,0 +1,6 @@
+# HEART BLOCKAGE 1 9m
+# Heart_blockage_1
+# 
+freq 59000.00 180
+freq 60000.00 180
+freq 61000.00 180

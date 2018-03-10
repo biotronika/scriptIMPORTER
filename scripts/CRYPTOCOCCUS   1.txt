@@ -1,0 +1,20 @@
+# CRYPTOCOCCUS   1 51m
+# Cryptococcus_neoformans
+# yeast which causes respiratory infection than can turn into meningitis. Also known as torulosis.
+freq 367000.00 180
+freq 428000.00 180
+freq 444000.00 180
+freq 476000.00 180
+freq 478000.00 180
+freq 522000.00 180
+freq 579000.00 180
+freq 594000.00 180
+freq 785000.00 180
+freq 792000.00 180
+freq 872000.00 180
+freq 2121000.00 180
+freq 5880000.00 180
+freq 5884000.00 180
+freq 597000.00 180
+freq 613000.00 180
+freq 624000.00 180

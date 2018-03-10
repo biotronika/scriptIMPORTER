@@ -1,0 +1,4 @@
+# BASIDIOMYCETES 3m
+# Basidiomycetes
+# 
+freq 751000.00 180

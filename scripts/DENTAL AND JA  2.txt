@@ -1,0 +1,9 @@
+# DENTAL AND JA  2 18m
+# Dental_and_jawbone_infections_2
+# 
+freq 15000.00 180
+freq 326000.00 180
+freq 465000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180

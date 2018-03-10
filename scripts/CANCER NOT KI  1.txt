@@ -1,0 +1,6 @@
+# CANCER NOT KI  1 9m
+# Cancer_not_killed_by_2008_2128
+# 
+freq 2180000.00 180
+freq 2182000.00 180
+freq 2184000.00 180

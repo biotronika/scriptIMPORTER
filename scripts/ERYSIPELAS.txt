@@ -1,0 +1,14 @@
+# ERYSIPELAS 33m
+# Erysipelas
+# bacterial infection manifesting in skin inflammation caused by strep pyrogenes or other pathogens and possibly related to the swine form of the disease
+freq 616000.00 180
+freq 776000.00 180
+freq 735000.00 180
+freq 845000.00 180
+freq 660000.00 180
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 20000.00 180

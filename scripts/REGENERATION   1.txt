@@ -1,0 +1,5 @@
+# REGENERATION   1 6m
+# Regeneration_and_healing
+# 
+freq 47000.00 180
+freq 2720000.00 180

@@ -1,0 +1,8 @@
+# COXSACKIE B1 15m
+# Coxsackie_B1
+# 
+freq 353000.00 180
+freq 384000.00 180
+freq 834000.00 180
+freq 587000.00 180
+freq 723000.00 180

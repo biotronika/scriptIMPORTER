@@ -1,0 +1,6 @@
+# PARASITES URO  1 6m
+# Parasites_urocleidus_HC
+# 
+freq 22254000.00 1
+scan 22255000.00 179
+freq 1108000.00 180

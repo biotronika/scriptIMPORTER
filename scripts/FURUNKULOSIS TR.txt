@@ -1,0 +1,17 @@
+# FURUNKULOSIS TR 42m
+# Furunkulosis_TR
+# also use Staph aureus
+freq 1550000.00 180
+freq 1000000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 784000.00 180
+freq 770000.00 180
+freq 728000.00 180
+freq 727000.00 180
+freq 660000.00 180
+freq 465000.00 180
+freq 200000.00 180
+freq 116000.00 180
+freq 20000.00 180

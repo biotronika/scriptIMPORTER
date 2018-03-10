@@ -1,0 +1,7 @@
+# PARASITES FIS  1 6m
+# Parasites_fischoedrius_elongatus_HC
+# 
+freq 22005000.00 1
+scan 22006000.00 179
+freq 1095000.00 1
+scan 1096000.00 179

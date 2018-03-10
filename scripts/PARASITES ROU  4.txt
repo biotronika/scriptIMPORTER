@@ -1,0 +1,7 @@
+# PARASITES ROU  4 6m
+# Parasites_roundworms_flatworms_TR
+# use when there is chronic pain from these. 40 min each with converge 1 0.03125 or 1 0.03333
+freq 6187000.00 1
+scan 6188000.00 179
+freq 6468000.00 1
+scan 6469000.00 179

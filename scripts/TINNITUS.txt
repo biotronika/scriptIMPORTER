@@ -1,0 +1,8 @@
+# TINNITUS 15m
+# Tinnitus
+# see also Circulatory stasis. Dental. Dental foci. General antiseptic. and Otitis freqs
+freq 20000.00 180
+freq 2720000.00 180
+freq 728000.00 180
+freq 784000.00 180
+freq 880000.00 180

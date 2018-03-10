@@ -1,0 +1,18 @@
+# INFLUENZA ACH  1 45m
+# Influenza_aches_and_respiratory
+# use 7760 and 7766 for 10 min. all others for 5
+freq 440000.00 180
+freq 512000.00 180
+freq 683000.00 180
+freq 728000.00 180
+freq 784000.00 180
+freq 787000.00 180
+freq 800000.00 180
+freq 875000.00 180
+freq 880000.00 180
+freq 885000.00 180
+freq 2050000.00 180
+freq 2720000.00 180
+freq 5000000.00 180
+freq 7760000.00 180
+freq 7766000.00 180

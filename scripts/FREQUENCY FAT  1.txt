@@ -1,0 +1,5 @@
+# FREQUENCY FAT  1 6m
+# Frequency_fatigue
+# tiredness that is not detox from using frequency generator too long
+freq 10550.00 180
+freq 7830.00 180

@@ -1,0 +1,6 @@
+# BORDERTELLA P  1 6m
+# Bordertella_pertussis_HC
+# 
+freq 16479000.00 1
+scan 16480000.00 179
+freq 820470.00 180

@@ -1,0 +1,7 @@
+# PESTICIDE DETOX 12m
+# Pesticide_detox
+# see also Liver and Kidney support. Circulatory and Lymph stasis freqs
+freq 73000.00 180
+freq 26000.00 180
+freq 6000.00 180
+freq 1000.00 180

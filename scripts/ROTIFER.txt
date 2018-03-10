@@ -1,0 +1,4 @@
+# ROTIFER 3m
+# Rotifer
+# 
+freq 4500000.00 180

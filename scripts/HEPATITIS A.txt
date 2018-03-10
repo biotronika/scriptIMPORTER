@@ -1,0 +1,15 @@
+# HEPATITIS A 36m
+# Hepatitis_A
+# add Hepatitis general freqs if necessary
+freq 321000.00 180
+freq 346000.00 180
+freq 414000.00 180
+freq 423000.00 180
+freq 487000.00 180
+freq 558000.00 180
+freq 578000.00 180
+freq 693000.00 180
+freq 786000.00 180
+freq 878000.00 180
+freq 3220000.00 180
+freq 717000.00 180

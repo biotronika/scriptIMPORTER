@@ -1,0 +1,12 @@
+# L LYSINE 18m
+# L_lysine
+# stimulates
+freq 195500.00 180
+freq 391000.00 180
+freq 782000.00 180
+freq 1564000.00 1
+scan 1565000.00 179
+freq 3128000.00 1
+scan 3129000.00 179
+freq 6256000.00 1
+scan 6257000.00 179

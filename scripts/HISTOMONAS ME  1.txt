@@ -1,0 +1,6 @@
+# HISTOMONAS ME  1 6m
+# Histomonas_meleagridis_HC
+# 
+freq 18769000.00 1
+scan 18770000.00 179
+freq 934490.00 180

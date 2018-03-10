@@ -1,0 +1,4 @@
+# CRAMPS MENSTRUAL 3m
+# Cramps_menstrual
+# 
+freq 26000.00 180

@@ -1,0 +1,7 @@
+# INFLUENCINUM   1 12m
+# Influencinum_Berlin_55
+# 
+freq 430000.00 180
+freq 720000.00 180
+freq 733000.00 180
+freq 787000.00 180

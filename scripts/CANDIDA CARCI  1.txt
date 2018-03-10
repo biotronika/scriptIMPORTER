@@ -1,0 +1,7 @@
+# CANDIDA CARCI  1 12m
+# Candida_carcinomas
+# 
+freq 2167000.00 180
+freq 2128000.00 180
+freq 2182000.00 180
+freq 465000.00 180

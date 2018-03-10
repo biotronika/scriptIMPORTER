@@ -1,0 +1,10 @@
+# PENICILLIUM R  1 21m
+# Penicillium_rubrum
+# 
+freq 332000.00 180
+freq 457000.00 180
+freq 460000.00 180
+freq 462000.00 180
+freq 766000.00 180
+freq 1015000.00 180
+freq 1018000.00 180

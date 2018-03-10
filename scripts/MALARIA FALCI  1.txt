@@ -1,0 +1,8 @@
+# MALARIA FALCI  1 15m
+# Malaria_Falciparum_1
+# 
+freq 1518000.00 180
+freq 1348000.00 180
+freq 1473000.00 180
+freq 1002000.00 180
+freq 1019000.00 180

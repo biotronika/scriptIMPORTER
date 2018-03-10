@@ -1,0 +1,8 @@
+# BLADDER TBC 15m
+# Bladder_TBC
+# 
+freq 642000.00 180
+freq 771000.00 180
+freq 360000.00 180
+freq 726000.00 180
+freq 724000.00 180

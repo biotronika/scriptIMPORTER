@@ -1,0 +1,14 @@
+# CANCER ASTROC  1 33m
+# Cancer_astrocytoma
+# common tumor of brain and central nervous system
+freq 857000.00 180
+freq 9190.00 180
+freq 8250.00 180
+freq 7690.00 180
+freq 2170000.00 180
+freq 543000.00 180
+freq 641000.00 180
+freq 2127000.00 180
+freq 880000.00 180
+freq 690000.00 180
+freq 666000.00 180

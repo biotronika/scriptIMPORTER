@@ -1,0 +1,11 @@
+# ACIDOSIS 24m
+# Acidosis
+# hyperacidity. Also use a calcium magnesium supplement long term
+freq 10000000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 146000.00 180
+freq 20000.00 180

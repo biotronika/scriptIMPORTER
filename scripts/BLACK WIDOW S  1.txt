@@ -1,0 +1,5 @@
+# BLACK WIDOW S  1 6m
+# Black_widow_spider
+# 
+freq 376000.00 180
+freq 728000.00 180

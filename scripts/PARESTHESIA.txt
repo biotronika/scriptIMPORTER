@@ -1,0 +1,4 @@
+# PARESTHESIA 3m
+# Paresthesia
+# 
+freq 5500.00 180

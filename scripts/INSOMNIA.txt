@@ -1,0 +1,13 @@
+# INSOMNIA 30m
+# Insomnia
+# see also Parasite general set
+freq 3590.00 180
+freq 3000.00 180
+freq 7830.00 180
+freq 10000.00 180
+freq 1550000.00 180
+freq 1500000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 6000000.00 180
+freq 304000.00 180

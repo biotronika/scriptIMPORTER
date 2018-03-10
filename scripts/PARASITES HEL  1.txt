@@ -1,0 +1,7 @@
+# PARASITES HEL  1 12m
+# Parasites_helminthsporium
+# worm eggs
+freq 793000.00 180
+freq 969000.00 180
+freq 164000.00 180
+freq 5243000.00 180

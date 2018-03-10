@@ -1,0 +1,10 @@
+# LEUKOENCEPHAL  1 21m
+# Leukoencephalitis
+# inflammation of brain's white matter. usually in infants and children. but also found in horses as a result of forage poisoning
+freq 324000.00 180
+freq 572000.00 180
+freq 776000.00 180
+freq 934000.00 180
+freq 1079000.00 180
+freq 1111000.00 180
+freq 1333000.00 180

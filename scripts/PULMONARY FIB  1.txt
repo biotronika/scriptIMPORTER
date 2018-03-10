@@ -1,0 +1,6 @@
+# PULMONARY FIB  1 9m
+# Pulmonary_fibrosis
+# use also Parasite. roundworm frequencies and see General Antiseptic
+freq 27500.00 180
+freq 220000.00 180
+freq 410000.00 180

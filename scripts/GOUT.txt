@@ -1,0 +1,10 @@
+# GOUT 21m
+# Gout
+# Also use water cure and high dose bromelain or other enzymes. See also Kidney freqs
+freq 9390.00 180
+freq 3000000.00 180
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

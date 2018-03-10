@@ -1,0 +1,7 @@
+# PENICILLIUM C  1 12m
+# Penicillium_chyrosogenium
+# 
+freq 129000.00 180
+freq 249000.00 180
+freq 344000.00 180
+freq 967000.00 180

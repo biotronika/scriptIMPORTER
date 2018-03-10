@@ -1,0 +1,5 @@
+# OOSPORA 6m
+# Oospora
+# 
+freq 9599000.00 180
+freq 5346000.00 180

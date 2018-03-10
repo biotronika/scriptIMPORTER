@@ -1,0 +1,5 @@
+# THRUSH 6m
+# Thrush
+# use Candida and see Stomatitis freqs
+freq 414000.00 180
+freq 465000.00 180

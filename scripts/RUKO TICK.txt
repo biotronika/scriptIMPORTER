@@ -1,0 +1,6 @@
+# RUKO TICK 9m
+# Ruko_tick
+# 
+freq 6634000.00 180
+freq 285000.00 180
+freq 308000.00 180

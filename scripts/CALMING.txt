@@ -1,0 +1,4 @@
+# CALMING 3m
+# Calming
+# 
+freq 6000000.00 180

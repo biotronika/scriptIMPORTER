@@ -1,0 +1,4 @@
+# VEGETATIVE DY  1 3m
+# Vegetative_dystonia
+# involuntary muscle dysfunction
+freq 40000.00 180

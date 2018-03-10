@@ -1,0 +1,4 @@
+# CRINIS HUMANSIS 3m
+# Crinis_humansis
+# 
+freq 646000.00 180

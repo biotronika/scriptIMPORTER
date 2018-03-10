@@ -1,0 +1,11 @@
+# SCIATICOR SCHIAS 24m
+# Sciaticor_schias
+# 
+freq 1550000.00 180
+freq 802000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180
+freq 10000.00 180

@@ -1,0 +1,8 @@
+# IMMUNE SYSTEM  3 15m
+# Immune_system_stimulation_1
+# 
+freq 40400.00 180
+freq 40500.00 180
+freq 40600.00 180
+freq 40700.00 180
+freq 40800.00 180

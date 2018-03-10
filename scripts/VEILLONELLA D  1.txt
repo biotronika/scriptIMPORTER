@@ -1,0 +1,6 @@
+# VEILLONELLA D  1 6m
+# Veillonella_dispar_HC
+# 
+freq 20064000.00 1
+scan 20065000.00 179
+freq 998940.00 180

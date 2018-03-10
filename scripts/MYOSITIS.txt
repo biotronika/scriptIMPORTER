@@ -1,0 +1,10 @@
+# MYOSITIS 21m
+# Myositis
+# involves progressive muscle weakness
+freq 120000.00 180
+freq 122000.00 180
+freq 125000.00 180
+freq 129000.00 180
+freq 1124000.00 180
+freq 1169000.00 180
+freq 762000.00 180

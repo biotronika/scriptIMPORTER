@@ -1,0 +1,5 @@
+# CANCER LEUKEM  4 6m
+# Cancer_leukemia_myeloid
+# characterized by rapid growth of incompletely formed white blood cells
+freq 422000.00 180
+freq 822000.00 180

@@ -1,0 +1,5 @@
+# WERLHOF 6m
+# Werlhof
+# 
+freq 690000.00 180
+freq 452000.00 180

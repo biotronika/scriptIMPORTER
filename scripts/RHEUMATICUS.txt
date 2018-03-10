@@ -1,0 +1,6 @@
+# RHEUMATICUS 9m
+# Rheumaticus
+# 
+freq 333000.00 180
+freq 376000.00 180
+freq 820000.00 180

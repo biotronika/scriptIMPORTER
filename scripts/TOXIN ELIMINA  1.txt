@@ -1,0 +1,8 @@
+# TOXIN ELIMINA  1 15m
+# Toxin_elimination
+# 
+freq 1000.00 180
+freq 522000.00 180
+freq 146000.00 180
+freq 1552000.00 180
+freq 800000.00 180

@@ -1,0 +1,11 @@
+# MUSCLES TO RELAX 24m
+# Muscles_to_relax
+# 
+freq 965000.00 180
+freq 20000.00 180
+freq 120000.00 180
+freq 240000.00 180
+freq 760000.00 180
+freq 6800.00 180
+freq 6000000.00 180
+freq 304000.00 180

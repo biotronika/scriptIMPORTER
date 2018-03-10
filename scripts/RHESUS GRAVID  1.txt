@@ -1,0 +1,7 @@
+# RHESUS GRAVID  1 12m
+# Rhesus_gravidatum
+# 
+freq 312000.00 180
+freq 322000.00 180
+freq 536000.00 180
+freq 684000.00 180

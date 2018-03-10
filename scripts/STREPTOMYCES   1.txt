@@ -1,0 +1,5 @@
+# STREPTOMYCES   1 6m
+# Streptomyces_griseus
+# soil bacteria which yields streptomycin
+freq 333000.00 180
+freq 887000.00 180

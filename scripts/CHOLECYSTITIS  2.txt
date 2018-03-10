@@ -1,0 +1,6 @@
+# CHOLECYSTITIS  2 9m
+# Cholecystitis_chronic
+# long-term inflammation of the gallbladder
+freq 432000.00 180
+freq 1551000.00 180
+freq 801000.00 180

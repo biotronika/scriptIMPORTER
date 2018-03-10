@@ -1,0 +1,4 @@
+# CURVA SPIC 3m
+# Curva_spic
+# 
+freq 435000.00 180

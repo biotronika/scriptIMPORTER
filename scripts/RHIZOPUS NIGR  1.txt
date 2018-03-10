@@ -1,0 +1,8 @@
+# RHIZOPUS NIGR  1 15m
+# Rhizopus_nigricans
+# 
+freq 132000.00 180
+freq 327000.00 180
+freq 775000.00 180
+freq 659000.00 180
+freq 660000.00 180

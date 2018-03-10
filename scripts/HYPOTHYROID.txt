@@ -1,0 +1,11 @@
+# HYPOTHYROID 24m
+# Hypothyroid
+# 
+freq 2000.00 180
+freq 12000.00 180
+freq 35000.00 180
+freq 16000000.00 180
+freq 10000000.00 180
+freq 160000.00 180
+freq 80000.00 180
+freq 20000.00 180

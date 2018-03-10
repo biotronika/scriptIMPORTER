@@ -1,0 +1,5 @@
+# DIVERTICULOSIS 6m
+# Diverticulosis
+# characterized by tiny hernias of intestinal tissue protruding through the muscular wall of the colon
+freq 154000.00 180
+freq 934000.00 180

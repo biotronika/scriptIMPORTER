@@ -1,0 +1,12 @@
+# HEADACHES UNK  1 27m
+# Headaches_unknown_cause
+# 
+freq 10000.00 180
+freq 4000.00 180
+freq 5800.00 180
+freq 6300.00 180
+freq 7830.00 180
+freq 3000000.00 180
+freq 650000.00 180
+freq 625000.00 180
+freq 600000.00 180

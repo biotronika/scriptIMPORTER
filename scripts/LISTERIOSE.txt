@@ -1,0 +1,13 @@
+# LISTERIOSE 30m
+# Listeriose
+# a serious disease causing miscarriage. meningitis. and endocarditis in humans; known as circling disease in ruminants and causes liver necrosis in animals with single stomachs. Also see Strep general and General infection
+freq 377000.00 180
+freq 471000.00 180
+freq 626000.00 180
+freq 628000.00 180
+freq 634000.00 180
+freq 774000.00 180
+freq 2162000.00 180
+freq 7867000.00 180
+freq 714000.00 180
+freq 724000.00 180

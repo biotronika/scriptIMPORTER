@@ -1,0 +1,4 @@
+# BACKACHE CHRO  1 3m
+# Backache_chronic_lower_1
+# use with back toward tube. Use 728 for 30min
+freq 728000.00 180

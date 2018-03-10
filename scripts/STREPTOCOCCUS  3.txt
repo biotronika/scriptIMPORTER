@@ -1,0 +1,22 @@
+# STREPTOCOCCUS  3 57m
+# Streptococcus_infection_general
+# streptococcus family. Also see General antiseptic and other Strep sets. 880*
+freq 2000000.00 180
+freq 1266000.00 180
+freq 885000.00 180
+freq 884000.00 180
+freq 883000.00 180
+freq 882000.00 180
+freq 881000.00 180
+freq 880000.00 180
+freq 879000.00 180
+freq 878000.00 180
+freq 877000.00 180
+freq 876000.00 180
+freq 875000.00 180
+freq 848000.00 180
+freq 802000.00 180
+freq 800000.00 180
+freq 787000.00 180
+freq 784000.00 180
+freq 727000.00 180

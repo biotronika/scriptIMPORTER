@@ -1,0 +1,10 @@
+# PYROGENIUM 62 21m
+# Pyrogenium_62
+# general homeopathic remedy for pus
+freq 151000.00 180
+freq 429000.00 180
+freq 594000.00 180
+freq 622000.00 180
+freq 872000.00 180
+freq 497000.00 180
+freq 498000.00 180

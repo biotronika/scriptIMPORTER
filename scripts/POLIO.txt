@@ -1,0 +1,10 @@
+# POLIO 21m
+# Polio
+# also known as poliomyelitis
+freq 135000.00 180
+freq 283000.00 180
+freq 742000.00 180
+freq 776000.00 180
+freq 1500000.00 180
+freq 2632000.00 180
+freq 1850000.00 180

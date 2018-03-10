@@ -1,0 +1,4 @@
+# PSEUDOMONAS P  1 3m
+# Pseudomonas_pyocyanea
+# 
+freq 437000.00 180

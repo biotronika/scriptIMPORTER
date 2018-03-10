@@ -1,0 +1,6 @@
+# ERWINIA AMYLO  1 6m
+# Erwinia_amylovora_HC
+# 
+freq 17425000.00 1
+scan 17426000.00 179
+freq 867560.00 180

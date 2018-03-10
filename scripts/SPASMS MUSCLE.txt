@@ -1,0 +1,4 @@
+# SPASMS MUSCLE 3m
+# Spasms_muscle
+# 
+freq 6800.00 180

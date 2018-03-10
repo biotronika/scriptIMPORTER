@@ -1,0 +1,6 @@
+# TULAREMIA 9m
+# Tularemia
+# a serious infectious disease also called deerfly fever or rabbit fever
+freq 324000.00 180
+freq 427000.00 180
+freq 823000.00 180

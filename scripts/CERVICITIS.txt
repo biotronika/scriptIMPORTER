@@ -1,0 +1,7 @@
+# CERVICITIS 12m
+# Cervicitis
+# womb neck inflammations
+freq 20000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180

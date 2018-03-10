@@ -1,0 +1,9 @@
+# OTITIS EXTERNA 18m
+# Otitis_externa
+# outer ear infection. Also see Pseudomonas aeruginosa
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 174000.00 180
+freq 482000.00 180
+freq 5311000.00 180

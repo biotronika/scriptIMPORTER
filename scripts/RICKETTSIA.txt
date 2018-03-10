@@ -1,0 +1,13 @@
+# RICKETTSIA 30m
+# Rickettsia
+# bacteria that are transmitted to man by lice. fleas. ticks. and mites. Can cause typhoid fever and Q fever.
+freq 129000.00 180
+freq 632000.00 180
+freq 943000.00 180
+freq 1062000.00 180
+freq 549000.00 180
+freq 720000.00 180
+freq 726000.00 180
+freq 521000.00 180
+freq 2085000.00 180
+freq 4170000.00 180

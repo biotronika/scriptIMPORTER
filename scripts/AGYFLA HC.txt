@@ -1,0 +1,6 @@
+# AGYFLA HC 6m
+# Agyfla_HC
+# 
+freq 3534000.00 1
+scan 3535000.00 179
+freq 175990.00 180

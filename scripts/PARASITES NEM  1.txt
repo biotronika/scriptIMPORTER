@@ -1,0 +1,4 @@
+# PARASITES NEM  1 3m
+# Parasites_nematode
+# 
+freq 771000.00 180

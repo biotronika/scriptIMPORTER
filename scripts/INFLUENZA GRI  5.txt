@@ -1,0 +1,6 @@
+# INFLUENZA GRI  5 9m
+# Influenza_grippe_1990
+# 
+freq 541000.00 180
+freq 560000.00 180
+freq 656000.00 180

@@ -1,0 +1,10 @@
+# FLATULENCE 21m
+# Flatulence
+# 
+freq 1550000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180

@@ -1,0 +1,4 @@
+# PARASITES TUR  1 3m
+# Parasites_turbatrix
+# 
+freq 104000.00 180

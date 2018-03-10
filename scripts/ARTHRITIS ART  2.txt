@@ -1,0 +1,4 @@
+# ARTHRITIS ART  2 3m
+# Arthritis_arthrosis_and_parathyroid_disturbances_affecting_calcium_metabolism
+# 
+freq 9600.00 180

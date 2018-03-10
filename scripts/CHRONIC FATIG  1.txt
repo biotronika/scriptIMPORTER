@@ -1,0 +1,13 @@
+# CHRONIC FATIG  1 30m
+# Chronic_fatigue_syndrome
+# use with General parasite. roundworm. and fluke sets if necessary. Also see EBV and Fatigue general sets. If no response to these. try Cancer leukemia hairy cell
+freq 10000000.00 180
+freq 660000.00 180
+freq 2127000.00 180
+freq 787000.00 180
+freq 465000.00 180
+freq 424000.00 180
+freq 664000.00 180
+freq 120000.00 180
+freq 880000.00 180
+freq 1550000.00 180

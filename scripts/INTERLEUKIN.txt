@@ -1,0 +1,10 @@
+# INTERLEUKIN 21m
+# Interleukin
+# used to stimulate lymphocyte production
+freq 3448000.00 180
+freq 2929000.00 180
+freq 4014000.00 180
+freq 5611000.00 180
+freq 2867000.00 180
+freq 2855000.00 180
+freq 2791000.00 180

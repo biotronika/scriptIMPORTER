@@ -1,0 +1,8 @@
+# COLD 4 15m
+# Cold_4
+# use 880 and 800 for 10 min. 728 for 5 min
+freq 3176000.00 180
+freq 2489000.00 180
+freq 880000.00 180
+freq 800000.00 180
+freq 728000.00 180

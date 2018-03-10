@@ -1,0 +1,4 @@
+# FRUITFLY 3m
+# Fruitfly
+# 
+freq 2167000.00 180

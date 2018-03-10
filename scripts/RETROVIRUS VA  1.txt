@@ -1,0 +1,11 @@
+# RETROVIRUS VA  1 24m
+# Retrovirus_variants
+# 
+freq 2489000.00 180
+freq 465000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 448000.00 180
+freq 800000.00 180
+freq 10000000.00 180

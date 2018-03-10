@@ -1,0 +1,4 @@
+# FASCIA 3m
+# Fascia
+# fibrous tissue under the skin. Also see Fibroid freqs
+freq 20000.00 180

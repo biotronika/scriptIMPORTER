@@ -1,0 +1,6 @@
+# CAMPYLOBACTER  1 6m
+# Campylobacter_fetus_HC
+# smear
+freq 18321000.00 1
+scan 18322000.00 179
+freq 912180.00 180

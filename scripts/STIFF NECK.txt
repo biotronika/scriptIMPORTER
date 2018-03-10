@@ -1,0 +1,6 @@
+# STIFF NECK 9m
+# Stiff_neck
+# 
+freq 4900.00 180
+freq 6000.00 180
+freq 9190.00 180

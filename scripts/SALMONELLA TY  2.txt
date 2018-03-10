@@ -1,0 +1,6 @@
+# SALMONELLA TY  2 9m
+# Salmonella_typhimurium
+# 
+freq 693000.00 180
+freq 754000.00 180
+freq 762000.00 180

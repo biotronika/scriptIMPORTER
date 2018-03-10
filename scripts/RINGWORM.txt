@@ -1,0 +1,14 @@
+# RINGWORM 33m
+# Ringworm
+# see Microsporum audouini. Microsporum canis. Trichophyton. and/or Epidermophyton. Use all freqs for 6 min
+freq 5000000.00 180
+freq 800000.00 180
+freq 732000.00 180
+freq 442000.00 180
+freq 440000.00 180
+freq 422000.00 180
+freq 128000.00 180
+freq 120000.00 180
+freq 92000.00 180
+freq 76000.00 180
+freq 60000.00 180

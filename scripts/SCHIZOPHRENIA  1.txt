@@ -1,0 +1,6 @@
+# SCHIZOPHRENIA  1 9m
+# Schizophrenia_paranoid_1
+# also see Tuberculosis
+freq 802000.00 180
+freq 1500000.00 180
+freq 1550000.00 180

@@ -1,0 +1,11 @@
+# PARASITES STR  3 24m
+# Parasites_strongyloides_secondary
+# 
+freq 380000.00 180
+freq 698000.00 180
+freq 752000.00 180
+freq 776000.00 180
+freq 722000.00 180
+freq 738000.00 180
+freq 746000.00 180
+freq 1113000.00 180

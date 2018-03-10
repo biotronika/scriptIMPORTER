@@ -1,0 +1,5 @@
+# HYPERTHYROID 6m
+# Hyperthyroid
+# 
+freq 3000.00 180
+freq 1000.00 180

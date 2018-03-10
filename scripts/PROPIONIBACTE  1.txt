@@ -1,0 +1,5 @@
+# PROPIONIBACTE  1 3m
+# Propionibacterium_acnes
+# may be secondary cause of some prostate cancers. Sweep from 5996.1 to 6078.1 by 0.03125 dwell 1 pulse 64 75 plus 6046.9 for 6 min
+freq 6046000.00 1
+scan 6047000.00 179

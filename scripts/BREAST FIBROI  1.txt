@@ -1,0 +1,13 @@
+# BREAST FIBROI  1 30m
+# Breast_fibroid_cysts
+# also use black walnut hull capsules and mixed tocopherols if possible
+freq 1550000.00 180
+freq 1384000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 666000.00 180
+freq 267000.00 180

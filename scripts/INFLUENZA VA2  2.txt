@@ -1,0 +1,4 @@
+# INFLUENZA VA2  2 3m
+# Influenza_VA2L_grippe
+# 
+freq 447000.00 180

@@ -1,0 +1,12 @@
+# PAIN OF INFEC  1 27m
+# Pain_of_infection
+# 
+freq 3000000.00 180
+freq 95000.00 180
+freq 880000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 4900.00 180

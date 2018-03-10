@@ -1,0 +1,6 @@
+# TREPONEMA PAL  2 6m
+# Treponema_pallidum_HC
+# causes syphilis
+freq 17276000.00 1
+scan 17277000.00 179
+freq 860130.00 180

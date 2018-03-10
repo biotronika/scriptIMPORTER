@@ -1,0 +1,6 @@
+# SEIZURE 1 9m
+# Seizure_1
+# 
+freq 329000.00 180
+freq 226000.00 180
+freq 953000.00 180

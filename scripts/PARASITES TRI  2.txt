@@ -1,0 +1,8 @@
+# PARASITES TRI  2 15m
+# Parasites_trichinosis
+# 
+freq 101000.00 180
+freq 541000.00 180
+freq 822000.00 180
+freq 1054000.00 180
+freq 1372000.00 180

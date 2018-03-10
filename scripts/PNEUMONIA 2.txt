@@ -1,0 +1,6 @@
+# PNEUMONIA 2 9m
+# Pneumonia_2
+# 
+freq 986000.00 180
+freq 987000.00 180
+freq 988000.00 180

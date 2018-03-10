@@ -1,0 +1,9 @@
+# JOINT PAIN BA  1 18m
+# Joint_pain_basic_TR
+# also known as Pain.Bio. run 160. 500. 1600. 5000 with pulse 4 60. 1600 500 160 with pulse 2 60. 160 324 528 with pulse 2 60 converge 1 1
+freq 160000.00 180
+freq 500000.00 180
+freq 1600000.00 180
+freq 5000000.00 180
+freq 324000.00 180
+freq 528000.00 180

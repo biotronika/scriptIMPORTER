@@ -1,0 +1,4 @@
+# REFRACTORY AN 3m
+# Refractory_an
+# 
+freq 435000.00 180

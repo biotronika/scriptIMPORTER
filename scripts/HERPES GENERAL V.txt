@@ -1,0 +1,8 @@
+# HERPES GENERAL V 15m
+# Herpes_general_v
+# 
+freq 165000.00 180
+freq 141000.00 180
+freq 383000.00 180
+freq 450000.00 180
+freq 629000.00 180

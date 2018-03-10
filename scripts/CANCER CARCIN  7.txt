@@ -1,0 +1,8 @@
+# CANCER CARCIN  7 15m
+# Cancer_carcinoma_liver_1
+# 
+freq 393000.00 180
+freq 479000.00 180
+freq 520000.00 180
+freq 734000.00 180
+freq 3130000.00 180

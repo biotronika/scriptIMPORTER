@@ -1,0 +1,9 @@
+# PROSTATE ENLA  1 18m
+# Prostate_enlarged
+# see Prostatitis and other prostate sets and Strep general
+freq 2250000.00 180
+freq 2128000.00 180
+freq 2050000.00 180
+freq 920000.00 180
+freq 690000.00 180
+freq 666000.00 180

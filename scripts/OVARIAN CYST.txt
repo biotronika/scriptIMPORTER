@@ -1,0 +1,6 @@
+# OVARIAN CYST 9m
+# Ovarian_cyst
+# 
+freq 567000.00 180
+freq 982000.00 180
+freq 711000.00 180

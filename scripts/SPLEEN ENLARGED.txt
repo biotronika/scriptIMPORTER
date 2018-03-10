@@ -1,0 +1,6 @@
+# SPLEEN ENLARGED 9m
+# Spleen_enlarged
+# 
+freq 35000.00 180
+freq 787000.00 180
+freq 3176000.00 180

@@ -1,0 +1,10 @@
+# ADENOVIRUS 21m
+# Adenovirus
+# a virus that can cause colds/flu and infections in the lungs. stomach. and intestines
+freq 333000.00 180
+freq 523000.00 180
+freq 666000.00 180
+freq 786000.00 180
+freq 768000.00 180
+freq 959000.00 180
+freq 962000.00 180

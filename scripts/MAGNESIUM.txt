@@ -1,0 +1,4 @@
+# MAGNESIUM 3m
+# Magnesium
+# 
+freq 480000.00 180

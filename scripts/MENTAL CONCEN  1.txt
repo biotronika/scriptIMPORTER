@@ -1,0 +1,5 @@
+# MENTAL CONCEN  1 6m
+# Mental_concentration
+# 
+freq 10000000.00 180
+freq 7820.00 180

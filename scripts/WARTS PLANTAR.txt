@@ -1,0 +1,13 @@
+# WARTS PLANTAR 27m
+# Warts_plantar
+# use 915 and 918 for 15 to 30min
+freq 915000.00 180
+freq 918000.00 180
+freq 20000.00 180
+freq 120000.00 180
+freq 727500.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 2008000.00 180
+freq 2127000.00 1
+scan 2128000.00 179

@@ -1,0 +1,6 @@
+# PASTEURELLA C  1 9m
+# Pasteurella_combination
+# bacterial diseases spread by animal bites
+freq 323000.00 180
+freq 913000.00 180
+freq 694000.00 180

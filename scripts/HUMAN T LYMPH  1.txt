@@ -1,0 +1,10 @@
+# HUMAN T LYMPH  1 21m
+# Human_T_lymphocyte_Virus1
+# used for MS and autoimmune disease
+freq 725000.00 180
+freq 2432000.00 180
+freq 243000.00 180
+freq 6353000.00 180
+freq 732000.00 180
+freq 844000.00 180
+freq 646000.00 180

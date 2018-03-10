@@ -1,0 +1,11 @@
+# HEADACHES DUE  2 24m
+# Headaches_due_to_toxicity
+# 
+freq 522000.00 180
+freq 146000.00 180
+freq 4900.00 180
+freq 3000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

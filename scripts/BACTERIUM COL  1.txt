@@ -1,0 +1,9 @@
+# BACTERIUM COL  1 18m
+# Bacterium_coli_commune_combination
+# 
+freq 282000.00 180
+freq 333000.00 180
+freq 413000.00 180
+freq 957000.00 180
+freq 1320000.00 180
+freq 1722000.00 180

@@ -1,0 +1,7 @@
+# PARKINSON TRE  1 12m
+# Parkinson_tremor_temporary_relief
+# use 6000 for 10 min
+freq 6000000.00 180
+freq 470000.00 180
+freq 130000.00 180
+freq 169000.00 180

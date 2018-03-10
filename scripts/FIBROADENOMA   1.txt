@@ -1,0 +1,6 @@
+# FIBROADENOMA   1 9m
+# Fibroadenoma_mamae
+# non cancerous. fibrous nodules in the breasts. Use kelp capsules too
+freq 1384000.00 180
+freq 2128000.00 180
+freq 2189000.00 180

@@ -1,0 +1,5 @@
+# CUNNINGHAMELLA 6m
+# Cunninghamella
+# 
+freq 311000.00 180
+freq 323000.00 180

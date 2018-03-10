@@ -1,0 +1,23 @@
+# ECHO VIRUS 60m
+# Echo_Virus
+# Endometriosis Tuberylosa. can cause a type of viral meningitis
+freq 922000.00 180
+freq 788000.00 180
+freq 765000.00 180
+freq 722000.00 180
+freq 625000.00 180
+freq 620000.00 180
+freq 614000.00 180
+freq 613000.00 180
+freq 612000.00 180
+freq 611000.00 180
+freq 610000.00 180
+freq 609000.00 180
+freq 608000.00 180
+freq 607000.00 180
+freq 606000.00 180
+freq 605000.00 180
+freq 604000.00 180
+freq 603000.00 180
+freq 514000.00 180
+freq 461000.00 180

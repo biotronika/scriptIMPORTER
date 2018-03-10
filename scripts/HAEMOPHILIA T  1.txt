@@ -1,0 +1,6 @@
+# HAEMOPHILIA T  1 9m
+# Haemophilia_tonic
+# hereditary bleeding disorders in which the blood does not readily clot
+freq 778000.00 180
+freq 845000.00 180
+freq 751000.00 180

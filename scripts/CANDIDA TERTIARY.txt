@@ -1,0 +1,18 @@
+# CANDIDA TERTIARY 45m
+# Candida_tertiary
+# some causal factors
+freq 880000.00 180
+freq 95000.00 180
+freq 125000.00 180
+freq 20000.00 180
+freq 60000.00 180
+freq 225000.00 180
+freq 427000.00 180
+freq 240000.00 180
+freq 650000.00 180
+freq 688000.00 180
+freq 152000.00 180
+freq 442000.00 180
+freq 8146000.00 180
+freq 751000.00 180
+freq 1146000.00 180

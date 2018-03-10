@@ -1,0 +1,4 @@
+# EAR FUNGUS 1 3m
+# Ear_fungus_1
+# 
+freq 854000.00 180

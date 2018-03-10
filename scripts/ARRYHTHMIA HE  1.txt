@@ -1,0 +1,5 @@
+# ARRYHTHMIA HE  1 6m
+# Arryhthmia_heart_TR
+# also use magnesium. CoQ10. and fish oil
+freq 696000.00 180
+freq 7830.00 180

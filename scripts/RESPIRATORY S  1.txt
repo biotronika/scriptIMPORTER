@@ -1,0 +1,6 @@
+# RESPIRATORY S  1 9m
+# Respiratory_syncytial_virus
+# 
+freq 336000.00 180
+freq 712000.00 180
+freq 278000.00 180

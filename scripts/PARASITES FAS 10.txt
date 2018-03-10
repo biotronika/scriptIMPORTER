@@ -1,0 +1,7 @@
+# PARASITES FAS 10 6m
+# Parasites_fasciolopsis_rediae_HC
+# 
+freq 21508000.00 1
+scan 21509000.00 179
+freq 1070000.00 1
+scan 1071000.00 179

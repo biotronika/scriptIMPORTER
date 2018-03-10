@@ -1,0 +1,8 @@
+# TUBERCULOSIS   4 15m
+# Tuberculosis_rod_E_coli_infections
+# 
+freq 799000.00 180
+freq 802000.00 180
+freq 804000.00 180
+freq 1550000.00 180
+freq 1513000.00 180

@@ -1,0 +1,9 @@
+# FRACTURES HEA  1 18m
+# Fractures_healing
+# 
+freq 220000.00 180
+freq 230000.00 180
+freq 10000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180

@@ -1,0 +1,8 @@
+# LIVER SUPPORT 15m
+# Liver_support
+# also try E_coli. Parasites_general and Parasites_flukes_general
+freq 33130.00 180
+freq 1552000.00 180
+freq 802000.00 180
+freq 751000.00 180
+freq 331300.00 180

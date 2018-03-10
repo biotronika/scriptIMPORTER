@@ -1,0 +1,7 @@
+# CHEST INFECTI  1 12m
+# Chest_infection_secondary
+# 
+freq 72000.00 180
+freq 333000.00 180
+freq 452000.00 180
+freq 683000.00 180

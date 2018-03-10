@@ -1,0 +1,7 @@
+# ABDOMINAL PAIN 12m
+# Abdominal_pain
+# 
+freq 10000000.00 180
+freq 3000000.00 180
+freq 95000.00 180
+freq 3000.00 180

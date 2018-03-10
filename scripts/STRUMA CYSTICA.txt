@@ -1,0 +1,7 @@
+# STRUMA CYSTICA 12m
+# Struma_cystica
+# 
+freq 5311000.00 180
+freq 531000.00 180
+freq 756000.00 180
+freq 361000.00 180

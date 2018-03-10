@@ -1,0 +1,8 @@
+# CIRCULATORY S  1 15m
+# Circulatory_stasis
+# stimulates blood circulation. See also Circulation disturbances
+freq 40000.00 180
+freq 2112000.00 180
+freq 2145000.00 180
+freq 2720000.00 180
+freq 2489000.00 180

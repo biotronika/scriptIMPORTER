@@ -1,0 +1,4 @@
+# NEUROSIS 3m
+# Neurosis
+# 
+freq 28000.00 180

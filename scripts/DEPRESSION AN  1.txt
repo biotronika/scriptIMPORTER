@@ -1,0 +1,5 @@
+# DEPRESSION AN  1 6m
+# Depression_anxiety_trembling_weakness
+# 
+freq 3500.00 180
+freq 800000.00 180

@@ -1,0 +1,9 @@
+# EPIDIDYMITIS 18m
+# Epididymitis
+# inflammation of testicle area. ducts. See also Orchitis.
+freq 2250000.00 180
+freq 1500000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

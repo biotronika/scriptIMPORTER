@@ -1,0 +1,21 @@
+# STREPTOCOCCUS 13 54m
+# Streptococcus_pyogenes
+# pus forming infections. Can cause sore throat. skin inflammation. scarlet fever. pharyngitis. scarlet fever. impetigo. erysipelas. cellulitis. septicemia. toxic shock syndrome. and acute glomerulonephritis See also General antiseptic
+freq 10000000.00 180
+freq 5004000.00 180
+freq 8450000.00 180
+freq 2502000.00 180
+freq 2111000.00 180
+freq 1214000.00 180
+freq 880000.00 180
+freq 845000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 735000.00 180
+freq 727000.00 180
+freq 720000.00 180
+freq 660000.00 180
+freq 625500.00 180
+freq 616000.00 180
+freq 465000.00 180
+freq 20000.00 180

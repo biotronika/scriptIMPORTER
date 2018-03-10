@@ -1,0 +1,7 @@
+# GRAVES DISEAS  1 12m
+# Graves_disease_and_goiter
+# 
+freq 20000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180

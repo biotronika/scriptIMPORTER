@@ -1,0 +1,5 @@
+# CIMICIFUGA 6m
+# Cimicifuga
+# plant family including black snakeroot and black cohosh
+freq 334000.00 180
+freq 594000.00 180

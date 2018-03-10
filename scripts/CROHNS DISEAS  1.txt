@@ -1,0 +1,7 @@
+# CROHNS DISEAS  1 12m
+# Crohns_disease_protozoa_1
+# 
+freq 200000.00 180
+freq 206000.00 180
+freq 249000.00 180
+freq 298000.00 180

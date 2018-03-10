@@ -1,0 +1,6 @@
+# INFLAMMATION   1 9m
+# Inflammation_general
+# also see Infection general sets
+freq 1500.00 180
+freq 3600.00 180
+freq 2720000.00 180

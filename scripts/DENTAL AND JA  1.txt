@@ -1,0 +1,12 @@
+# DENTAL AND JA  1 27m
+# Dental_and_jawbone_infections_1
+# use converge 1 1 on all except use converge 1 0.1 on 728
+freq 7270000.00 180
+freq 2720000.00 180
+freq 2170000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 500000.00 180
+freq 190000.00 180
+freq 728000.00 180

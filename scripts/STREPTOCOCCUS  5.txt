@@ -1,0 +1,6 @@
+# STREPTOCOCCUS  5 6m
+# Streptococcus_mitis_HC
+# lung infection. tooth infection. abscesses. stiff knees
+freq 15832000.00 1
+scan 15833000.00 179
+freq 788240.00 180

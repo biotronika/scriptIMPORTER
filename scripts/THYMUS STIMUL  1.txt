@@ -1,0 +1,4 @@
+# THYMUS STIMUL  1 3m
+# Thymus_stimulation
+# 
+freq 20000.00 180

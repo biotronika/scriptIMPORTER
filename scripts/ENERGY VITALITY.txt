@@ -1,0 +1,4 @@
+# ENERGY VITALITY 3m
+# Energy_vitality
+# 
+freq 9999000.00 180

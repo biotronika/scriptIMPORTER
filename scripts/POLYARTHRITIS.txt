@@ -1,0 +1,4 @@
+# POLYARTHRITIS 3m
+# Polyarthritis
+# 
+freq 512000.00 180

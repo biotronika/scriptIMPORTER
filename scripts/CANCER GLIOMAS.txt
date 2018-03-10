@@ -1,0 +1,6 @@
+# CANCER GLIOMAS 9m
+# Cancer_gliomas
+# largest group of brain cancers
+freq 543000.00 180
+freq 641000.00 180
+freq 857000.00 180

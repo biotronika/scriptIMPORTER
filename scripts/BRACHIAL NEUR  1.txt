@@ -1,0 +1,4 @@
+# BRACHIAL NEUR  1 3m
+# Brachial_neuralgia
+# 
+freq 1000.00 180

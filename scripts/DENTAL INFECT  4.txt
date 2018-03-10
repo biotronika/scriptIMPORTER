@@ -1,0 +1,7 @@
+# DENTAL INFECT  4 12m
+# Dental_infections_TR
+# 
+freq 3400000.00 180
+freq 2489000.00 180
+freq 1700000.00 180
+freq 1560000.00 180

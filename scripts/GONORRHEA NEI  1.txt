@@ -1,0 +1,6 @@
+# GONORRHEA NEI  1 6m
+# Gonorrhea_neisseria_HC
+# 
+freq 16628000.00 1
+scan 16629000.00 179
+freq 927900.00 180

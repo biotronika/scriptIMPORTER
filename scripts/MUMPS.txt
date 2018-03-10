@@ -1,0 +1,8 @@
+# MUMPS 15m
+# Mumps
+# acute viral inflammation of the saliva glands. See also Coxsackie
+freq 152000.00 180
+freq 242000.00 180
+freq 642000.00 180
+freq 674000.00 180
+freq 922000.00 180

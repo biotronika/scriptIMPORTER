@@ -1,0 +1,9 @@
+# MYCOPLASMA SA  1 18m
+# Mycoplasma_salivarium_1
+# run each for 18 min after building up
+freq 253000.00 180
+freq 279000.00 180
+freq 420000.00 180
+freq 453000.00 180
+freq 761000.00 180
+freq 832000.00 180

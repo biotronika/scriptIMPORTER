@@ -1,0 +1,6 @@
+# INFLUENZA V4   1 9m
+# Influenza_V4_grippe
+# 
+freq 232000.00 180
+freq 352000.00 180
+freq 2558000.00 180

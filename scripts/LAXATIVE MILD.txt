@@ -1,0 +1,4 @@
+# LAXATIVE MILD 3m
+# Laxative_mild
+# 
+freq 802000.00 180

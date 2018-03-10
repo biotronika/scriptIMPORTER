@@ -1,0 +1,5 @@
+# MYOCARDITIS N  1 6m
+# Myocarditis_narbe
+# narbe means scar
+freq 279000.00 180
+freq 761000.00 180

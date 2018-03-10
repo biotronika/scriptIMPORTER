@@ -1,0 +1,7 @@
+# MENOPAUSE SYM  1 12m
+# Menopause_symptoms_TR
+# 
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 5500.00 180

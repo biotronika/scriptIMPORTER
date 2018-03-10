@@ -1,0 +1,6 @@
+# ZYGOMYCOSIS 9m
+# Zygomycosis
+# also called mucormycosis; a serious fungal infection usually associated with uncontrolled diabetes mellitus or immunosuppressive drugs
+freq 942000.00 180
+freq 623000.00 180
+freq 73000.00 180

@@ -1,0 +1,10 @@
+# DIABETIC TOE   1 21m
+# Diabetic_toe_ulcer_1
+# also use Staph aureus freqs and see Staph general. General antiseptic. and Circulation stimulation as needed
+freq 786000.00 180
+freq 2112000.00 180
+freq 1050000.00 180
+freq 1200.00 180
+freq 5000000.00 180
+freq 832000.00 180
+freq 20000.00 180

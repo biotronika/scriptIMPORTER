@@ -1,0 +1,5 @@
+# MASTITIS 6m
+# Mastitis
+# an inflamed breast usually caused by bacterial infection
+freq 654000.00 180
+freq 698000.00 180

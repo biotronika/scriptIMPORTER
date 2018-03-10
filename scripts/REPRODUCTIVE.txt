@@ -1,0 +1,7 @@
+# REPRODUCTIVE 12m
+# Reproductive
+# 
+freq 335000.00 180
+freq 536000.00 180
+freq 622000.00 180
+freq 712000.00 180

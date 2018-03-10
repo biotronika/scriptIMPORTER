@@ -1,0 +1,6 @@
+# CYST SOLITARY 9m
+# Cyst_solitary
+# 
+freq 75000.00 180
+freq 76000.00 180
+freq 543000.00 180

@@ -1,0 +1,9 @@
+# CHOLERA SECON  1 18m
+# Cholera_secondary
+# 
+freq 880000.00 180
+freq 802000.00 180
+freq 450000.00 180
+freq 832000.00 180
+freq 787000.00 180
+freq 727000.00 180

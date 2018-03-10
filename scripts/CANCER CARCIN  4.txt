@@ -1,0 +1,4 @@
+# CANCER CARCIN  4 3m
+# Cancer_carcinoma_colon
+# 656*
+freq 656000.00 180

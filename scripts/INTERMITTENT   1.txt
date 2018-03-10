@@ -1,0 +1,5 @@
+# INTERMITTENT   1 6m
+# Intermittent_claudication
+# 
+freq 45000.00 180
+freq 48000.00 180

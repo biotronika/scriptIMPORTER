@@ -1,0 +1,6 @@
+# BRAIN BETA ST  1 9m
+# Brain_beta_stim_TR
+# 7.83 run at duty 5. 22 and 19.5 run at duty 30 and pulse 7.83 50
+freq 7830.00 180
+freq 22000.00 180
+freq 19500.00 180

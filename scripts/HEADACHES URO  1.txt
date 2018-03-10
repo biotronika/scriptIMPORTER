@@ -1,0 +1,5 @@
+# HEADACHES URO  1 6m
+# Headaches_urogenitally_caused
+# 
+freq 9390.00 180
+freq 3000000.00 180

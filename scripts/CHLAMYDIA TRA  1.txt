@@ -1,0 +1,14 @@
+# CHLAMYDIA TRA  1 27m
+# Chlamydia_trachomatis
+# a usually sexually transmitted bacterial infection causing trachoma. inclusion conjunctivitis. lymphogranuloma venereum. urethritis. and proctitis.
+freq 430000.00 180
+freq 620000.00 180
+freq 624000.00 180
+freq 840000.00 180
+freq 1111000.00 1
+scan 1112000.00 179
+freq 2213000.00 180
+freq 866000.00 180
+freq 555700.00 180
+freq 2222000.00 1
+scan 2223000.00 179

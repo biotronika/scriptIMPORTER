@@ -1,0 +1,7 @@
+# CIRRHOSIS BIL  1 12m
+# Cirrhosis_biliary
+# an inflammatory condition in which bile flow through the liver is obstructed
+freq 381000.00 180
+freq 514000.00 180
+freq 677000.00 180
+freq 2271000.00 180

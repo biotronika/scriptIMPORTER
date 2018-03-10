@@ -1,0 +1,7 @@
+# PARASITES ASC  2 6m
+# Parasites_ascaris_HC
+# larvae in lung
+freq 20313000.00 1
+scan 20314000.00 179
+freq 1011000.00 1
+scan 1012000.00 179

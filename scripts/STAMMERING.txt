@@ -1,0 +1,7 @@
+# STAMMERING 12m
+# Stammering
+# 
+freq 10000000.00 180
+freq 20000.00 180
+freq 6000000.00 180
+freq 7830.00 180

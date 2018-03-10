@@ -1,0 +1,8 @@
+# CERVICAL POLYP 15m
+# Cervical_polyp
+# 
+freq 277000.00 180
+freq 288000.00 180
+freq 867000.00 180
+freq 687000.00 180
+freq 744000.00 180

@@ -1,0 +1,6 @@
+# BESNOITIA HC 6m
+# Besnoitia_HC
+# protozoan taken from lung sect.
+freq 17823000.00 1
+scan 17824000.00 179
+freq 887390.00 180

@@ -1,0 +1,6 @@
+# OVARIAN ELIMI  1 9m
+# Ovarian_elimination_stimulation
+# 
+freq 20000.00 180
+freq 800000.00 180
+freq 1550000.00 180

@@ -1,0 +1,9 @@
+# MYCOPLASMA HC 12m
+# Mycoplasma_HC
+# 
+freq 16106000.00 1
+scan 16107000.00 179
+freq 17226000.00 1
+scan 17227000.00 179
+freq 801880.00 180
+freq 857650.00 180

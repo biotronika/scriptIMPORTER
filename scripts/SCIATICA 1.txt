@@ -1,0 +1,9 @@
+# SCIATICA 1 18m
+# Sciatica_1
+# also use “Bone Builder with Boron” at double dose
+freq 254000.00 180
+freq 464000.00 180
+freq 465000.00 180
+freq 866000.00 180
+freq 15000.00 180
+freq 25400.00 180

@@ -1,0 +1,5 @@
+# LUXATION 6m
+# Luxation
+# dislocation of organs or joints
+freq 9100.00 180
+freq 110000.00 180

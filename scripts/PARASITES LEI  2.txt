@@ -1,0 +1,6 @@
+# PARASITES LEI  2 6m
+# Parasites_leishmania_braziliensis_HC
+# 
+freq 20064000.00 1
+scan 20065000.00 179
+freq 998940.00 180

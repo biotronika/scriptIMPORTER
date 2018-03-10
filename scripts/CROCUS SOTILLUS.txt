@@ -1,0 +1,4 @@
+# CROCUS SOTILLUS 3m
+# Crocus_sotillus
+# 
+freq 710000.00 180

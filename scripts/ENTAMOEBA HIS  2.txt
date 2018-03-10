@@ -1,0 +1,6 @@
+# ENTAMOEBA HIS  2 6m
+# Entamoeba_histolytica_HC
+# 
+freq 19168000.00 1
+scan 19169000.00 179
+freq 954320.00 180

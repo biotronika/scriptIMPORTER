@@ -1,0 +1,4 @@
+# HAIR HUMAN 3m
+# Hair_human
+# 
+freq 646000.00 180

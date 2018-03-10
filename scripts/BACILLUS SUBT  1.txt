@@ -1,0 +1,7 @@
+# BACILLUS SUBT  1 12m
+# Bacillus_subtilis
+# can cause conjunctivitis
+freq 432000.00 180
+freq 722000.00 180
+freq 822000.00 180
+freq 1246000.00 180

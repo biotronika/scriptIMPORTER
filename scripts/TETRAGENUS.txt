@@ -1,0 +1,6 @@
+# TETRAGENUS 9m
+# Tetragenus
+# 
+freq 393000.00 180
+freq 433000.00 180
+freq 2712000.00 180

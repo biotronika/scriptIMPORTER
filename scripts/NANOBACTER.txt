@@ -1,0 +1,7 @@
+# NANOBACTER 12m
+# Nanobacter
+# Nanobacterium sanguineum. a nanobacteria which can be found in some calcium deposits in the arteries. kidneys. gallbladder. muscle and joints as well as in increased numbers in those with "autoimmune" diseases such as lupus. psoriasis. scleroderma. and similar disorders
+freq 634000.00 180
+freq 317000.00 180
+freq 1268000.00 180
+freq 1902000.00 180

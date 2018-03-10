@@ -1,0 +1,10 @@
+# CATARACT 21m
+# Cataract
+# also use eye formula antioxidant supplement for all macular degeneration problems. use 1830 for 10 min. 1830*
+freq 1830000.00 180
+freq 728000.00 180
+freq 784000.00 180
+freq 787000.00 180
+freq 800000.00 180
+freq 880000.00 180
+freq 10000000.00 180

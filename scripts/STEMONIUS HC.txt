@@ -1,0 +1,6 @@
+# STEMONIUS HC 6m
+# Stemonius_HC
+# 
+freq 10505000.00 1
+scan 10506000.00 179
+freq 523020.00 180

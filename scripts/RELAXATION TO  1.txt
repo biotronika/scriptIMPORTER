@@ -1,0 +1,6 @@
+# RELAXATION TO  1 9m
+# Relaxation_to_produce
+# 
+freq 6000000.00 180
+freq 10000.00 180
+freq 7830.00 180

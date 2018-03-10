@@ -1,0 +1,8 @@
+# MALARIA 3 15m
+# Malaria_3
+# all freqs 5 to 15 min each
+freq 880000.00 180
+freq 800000.00 180
+freq 787000.00 180
+freq 728000.00 180
+freq 20000.00 180

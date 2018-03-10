@@ -1,0 +1,8 @@
+# MICROSPORUM C  1 15m
+# Microsporum_canis
+# a fungus causing ringworm in cats. dogs. and children
+freq 347000.00 180
+freq 970000.00 180
+freq 1644000.00 180
+freq 402000.00 180
+freq 650000.00 180

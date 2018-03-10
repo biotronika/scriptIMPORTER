@@ -1,0 +1,6 @@
+# BRONCHIECTASIS 9m
+# Bronchiectasis
+# chronic dilatation of the bronchi
+freq 342000.00 180
+freq 510000.00 180
+freq 778000.00 180

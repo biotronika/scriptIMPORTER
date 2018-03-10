@@ -1,0 +1,5 @@
+# FRIGIDITY FEMALE 6m
+# Frigidity_female
+# 
+freq 10000000.00 180
+freq 20000.00 180

@@ -1,0 +1,10 @@
+# ANGINA QUINSY 21m
+# Angina_quinsy
+# inflammation of lymph gland in throat
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 690000.00 180
+freq 465000.00 180
+freq 428000.00 180
+freq 660000.00 180

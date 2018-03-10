@@ -1,0 +1,6 @@
+# SPHAEROTILUS   1 6m
+# Sphaerotilus_natans_HC
+# 
+freq 19466000.00 1
+scan 19467000.00 179
+freq 969190.00 180

@@ -1,0 +1,5 @@
+# COLD AND FLU   1 6m
+# Cold_and_flu_winter_01
+# 
+freq 959000.00 180
+freq 962000.00 180

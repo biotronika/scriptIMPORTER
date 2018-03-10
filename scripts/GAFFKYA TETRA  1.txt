@@ -1,0 +1,6 @@
+# GAFFKYA TETRA  1 6m
+# Gaffkya_tetragena_HC
+# causes respiratory infections
+freq 17425000.00 1
+scan 17426000.00 179
+freq 867560.00 180

@@ -1,0 +1,10 @@
+# BACTERIAL CAP  1 12m
+# Bacterial_capsules_HC
+# 
+freq 20786000.00 1
+scan 20787000.00 179
+freq 17923000.00 1
+scan 17924000.00 179
+freq 1034000.00 1
+scan 1035000.00 179
+freq 892350.00 180

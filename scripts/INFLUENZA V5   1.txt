@@ -1,0 +1,5 @@
+# INFLUENZA V5   1 6m
+# Influenza_V5_grippe
+# 
+freq 945000.00 180
+freq 518000.00 180

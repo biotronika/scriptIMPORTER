@@ -1,0 +1,4 @@
+# HERPES SIMPLE  8 3m
+# Herpes_simplex_IU2
+# 
+freq 808000.00 180

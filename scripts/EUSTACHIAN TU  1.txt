@@ -1,0 +1,10 @@
+# EUSTACHIAN TU  1 21m
+# Eustachian_tube_inflammation
+# also use General_Antiseptic
+freq 1550000.00 180
+freq 880000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 465000.00 180

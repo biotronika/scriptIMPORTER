@@ -1,0 +1,6 @@
+# SURGICAL PAIN  1 9m
+# Surgical_pain_post_op
+# 
+freq 3000000.00 180
+freq 2720000.00 180
+freq 95000.00 180

@@ -1,0 +1,7 @@
+# ARTHRITIS A 12m
+# Arthritis_A
+# 
+freq 1500000.00 180
+freq 727000.00 180
+freq 784000.00 180
+freq 880000.00 180

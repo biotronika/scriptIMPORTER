@@ -1,0 +1,4 @@
+# SINUS BACTERIA 3m
+# Sinus_Bacteria
+# also use Sinusitis
+freq 548000.00 180

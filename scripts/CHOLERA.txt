@@ -1,0 +1,13 @@
+# CHOLERA 30m
+# Cholera
+# an extremely contagious and serious bacterial infection of the small intestines
+freq 1035000.00 180
+freq 968000.00 180
+freq 961000.00 180
+freq 851000.00 180
+freq 844000.00 180
+freq 843000.00 180
+freq 691000.00 180
+freq 591000.00 180
+freq 556000.00 180
+freq 330000.00 180

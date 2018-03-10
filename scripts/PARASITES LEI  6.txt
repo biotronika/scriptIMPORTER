@@ -1,0 +1,4 @@
+# PARASITES LEI  6 3m
+# Parasites_leishmania_tropica
+# 
+freq 791000.00 180

@@ -1,0 +1,6 @@
+# DNA REPAIR 9m
+# DNA_repair
+# exp
+freq 528000.00 180
+freq 731000.00 180
+freq 732000.00 180

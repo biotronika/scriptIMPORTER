@@ -1,0 +1,4 @@
+# INTESTINAL PR  2 3m
+# Intestinal_problems_general
+# also see Parasite general set and General antiseptic
+freq 802000.00 180

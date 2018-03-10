@@ -1,0 +1,11 @@
+# CANCER NEUROB  1 24m
+# Cancer_neuroblastoma
+# exp
+freq 7027000.00 180
+freq 6148000.00 180
+freq 5270000.00 180
+freq 4392000.00 180
+freq 3513000.00 180
+freq 2635000.00 180
+freq 1757000.00 180
+freq 878000.00 180

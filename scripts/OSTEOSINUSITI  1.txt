@@ -1,0 +1,5 @@
+# OSTEOSINUSITI  1 6m
+# Osteosinusitis_max
+# 
+freq 243000.00 180
+freq 327000.00 180

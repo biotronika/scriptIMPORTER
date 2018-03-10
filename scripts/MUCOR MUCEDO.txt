@@ -1,0 +1,9 @@
+# MUCOR MUCEDO 18m
+# Mucor_mucedo
+# causes rot in fruit and baked goods & sometimes found on feet and skin
+freq 612000.00 180
+freq 1000000.00 180
+freq 488000.00 180
+freq 766000.00 180
+freq 9788000.00 180
+freq 735000.00 180

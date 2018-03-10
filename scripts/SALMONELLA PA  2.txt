@@ -1,0 +1,6 @@
+# SALMONELLA PA  2 6m
+# Salmonella_paratyphi_HC
+# 
+freq 18321000.00 1
+scan 18322000.00 179
+freq 912180.00 180

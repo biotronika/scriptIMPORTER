@@ -1,0 +1,8 @@
+# PAIN RELIEF 15m
+# Pain_relief
+# 
+freq 304000.00 180
+freq 6000000.00 180
+freq 3000000.00 180
+freq 666000.00 180
+freq 80000.00 180

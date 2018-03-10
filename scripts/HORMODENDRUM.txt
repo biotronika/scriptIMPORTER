@@ -1,0 +1,8 @@
+# HORMODENDRUM 15m
+# Hormodendrum
+# a genus of fungi that includes human pathogens
+freq 663000.00 180
+freq 678000.00 180
+freq 695000.00 180
+freq 532000.00 180
+freq 627000.00 180

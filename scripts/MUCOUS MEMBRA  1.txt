@@ -1,0 +1,4 @@
+# MUCOUS MEMBRA  1 3m
+# Mucous_membrane_inflammation_general
+# 
+freq 380000.00 180

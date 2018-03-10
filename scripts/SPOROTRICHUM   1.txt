@@ -1,0 +1,8 @@
+# SPOROTRICHUM   1 15m
+# Sporotrichum_prutinosum
+# 
+freq 584000.00 180
+freq 598000.00 180
+freq 687000.00 180
+freq 755000.00 180
+freq 715000.00 180

@@ -1,0 +1,4 @@
+# PARASITES LEI  1 3m
+# Parasites_leishmania_braziliensis
+# 
+freq 787000.00 180

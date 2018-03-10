@@ -1,0 +1,7 @@
+# PARASITES MAC  1 6m
+# Parasites_macracanthorhynchus_HC
+# 
+freq 21906000.00 1
+scan 21907000.00 179
+freq 1090000.00 1
+scan 1091000.00 179

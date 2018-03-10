@@ -1,0 +1,7 @@
+# CHOLECYSTITIS  1 12m
+# Cholecystitis_acute
+# painful gallstone attack
+freq 481000.00 180
+freq 743000.00 180
+freq 865000.00 180
+freq 928000.00 180

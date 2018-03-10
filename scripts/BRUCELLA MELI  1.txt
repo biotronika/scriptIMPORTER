@@ -1,0 +1,6 @@
+# BRUCELLA MELI  1 9m
+# Brucella_melitensis
+# form of Brucella found in goats and sheep
+freq 748000.00 180
+freq 643000.00 180
+freq 695000.00 180

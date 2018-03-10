@@ -1,0 +1,10 @@
+# SHIGELLA 21m
+# Shigella
+# can cause acute dysentery and diarrhea as well as infect nerves. brain. and spinal cord chronically
+freq 621000.00 180
+freq 762000.00 180
+freq 769000.00 180
+freq 770000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 832000.00 180

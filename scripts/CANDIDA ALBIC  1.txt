@@ -1,0 +1,6 @@
+# CANDIDA ALBIC  1 6m
+# Candida_albicans_HC
+# 
+freq 19217000.00 1
+scan 19218000.00 179
+freq 956800.00 180

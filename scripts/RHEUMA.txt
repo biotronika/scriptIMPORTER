@@ -1,0 +1,7 @@
+# RHEUMA 12m
+# Rheuma
+# watery discharge from nose or eyes
+freq 952000.00 180
+freq 436000.00 180
+freq 595000.00 180
+freq 775000.00 180

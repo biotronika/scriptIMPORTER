@@ -1,0 +1,8 @@
+# ALLERGY POLLE  1 9m
+# Allergy_pollen_TR
+# pulse 64 75. converge 2 0.03125. dwell 500
+freq 116113000.00 180
+freq 119061000.00 1
+scan 119062000.00 179
+freq 119441000.00 1
+scan 119442000.00 179

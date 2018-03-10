@@ -1,0 +1,20 @@
+# PAPILLOMA VIRUS 51m
+# Papilloma_virus
+# causes warts and benign tumors having a branch or stalk and in some cases white patches known as leukoplakia. 874*. 907*
+freq 67265000.00 180
+freq 64734000.00 180
+freq 16970000.00 180
+freq 9609000.00 180
+freq 9258000.00 180
+freq 5657000.00 180
+freq 1051000.00 180
+freq 1011000.00 180
+freq 907000.00 180
+freq 874000.00 180
+freq 767000.00 180
+freq 489000.00 180
+freq 466000.00 180
+freq 404000.00 180
+freq 265000.00 180
+freq 110000.00 180
+freq 45000.00 180

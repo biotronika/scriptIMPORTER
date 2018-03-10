@@ -1,0 +1,13 @@
+# BACILLINUM 30m
+# Bacillinum
+# homeopathic nosode
+freq 132000.00 180
+freq 423000.00 180
+freq 432000.00 180
+freq 785000.00 180
+freq 853000.00 180
+freq 854000.00 180
+freq 921000.00 180
+freq 1027000.00 180
+freq 1042000.00 180
+freq 1932000.00 180

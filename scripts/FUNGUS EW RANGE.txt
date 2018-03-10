@@ -1,0 +1,10 @@
+# FUNGUS EW RANGE 21m
+# Fungus_EW_range
+# 
+freq 823000.00 180
+freq 824000.00 180
+freq 825000.00 180
+freq 826000.00 180
+freq 827000.00 180
+freq 828000.00 180
+freq 829000.00 180

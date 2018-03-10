@@ -1,0 +1,8 @@
+# COLD AND FLU 15m
+# Cold_and_Flu
+# fall. 98. Use 8700 and 7760 for 15 min. others for 5 min
+freq 250000.00 180
+freq 465000.00 180
+freq 8210000.00 180
+freq 8700000.00 180
+freq 7760000.00 180

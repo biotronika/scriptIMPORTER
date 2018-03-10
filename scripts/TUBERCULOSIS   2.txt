@@ -1,0 +1,12 @@
+# TUBERCULOSIS   2 27m
+# Tuberculosis_bovine
+# 
+freq 229000.00 180
+freq 523000.00 180
+freq 625000.00 180
+freq 635000.00 180
+freq 838000.00 180
+freq 877000.00 180
+freq 3353000.00 180
+freq 748000.00 180
+freq 757000.00 180

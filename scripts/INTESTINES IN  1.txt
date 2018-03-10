@@ -1,0 +1,10 @@
+# INTESTINES IN  1 21m
+# Intestines_inflammation
+# see also Colitis
+freq 727000.00 180
+freq 787000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 1550000.00 180
+freq 105000.00 180
+freq 791000.00 180

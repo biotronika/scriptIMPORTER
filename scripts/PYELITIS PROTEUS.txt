@@ -1,0 +1,6 @@
+# PYELITIS PROTEUS 9m
+# Pyelitis_proteus
+# bacteria commonly found in hospital-borne conditions
+freq 434000.00 180
+freq 594000.00 180
+freq 776000.00 180

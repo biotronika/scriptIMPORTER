@@ -1,0 +1,7 @@
+# GENERAL PROGR  1 12m
+# General_program_EMEM
+# 
+freq 720000.00 180
+freq 1550000.00 180
+freq 20000.00 180
+freq 4200000.00 180

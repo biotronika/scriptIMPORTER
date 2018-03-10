@@ -1,0 +1,10 @@
+# CANCER PROSTA  1 21m
+# Cancer_prostate_1
+# use all freqs for 6 min after assessing detox
+freq 2128000.00 180
+freq 2125000.00 180
+freq 2131000.00 180
+freq 2140000.00 180
+freq 2145000.00 180
+freq 666000.00 180
+freq 3672000.00 180

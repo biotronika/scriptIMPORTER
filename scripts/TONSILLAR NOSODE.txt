@@ -1,0 +1,4 @@
+# TONSILLAR NOSODE 3m
+# Tonsillar_nosode
+# 
+freq 1656000.00 180

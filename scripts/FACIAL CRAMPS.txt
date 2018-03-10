@@ -1,0 +1,8 @@
+# FACIAL CRAMPS 15m
+# Facial_cramps
+# 
+freq 10000000.00 180
+freq 6000000.00 180
+freq 304000.00 180
+freq 1131000.00 180
+freq 33000.00 180

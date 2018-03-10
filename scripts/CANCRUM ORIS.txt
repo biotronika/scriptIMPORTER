@@ -1,0 +1,8 @@
+# CANCRUM ORIS 15m
+# Cancrum_oris
+# rapidly growing oral or nasal ulcer
+freq 20000.00 180
+freq 727000.00 180
+freq 787000.00 180
+freq 802000.00 180
+freq 880000.00 180

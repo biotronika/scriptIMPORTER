@@ -1,0 +1,5 @@
+# CANCER CARCIN  5 6m
+# Cancer_carcinoma_general
+# 
+freq 2128000.00 180
+freq 1820000.00 180

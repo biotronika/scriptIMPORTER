@@ -1,0 +1,5 @@
+# TOXOPLASMOSIS 6m
+# Toxoplasmosis
+# a serious. infectious disease that can be either acquired or present at birth and that is commonly contracted by handling contaminated cat litter
+freq 434000.00 180
+freq 852000.00 180

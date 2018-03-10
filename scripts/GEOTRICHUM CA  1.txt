@@ -1,0 +1,22 @@
+# GEOTRICHUM CA  1 57m
+# Geotrichum_candidum
+# fungus found in feces and dairy products whose manifestations resemble those of candida
+freq 350000.00 180
+freq 355000.00 180
+freq 384000.00 180
+freq 386000.00 180
+freq 403000.00 180
+freq 404000.00 180
+freq 407000.00 180
+freq 409000.00 180
+freq 410000.00 180
+freq 412000.00 180
+freq 415000.00 180
+freq 418000.00 180
+freq 543000.00 180
+freq 544000.00 180
+freq 687000.00 180
+freq 987000.00 180
+freq 988000.00 180
+freq 737000.00 180
+freq 700000.00 180

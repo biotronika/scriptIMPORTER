@@ -1,0 +1,6 @@
+# HYPERPARATHYR  1 9m
+# Hyperparathyroidism
+# 
+freq 4600.00 180
+freq 9500.00 180
+freq 9600.00 180

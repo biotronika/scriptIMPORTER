@@ -1,0 +1,8 @@
+# INFLUENZA VIR 14 15m
+# Influenza_virus_swine
+# 
+freq 413000.00 180
+freq 432000.00 180
+freq 663000.00 180
+freq 839000.00 180
+freq 995000.00 180

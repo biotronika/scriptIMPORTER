@@ -1,0 +1,7 @@
+# PERNICIOSIA 12m
+# Perniciosia
+# scilicet malaria. extremely severe form of malaria
+freq 232000.00 180
+freq 622000.00 180
+freq 822000.00 180
+freq 4211000.00 180

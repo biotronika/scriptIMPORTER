@@ -1,0 +1,12 @@
+# CANCER ADENOC  1 27m
+# Cancer_adenocarcinoma
+# 
+freq 47000.00 180
+freq 2182000.00 180
+freq 2219000.00 180
+freq 832000.00 180
+freq 2084000.00 180
+freq 2127000.00 180
+freq 2160000.00 180
+freq 2452000.00 180
+freq 2876000.00 180

@@ -1,0 +1,5 @@
+# STREPTOCOCCUS  8 6m
+# Streptococcus_pepto
+# can infect digestive tract
+freq 201000.00 180
+freq 629000.00 180

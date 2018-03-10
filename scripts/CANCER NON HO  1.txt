@@ -1,0 +1,13 @@
+# CANCER NON HO  1 30m
+# Cancer_non_Hodgkins_1
+# also use Cancer. Melanoma
+freq 574000.00 180
+freq 588000.00 180
+freq 666000.00 180
+freq 778000.00 180
+freq 1078000.00 180
+freq 1120000.00 180
+freq 1340000.00 180
+freq 1744000.00 180
+freq 3524000.00 180
+freq 3713000.00 180

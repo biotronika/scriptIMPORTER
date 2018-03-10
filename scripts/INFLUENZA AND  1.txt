@@ -1,0 +1,5 @@
+# INFLUENZA AND  1 6m
+# Influenza_and_Cold_1
+# winter 01 to 02
+freq 959000.00 180
+freq 962000.00 180

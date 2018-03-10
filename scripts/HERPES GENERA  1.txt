@@ -1,0 +1,4 @@
+# HERPES GENERA  1 3m
+# Herpes_general_secondary
+# 
+freq 37000000.00 180

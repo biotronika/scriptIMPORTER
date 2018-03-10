@@ -1,0 +1,11 @@
+# LEGIONELLA 24m
+# Legionella
+# Legionnaires' disease. caused by a gram-negative bacteria associated with condensed or treated water that migrate to lung tissue and stimulate severe respiratory manifestations. fever. headache. abdominal pain. and may affect kidneys and liver.
+freq 723000.00 180
+freq 724000.00 180
+freq 897000.00 180
+freq 975000.00 180
+freq 8120000.00 180
+freq 8856000.00 180
+freq 690000.00 180
+freq 693000.00 180

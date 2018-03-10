@@ -1,0 +1,4 @@
+# DRUG ADDICTION 3m
+# Drug_addiction
+# 
+freq 20000.00 180

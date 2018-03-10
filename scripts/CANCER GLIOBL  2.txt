@@ -1,0 +1,6 @@
+# CANCER GLIOBL  2 9m
+# Cancer_glioblastoma_tremor
+# 
+freq 463000.00 180
+freq 466000.00 180
+freq 470000.00 180

@@ -1,0 +1,4 @@
+# CARVULARIA SP  1 3m
+# Carvularia_spiratera
+# 
+freq 879000.00 180

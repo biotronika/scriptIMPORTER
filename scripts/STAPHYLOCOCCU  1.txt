@@ -1,0 +1,20 @@
+# STAPHYLOCOCCU  1 51m
+# Staphylococcus_aureus
+# can cause boils. carbuncles. abscesses. tooth infection. heart disease. and infect tumors. 786*
+freq 8697000.00 180
+freq 7270000.00 180
+freq 1050000.00 180
+freq 999000.00 180
+freq 943000.00 180
+freq 824400.00 180
+freq 787000.00 180
+freq 784000.00 180
+freq 745000.00 180
+freq 738000.00 180
+freq 728000.00 180
+freq 727000.00 180
+freq 647000.00 180
+freq 644000.00 180
+freq 555000.00 180
+freq 478000.00 180
+freq 424000.00 180

@@ -1,0 +1,4 @@
+# CAELIACIA 3m
+# Caeliacia
+# 
+freq 674000.00 180

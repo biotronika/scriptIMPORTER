@@ -1,0 +1,10 @@
+# MULTIPLE SCLE  8 21m
+# Multiple_sclerosis_brain_infection
+# 
+freq 2600.00 180
+freq 2800.00 180
+freq 5100.00 180
+freq 6700.00 180
+freq 7200.00 180
+freq 7500.00 180
+freq 11300.00 180

@@ -1,0 +1,4 @@
+# CANCER MYCOSI  1 3m
+# Cancer_mycosis_fungoides
+# a form of skin cancer resembling eczema
+freq 852000.00 180

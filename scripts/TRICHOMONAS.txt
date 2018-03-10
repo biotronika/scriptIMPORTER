@@ -1,0 +1,6 @@
+# TRICHOMONAS 9m
+# Trichomonas
+# a microorganism causing vaginal irritation with discharge and itching
+freq 610000.00 180
+freq 692000.00 180
+freq 980000.00 180

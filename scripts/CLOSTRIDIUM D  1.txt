@@ -1,0 +1,6 @@
+# CLOSTRIDIUM D  1 9m
+# Clostridium_difficile
+# can cause diarrhea following treatment with antibiotics
+freq 387000.00 180
+freq 635000.00 180
+freq 673000.00 180

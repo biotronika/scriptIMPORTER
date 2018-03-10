@@ -1,0 +1,7 @@
+# PARASITES TRY  6 6m
+# Parasites_trypanosoma_rhodesiense_TR
+# 
+freq 21209000.00 1
+scan 21210000.00 179
+freq 1055000.00 1
+scan 1056000.00 179

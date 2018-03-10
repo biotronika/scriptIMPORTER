@@ -1,0 +1,4 @@
+# CHAKRA BASE ROOT 3m
+# Chakra_base_root
+# pulse at 4Hz
+freq 20000.00 180

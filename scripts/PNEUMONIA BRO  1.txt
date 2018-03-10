@@ -1,0 +1,12 @@
+# PNEUMONIA BRO  1 27m
+# Pneumonia_bronchial
+# inflammation of bronchii and lungs
+freq 550000.00 180
+freq 802000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 776000.00 180
+freq 727000.00 180
+freq 452000.00 180
+freq 1474000.00 180
+freq 578000.00 180

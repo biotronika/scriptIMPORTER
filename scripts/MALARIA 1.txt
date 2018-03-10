@@ -1,0 +1,5 @@
+# MALARIA 1 6m
+# Malaria_1
+# 
+freq 20000.00 180
+freq 555000.00 180

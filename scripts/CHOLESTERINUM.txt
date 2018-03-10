@@ -1,0 +1,8 @@
+# CHOLESTERINUM 15m
+# Cholesterinum
+# 
+freq 1386000.00 180
+freq 173000.00 180
+freq 620000.00 180
+freq 635000.00 180
+freq 780000.00 180

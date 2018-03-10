@@ -1,0 +1,13 @@
+# PNEUMONIAE KL  1 30m
+# Pneumoniae_klebsiella
+# causes an acute. bacterial pneumonia
+freq 840000.00 180
+freq 818000.00 180
+freq 783000.00 180
+freq 779000.00 180
+freq 776000.00 180
+freq 766000.00 180
+freq 765000.00 180
+freq 746000.00 180
+freq 413000.00 180
+freq 412000.00 180

@@ -1,0 +1,6 @@
+# PARASITES LEI  5 6m
+# Parasites_leishmania_mexicana_HC
+# 
+freq 20014000.00 1
+scan 20015000.00 179
+freq 996460.00 180

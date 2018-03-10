@@ -1,0 +1,4 @@
+# OSTEOITIS 3m
+# Osteoitis
+# 
+freq 2650.00 180

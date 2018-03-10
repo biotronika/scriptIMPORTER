@@ -1,0 +1,9 @@
+# CYCLOSPORA 18m
+# Cyclospora
+# 
+freq 543000.00 180
+freq 316000.00 180
+freq 992000.00 180
+freq 751000.00 180
+freq 268000.00 180
+freq 2144000.00 180

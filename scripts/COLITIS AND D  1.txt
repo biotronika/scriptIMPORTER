@@ -1,0 +1,18 @@
+# COLITIS AND D  1 45m
+# Colitis_and_Diarrhea
+# inflammation of the colon
+freq 10000000.00 180
+freq 5000000.00 180
+freq 1550000.00 180
+freq 880000.00 180
+freq 832000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 621000.00 180
+freq 465000.00 180
+freq 454000.00 180
+freq 440000.00 180
+freq 433000.00 180
+freq 344000.00 180
+freq 152000.00 180

@@ -1,0 +1,10 @@
+# MULTIPLE SCLE  7 21m
+# Multiple_sclerosis_brain
+# 
+freq 1000.00 180
+freq 140000.00 180
+freq 158000.00 180
+freq 166000.00 180
+freq 169000.00 180
+freq 190000.00 180
+freq 199000.00 180

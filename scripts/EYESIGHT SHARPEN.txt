@@ -1,0 +1,6 @@
+# EYESIGHT SHARPEN 9m
+# Eyesight_sharpen
+# 
+freq 350000.00 180
+freq 360000.00 180
+freq 1830000.00 180

@@ -1,0 +1,4 @@
+# ENCEPHALITIS 3m
+# Encephalitis
+# inflammation of the tissues of the brain and spinal cord
+freq 841000.00 180

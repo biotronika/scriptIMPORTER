@@ -1,0 +1,10 @@
+# INFANTILE PAR  1 21m
+# Infantile_paralysis
+# also use Polio
+freq 1500000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 776000.00 180
+freq 5000000.00 180
+freq 10000000.00 180

@@ -1,0 +1,4 @@
+# ARSENIC ALB 3m
+# Arsenic_alb
+# homeopathic cell salt
+freq 562000.00 180

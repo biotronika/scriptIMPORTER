@@ -1,0 +1,4 @@
+# ECZEMA VASCUL  1 3m
+# Eczema_vascular_and_lung_disturbances
+# 
+freq 9390.00 180

@@ -1,0 +1,4 @@
+# UREA PLASMA 3m
+# Urea_plasma
+# 
+freq 756000.00 180

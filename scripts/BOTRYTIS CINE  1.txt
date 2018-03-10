@@ -1,0 +1,5 @@
+# BOTRYTIS CINE  1 6m
+# Botrytis_cinereas
+# 
+freq 1132000.00 180
+freq 212000.00 180

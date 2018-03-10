@@ -1,0 +1,11 @@
+# PARASITES PAS  1 12m
+# Parasites_passalurus_ambiguus_HC
+# 
+freq 21956000.00 1
+scan 21957000.00 179
+freq 1093000.00 1
+scan 1094000.00 179
+freq 21756000.00 1
+scan 21757000.00 179
+freq 1083000.00 1
+scan 1084000.00 179

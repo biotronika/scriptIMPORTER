@@ -1,0 +1,6 @@
+# CANCER KAPOSI  1 9m
+# Cancer_Kaposis_sarcoma
+# also use Herpes type 8
+freq 249000.00 180
+freq 418000.00 180
+freq 647000.00 180

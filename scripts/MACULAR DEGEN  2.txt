@@ -1,0 +1,17 @@
+# MACULAR DEGEN  2 42m
+# Macular_degeneration_1
+# 
+freq 1000.00 180
+freq 1100.00 180
+freq 1400.00 180
+freq 1900.00 180
+freq 9900.00 180
+freq 10000.00 180
+freq 21000.00 180
+freq 23600.00 180
+freq 24000.00 180
+freq 25600.00 180
+freq 26700.00 180
+freq 32000.00 180
+freq 34100.00 180
+freq 410000.00 180

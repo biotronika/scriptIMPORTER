@@ -1,0 +1,10 @@
+# TROGLODYTELLA  1 12m
+# Troglodytella_abrassari_HC
+# 
+freq 19068000.00 1
+scan 19069000.00 179
+freq 949360.00 180
+freq 20860000.00 1
+scan 20861000.00 179
+freq 1038000.00 1
+scan 1039000.00 179

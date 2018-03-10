@@ -1,0 +1,4 @@
+# MIGRAINE 3m
+# Migraine
+# also use Parasites strongyloides and general sets
+freq 10000.00 180

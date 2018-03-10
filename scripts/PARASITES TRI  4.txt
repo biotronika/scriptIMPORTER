@@ -1,0 +1,7 @@
+# PARASITES TRI  4 6m
+# Parasites_trichuris_sp_HC
+# male
+freq 20213000.00 1
+scan 20214000.00 179
+freq 1006000.00 1
+scan 1007000.00 179

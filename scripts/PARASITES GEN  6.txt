@@ -1,0 +1,13 @@
+# PARASITES GEN  6 30m
+# Parasites_gen_custom2_TR
+# sweep 2000 to 2008 by 1 dwell 360
+freq 6578000.00 180
+freq 2000000.00 180
+freq 831000.00 180
+freq 2008000.00 180
+freq 2520000.00 180
+freq 689000.00 180
+freq 750000.00 180
+freq 880000.00 180
+freq 650000.00 180
+freq 187000.00 180

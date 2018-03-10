@@ -1,0 +1,8 @@
+# CANCER BLADDE  2 15m
+# Cancer_bladder_TBC
+# transitional bladder carcinoma
+freq 642000.00 180
+freq 771000.00 180
+freq 360000.00 180
+freq 726000.00 180
+freq 724000.00 180

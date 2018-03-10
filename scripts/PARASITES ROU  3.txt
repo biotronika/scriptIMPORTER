@@ -1,0 +1,9 @@
+# PARASITES ROU  3 18m
+# Parasites_roundworms_general_short_set
+# 
+freq 128000.00 180
+freq 152000.00 180
+freq 240000.00 180
+freq 422000.00 180
+freq 650000.00 180
+freq 688000.00 180

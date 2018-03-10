@@ -1,0 +1,7 @@
+# BUBONIC PLAGU  1 12m
+# Bubonic_plague_secondary_infections
+# 
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

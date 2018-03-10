@@ -1,0 +1,6 @@
+# BACCILUS CEREUS 6m
+# Baccilus_cereus
+# 
+freq 18645000.00 1
+scan 18646000.00 179
+freq 928290.00 180

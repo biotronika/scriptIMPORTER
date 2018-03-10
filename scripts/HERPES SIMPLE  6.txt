@@ -1,0 +1,5 @@
+# HERPES SIMPLE  6 6m
+# Herpes_simplex_II
+# 
+freq 556000.00 180
+freq 832000.00 180

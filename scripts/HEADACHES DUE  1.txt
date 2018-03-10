@@ -1,0 +1,9 @@
+# HEADACHES DUE  1 18m
+# Headaches_due_to_parasites
+# see also Parasites. strongyloides
+freq 125000.00 180
+freq 95000.00 180
+freq 73000.00 180
+freq 20000.00 180
+freq 727000.00 180
+freq 3000000.00 180

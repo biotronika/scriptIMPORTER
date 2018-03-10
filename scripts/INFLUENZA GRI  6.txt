@@ -1,0 +1,13 @@
+# INFLUENZA GRI  6 30m
+# Influenza_grippe_general
+# 
+freq 343000.00 180
+freq 500000.00 180
+freq 512000.00 180
+freq 541000.00 180
+freq 862000.00 180
+freq 1000000.00 180
+freq 1192000.00 180
+freq 3012000.00 180
+freq 3423000.00 180
+freq 10223000.00 180

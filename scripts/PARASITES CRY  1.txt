@@ -1,0 +1,7 @@
+# PARASITES CRY  1 6m
+# Parasites_cryptocotyle_lingua_HC
+# 
+freq 20611000.00 1
+scan 20612000.00 179
+freq 1026000.00 1
+scan 1027000.00 179

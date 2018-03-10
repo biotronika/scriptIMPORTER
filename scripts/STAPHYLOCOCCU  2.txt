@@ -1,0 +1,9 @@
+# STAPHYLOCOCCU  2 12m
+# Staphylococcus_aureus_HC
+# tooth infection. abscesses. heart disease. invades tumors
+freq 18819000.00 1
+scan 18820000.00 179
+freq 936970.00 180
+freq 18968000.00 1
+scan 18969000.00 179
+freq 944400.00 180

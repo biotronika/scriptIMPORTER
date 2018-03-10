@@ -1,0 +1,6 @@
+# CORYNEBACTERI  2 6m
+# Corynebacterium_diptheriae_HC
+# 
+freq 17027000.00 1
+scan 17028000.00 179
+freq 847730.00 180

@@ -1,0 +1,6 @@
+# LYMPH SUPPORT 9m
+# Lymph_support
+# 
+freq 15050.00 180
+freq 10360.00 180
+freq 3176000.00 180

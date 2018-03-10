@@ -1,0 +1,5 @@
+# TREPONEMA PAL  1 6m
+# Treponema_pallidum
+# use also Syphilis
+freq 660000.00 180
+freq 902000.00 180

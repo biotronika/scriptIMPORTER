@@ -1,0 +1,7 @@
+# HIP PAIN 12m
+# Hip_pain
+# use also Arthritis
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 20000.00 180

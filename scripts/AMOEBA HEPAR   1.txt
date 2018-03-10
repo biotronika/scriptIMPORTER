@@ -1,0 +1,7 @@
+# AMOEBA HEPAR   1 12m
+# Amoeba_hepar_abcess
+# liver abcess caused by amoebic infection
+freq 344000.00 180
+freq 605000.00 180
+freq 510000.00 180
+freq 943000.00 180

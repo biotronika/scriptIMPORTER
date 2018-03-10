@@ -1,0 +1,12 @@
+# HEAD INJURY F  1 27m
+# Head_injury_followup
+# Seek immediate medical attention for head injuries!
+freq 9600.00 180
+freq 3000000.00 180
+freq 880000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 522000.00 180
+freq 72000.00 180
+freq 5800.00 180
+freq 4900.00 180

@@ -1,0 +1,7 @@
+# PARASITES FAS  7 6m
+# Parasites_fasciolopsis_buskil_eggs_HC
+# 
+freq 21607000.00 1
+scan 21608000.00 179
+freq 1075000.00 1
+scan 1076000.00 179

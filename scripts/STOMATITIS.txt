@@ -1,0 +1,11 @@
+# STOMATITIS 24m
+# Stomatitis
+# Inflammation of mucous membranes in the mouth. See also Candida. Herpes simplex I. Stomatitis aphthous. Pyorrhea. and Gingivitis
+freq 465000.00 180
+freq 677000.00 180
+freq 702000.00 180
+freq 787000.00 180
+freq 234000.00 180
+freq 278000.00 180
+freq 568000.00 180
+freq 672000.00 180

@@ -1,0 +1,7 @@
+# MYCOGONE SPP 12m
+# Mycogone_spp
+# homeopathic allergenic preparation based on fungus
+freq 371000.00 180
+freq 446000.00 180
+freq 1123000.00 180
+freq 748000.00 180

@@ -1,0 +1,6 @@
+# PARASITES FLU  8 9m
+# Parasites_flukes_sheep_liver
+# 
+freq 826000.00 180
+freq 830000.00 180
+freq 834000.00 180

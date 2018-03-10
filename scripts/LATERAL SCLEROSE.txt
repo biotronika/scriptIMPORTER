@@ -1,0 +1,4 @@
+# LATERAL SCLEROSE 3m
+# Lateral_sclerose
+# degeneration of spinal cord leading to spastic paraplegia. See also ALS.
+freq 254000.00 180

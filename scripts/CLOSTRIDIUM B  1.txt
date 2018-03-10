@@ -1,0 +1,6 @@
+# CLOSTRIDIUM B  1 6m
+# Clostridium_botulinum_HC
+# produces botulin toxin that causes botulism. a type of food poisoning
+freq 18022000.00 1
+scan 18023000.00 179
+freq 897310.00 180

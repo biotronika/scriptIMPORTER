@@ -1,0 +1,16 @@
+# VAGINOSIS 39m
+# Vaginosis
+# non-specific infection. Also see Gardinerella. Candida. and Trichomonas
+freq 414000.00 180
+freq 542000.00 180
+freq 642000.00 180
+freq 652000.00 180
+freq 800000.00 180
+freq 832000.00 180
+freq 845000.00 180
+freq 866000.00 180
+freq 942000.00 180
+freq 728000.00 180
+freq 784000.00 180
+freq 880000.00 180
+freq 464000.00 180

@@ -1,0 +1,6 @@
+# AKATHISIA 9m
+# Akathisia
+# 
+freq 230000.00 180
+freq 7830.00 180
+freq 3000.00 180

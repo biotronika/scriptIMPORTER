@@ -1,0 +1,7 @@
+# CANCER PROSTA  2 12m
+# Cancer_prostate_Vega_1
+# 
+freq 854000.00 180
+freq 1840000.00 180
+freq 2145000.00 180
+freq 2288000.00 180

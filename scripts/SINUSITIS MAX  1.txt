@@ -1,0 +1,5 @@
+# SINUSITIS MAX  1 6m
+# Sinusitis_maxillaris
+# 
+freq 160000.00 180
+freq 741000.00 180

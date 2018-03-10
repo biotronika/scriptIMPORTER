@@ -1,0 +1,7 @@
+# MYCOBACTERIUM  1 6m
+# Mycobacterium_phlei_HC
+# 
+freq 20412000.00 1
+scan 20413000.00 179
+freq 1016000.00 1
+scan 1017000.00 179

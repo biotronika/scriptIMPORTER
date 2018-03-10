@@ -1,0 +1,5 @@
+# HEMORRAGE 6m
+# Hemorrage
+# 
+freq 1550000.00 180
+freq 802000.00 180

@@ -1,0 +1,6 @@
+# PEMPHIGUS 9m
+# Pemphigus
+# rare. autoimmune skin disorders characterized by blisters in the outer layer of skin and mucous membranes
+freq 694000.00 180
+freq 893000.00 180
+freq 665000.00 180

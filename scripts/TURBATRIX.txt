@@ -1,0 +1,4 @@
+# TURBATRIX 3m
+# Turbatrix
+# 
+freq 104000.00 180

@@ -1,0 +1,7 @@
+# PARASITES CLO  1 6m
+# Parasites_clonorchis_sinensis_HC
+# 
+freq 21259000.00 1
+scan 21260000.00 179
+freq 1058000.00 1
+scan 1059000.00 179

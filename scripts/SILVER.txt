@@ -1,0 +1,4 @@
+# SILVER 3m
+# Silver
+# 
+freq 15903000.00 180

@@ -1,0 +1,16 @@
+# HERPES SIMPLEX I 39m
+# Herpes_simplex_I
+# secondary. Cold sores: primarily non-genital. first try Herpes.general
+freq 322000.00 180
+freq 476000.00 180
+freq 589000.00 180
+freq 664000.00 180
+freq 785000.00 180
+freq 822000.00 180
+freq 895000.00 180
+freq 944000.00 180
+freq 1043000.00 180
+freq 1614000.00 180
+freq 2062000.00 180
+freq 1489000.00 180
+freq 2950000.00 180

@@ -1,0 +1,7 @@
+# ARTHRITIS SEC  1 12m
+# Arthritis_secondary
+# 
+freq 2720000.00 180
+freq 1000000.00 180
+freq 1500000.00 180
+freq 770000.00 180

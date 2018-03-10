@@ -1,0 +1,5 @@
+# INFLUENZA 195  1 6m
+# Influenza_1957_A_Asian
+# 
+freq 768000.00 180
+freq 574000.00 180

@@ -1,0 +1,10 @@
+# MENSTRUAL PRO  1 21m
+# Menstrual_problems
+# douche with plain water first
+freq 880000.00 180
+freq 1550000.00 180
+freq 802000.00 180
+freq 787000.00 180
+freq 727000.00 180
+freq 465000.00 180
+freq 20000.00 180

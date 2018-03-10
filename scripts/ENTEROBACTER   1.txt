@@ -1,0 +1,6 @@
+# ENTEROBACTER   1 6m
+# Enterobacter_aerogenes_HC
+# causes intestinal problems
+freq 18620000.00 1
+scan 18621000.00 179
+freq 927050.00 180
