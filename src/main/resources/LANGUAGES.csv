@@ -1,0 +1,498 @@
+CONST;CZECH;ENGLISH
+TXT_VERSION;RavoZapper verze %s;RavoZapper version %s
+TXT_DB_CONN;Pøipojená databáze: %s;Connected database: %s
+TXT_FREQUENCY;fr.;fr.
+COL_CURENAME;Název;Name
+COL_CONSTFREQ;Pevná frekvence;Constant frequency
+COL_FREQFROM;Frekvence od;Frequency from
+COL_FREQTO;Frekvence do;Frequency to
+COL_SHIFTSPEED;Rychlost posunu;Shift speed
+COL_UNIT;Jednotka;Unit
+COL_HOURS;Hodiny;Hours
+COL_MINUTES;Minuty;Minutes
+TEXT_MESSAGE_RC_1;Nelze provést pøíkaz pro zastavení kùry - kùra není spuštìna.;Unable to process stop cure command - cure not running.
+TEXT_MESSAGE_RC_2;Nelze provést pøíkaz - kùra je spuštìna.;Unable to process command - cure is running.
+TEXT_MESSAGE_RC_3;Neplatnı pøíkaz.;Invalid command
+TEXT_MESSAGE_RC_4;Chyba komunikace.;Communication error
+TEXT_DEV_ERR_OPEN;Nelze otevøít zaøízení Zapper;Can not open Zapper device
+TEXT_DEV_ERR_GET_INFO;Nelze èíst informace o zaøízení Zapper;Can not read information about Zapper device
+TEXT_DEV_NOT_CONNECTED;Odpojeno;Disconnected
+TEXT_DEV_NOT_FOUND;Zaøízení nenalezeno;Device not found
+ERR_MSG_7;Poadovanı rozsah kùry je mimo povolenı %nfyzickı rozsah zaøízení, kùra nemùe bıt spuštìna;Required cure range is beyond %nthe physical range of device, cure can not run
+DB_NOT_CONNECTED;Nepøipojeno k databázi;Database not connected
+TEXT_COMP_PACKETS_OK;Potvrzení vpoøádku.;Confirmation OK.
+TEXT_COMP_PACKETS_FAIL;Potvrzovací packet neodpovídá packetu pøíkazu.;Confirmation packet does not match command packet.
+mnuDatabase;Databáze;Database
+mnuDatabaseConnect;Pøipojit k databázi;Connect to database
+mnuDatabaseNew;Vytvoøit novou databázi;Create new database
+mnuDatabaseExport;Export dat;Data export
+mnuDatabaseImport;Import dat;Data import
+mnuPatogens;Patogeny;Patogens
+mnuPatogensList;Evidence patogenù;List of patogens
+mnuPatogensUpdateFromFile;Aktualizovat ze souboru;Update from file
+mnuPatogensExportToFile;Export do souboru;Export to file
+mnuPatients;Klienti;Clients
+mnuPatientsList;Evidence klientù;List of clients
+mnuLanguages;Jazyk;Language
+mnuMemoryContent;Obsah pamìti;Memory content
+MSG_CANNOT_SAVE_RECORD;Záznam nelze uloit: %s;Can not save record: %s
+MSG_SAVE_NEW_PATOGEN_RECORD;Uloení nového záznamu patogenu.;Save new patogen record
+MSG_INVALID_NUMBER;Chybnì zadané èíslo;Invalid number
+rbConstant;Pevná frekvence;Constant frequency
+rbInterval;Rozsah frekvencí;Frequency interval
+MSG_OFFERED_L_F;Navrhované niší harmonické frekvence;Offered lower harmonic frequencies
+MSG_MINIMAL_LEN;Minimální délka: %s;Minimal length: %s
+lblCureName;Název;Name
+lblFrequency;Frekvence;Frequency
+lblLength;Èas;Time
+lblHours;hodin;hours
+lblMinutes;minut;minutes
+lblSeconds;sekund;seconds
+btnOK;OK;OK
+btnCancel;Storno;Cancel
+lblFrequencyFromInterval;Fr. OD;Fr. FROM
+lblFrequencyToInterval;Fr. DO;Fr. TO
+lblShiftSpeedInterval;Rychlost posunu;Shift speed
+titleFrequencyEdit;Úprava frekvence;Frequency edit
+TITLE_EDIT_SELECTION;Úprava vıbìru;Selection edit
+MSG_Zapper_REC_READ;Naèteny záznamy z Zapper;Records from Zapper were read
+R_READ_END;Cteni FRAM konec;FRAM read end
+R_RECS_WRITTEN;Záznamy byly zapsány do Zapperu;Records were written to Zapper
+R_WRITE_END;Zapis FRAM konec;FRAM write end
+R_NO_READ;Nelze spustit ètení z FRAM;Can not run FRAM reading
+R_READ_MEM;Ètení z pamìti Zapper;Reading from Zapper memory
+R_READ_Zapper_RECS;Ètení záznamù z Zapper: 0% ...;Reading records from Zapper: 0% ...
+R_READING_FRAM;Cteni FRAM;Reading FRAM
+R_CHECK;Kontrola naètenıch záznamù;Checking read records
+R_CHECK_P;Kontrola naètenıch záznamù... %d%%;Checking read records... %d%%
+R_NO_WRITE;Nelze spustit zápis do FRAM;Can not start writing to FRAM
+R_WRITE_MEM;Zápis do pamìti Zapper;Writing to Zapper memory
+R_WRITE_Zapper_RECS;Zápis záznamù do Zapper: 0% ...;Writing records to Zapper: 0% …
+R_WRITING_FRAM;Zapis FRAM;Writing FRAM
+MSG_FRAM_FROM_FILE;Naètení obsahu FRAM ze souboru;Read FRAM content from file
+MSG_LOAD;Naèíst;Load
+MSG_FRAM_FILES;Soubory .fram;Files .fram
+MSG_FRAM_IMP_FILE;Import záznamù FRAM ze souboru;Import FRAM records from file
+MSG_RECS_FILE_READ;Naèteny záznamy ze souboru;Records from file were read
+MSG_NO_FILE_NO_IMPORT;Nebyl vybrán soubor, import nebude proveden;No file was chosen, import will not proceed.
+MSG_IMPORT_FROM_FILE;Import ze souboru;Import from file
+MSG_FRAM_TO_FILE;Zápis obsahu FRAM do souboru;Write FRAM content to file
+SAVE;Uloit;Save
+FILES_DOT;Soubory .;Files .
+MSG_EXP_FRAM_FILE;Export záznamù FRAM do souboru;Export FRAM records to file
+RECS_WRITTEN_TO_FILE;Záznamy uloeny do souboru;Records were wrtten to file
+MSG_NO_FILE_NO_EXPORT;Nebyl vybrán soubor, export nebude proveden;No file was chosen, export will not proceed.
+EXPORT_TO_FILE;Export do souboru;Export to file
+EXPORT_SUCC;Export záznamù probìhl úspìšnì;Export of records was successful
+FILE_WRITE_ERROR_S;Chyba pøi zápisu do souboru: %s;File write error: %s
+IMPORT_SUCC;Import záznamù probìhl úspìšnì;Import of records was successful
+FILE_DAM;Soubor je poškozen;File is damaged
+INC_REC_IN_FILE;Soubor obsahuje neúplnı záznam;File contains incomplete record
+FILE_READ_ERROR_S;Chyba pøi ètení ze souboru: %s;File read error: %s
+lblSpravaOffilne;Správa pøedvoleb off-line reimu;Off-line records manager
+lblLastRun;Naposledy spuštìná pøedvolba;Last run record
+chkSound;Ozvuèení;Sound
+chkShowFreq;Zobrazení frekvence;Show frequency
+lblLanguageNumber;Pouitı jazyk;Used language
+rbPrimary;Primární;Primary
+rbSecondary;Sekundární;Secondary
+btnEditRecord;Editovat záznam;Edit record
+btnReadFram;Naèíst z Zapper;Read from Zapper
+btnWriteFram;Zapsat do Zapper;Write to Zapper
+btnReadFile;Naèíst ze souboru;Read from file
+btnWriteFile;Uloit do souboru;Write to file
+MSG_CANNOT_RUN_BATCH;Nelze spustit dávku;Batch can not run
+MSG_BATCH_RUNNING; - dávka ji bìí;#NAME?
+MSG_BATCH_START;Spuštìní dávky;Start batch
+MSG_INIT_FR_FOR;Zavádìcí frekvence pro: %s;Initial frequency for: %s
+MSG_CURE_FR_FOR;Frekvence kùry pro: %s;Cure frequency for: %s
+MSG_BATCH_STARTING;Spouštìní dávky;Batch starting
+btnChooseBatch;Vybrat dávku;Select batch
+lblFrequencies;Frekvence v dávce;Frequencies in batch
+lblShowOnDisplay;Tisk na display;Show on display
+rbTimeToEnd;Èas do konce;Time to end
+rbPatogenName;Název patogenu;Patogen name
+lblTotalTime;Celkovı èas;Total time
+lblRemainingTime;Zbıvající èas;Remaining time
+btnBatchStart;Start;Start
+btnBatchPause;Pozastavit;Pause
+btnBatchStop;Stop;Stop
+CREATE_NEW_BATCH;Vytvoøení nové dávky;Create new batch
+EDIT_BATCH;Úprava dávky;Edit batch
+NAME_MBE;Musí bıt zadán název dávky.;Cure name must be entered
+SAVE_BATCH;Uloení dávky;Save batch
+REALY_REMOVE_FR;Opravdu odebrat z dávky oznaèené frekvence?;Are You sure to remove selected frequencies from batch?
+REMOVE_FR;Odebrání frekvencí z dávky;Removing frequencies from batch
+SELECT_FR;Oznaète frekvenci, kterou chcete odebrat ze seznamu.;Select frequency to delete from list.
+REMOVE_FR1;Odebrání frekvence z dávky;Removing frequency from batch
+SELECT_FR_EDIT;Oznaète frekvenci, kterou chcete upravit.;Select frequency to edit
+DELETE_ALL_FR;Smazat všechny záznamy v dávce a vytvoøit nové záznamy podle seznamu patogenù pøiøazenıch klientovi?;Delete all frequencies in batch and create new records according to patogens list for client?
+DELETE_CREATE_NEW;Ostranit a vytvoøit novou dávku;Delete and create new batch
+lblPtientName;Dávka pro klienta;Batch for client
+lblPopis;Popis;Description
+lblPatogensList;Seznam patogenù;List of patogens
+lblPatogenFreq;Seznam frekvencí patogenu;List of frequencies for patogen
+btnAddToBatch;Pøidat do dávky;Add to batch
+lblBatchFreq;Seznam frekvencí v dávce;Frequencies in batch
+btnBatchFreqEdit;Upravit;Edit
+btnBatchFreqDelete;Smazat;Delete
+btnActualizeAccordingToPatogens;Odstranit a vytvoøit novou dávku;Delete and create new batch
+btnBatchSave;Uloit dávku;Save batch
+dateFormat;d.M.yyyy;M.d.yyyy
+BTN_TXT_CHOOSE_BATCH;Vybrat dávku;Choose batch
+NO_SURR_NO_SAVE;Záznam nelze uloit. Musí bıt zadáno pøíjmení klienta.;Can not save record. Surrname of client have to be entered.
+SAVE_NEW_PAT_REC;Uloení nového záznamu klienta.;Save new client record.
+NO_NAME_NO_SAVE;Záznam nelze uloit. Musí bıt zadáno jméno klienta.;Can not save record. Name of client have to be entered.
+BAD_DATE_NO_SAVE;Záznam nelze uloit. Chybnì zadané datum narození.;Can not save record. Invalid date of birth.
+REC_CL_DUP;Záznam nelze uloit. Klient '%s %s' narozen %s ji existuje.;Can not save record. Client '%s %s' born %s already exists.
+Q_DELETE_CILENT;Opravdu smazat klienta %s %s?;Are You sure to delete client %s %s?
+T_DELETE_CLIENT;Smazání klienta;Delete client
+Q_DEL_PAT;Opravdu chcete odstranit vybrané patogeny ze seznamu?;Are You sure to delete selected patogens from list?
+T_DELETE_PATOGENS;Odstranìní patogenù ze seznamu;Delete patogens from list
+SEL_PAT_TO_REMOVE;Oznaète patogeny, které chcete odstranit ze seznamu.;Select patogens to delete from list.
+T_DELETE_PATOGENS1;Odstranìní patogenù.;Delete patogens
+Q_DELETE_BATCH;Opravdu chcete smazat vybrané dávky?;Are You sure to delete selected batches?
+T_DELETE_BATCH;Smazání dávek;Delete batches
+SEL_BAT_DEL;Oznaète dávky, které chcete smazat.;Select batches to delete.
+P_SELECT_BATCH;Oznaète prosím dávku v seznamu.;Please select batch from list.
+T_BATCH_SELECTION;Vıbìr dávky.;Batch selection
+lblPatiens;Seznam klientù;List of clients
+lblFirstName;Jméno;Name
+lblPrijmeni;Pøíjmení;Surname
+lblTitle;Titul;Title
+lblBirthDate;Datum narození;Date of birth
+lblAddress;Adresa;Address
+lblCity;Mìsto;City
+lblPostalCode;PSÈ;ZIP
+lblTelephone;Telefon;Telephone
+lblEmail;E-mail;E-mail
+lblNotice;Poznámka;Notice
+lblFind;Hledat;Find
+btnAddPatient;Pøidat;Add
+btnEditPatient;Upravit;Edit
+btnDeletePatient;Smazat;Delete
+lblPatogens;Seznam patogenù;List of patogens
+lblBatches;Seznam dávek;List of batches
+btnAddPatogen;Pøidat;Add
+btnDeletePatogen;Smazat;Delete
+btnAddBatch;Pøidat;Add
+btnEditBatch;Upravit;Edit
+btnDeleteBatch;Smazat;Delete
+NO_SAVE_NO_LONG_NAME;Záznam nelze uloit. Musí bıt zadán celı název patogenu.;Can not save record. Long name of patogen have to be entered.
+ERR_IN_NAME_NO_SAVE;Záznam nelze uloit. Chyba v názvu patogenu: %s.;Can not save record. Error in patogen name: %s.
+PTG_DUP_NO_SAVE;Záznam nelze uloit. Patogen se zkrácenım názvem '%s' ji existuje. ;Can not save record. Patogen with short name '%s' aleready exists.
+Q_DEL_SEL_PAT;Opravdu smazat vybrané patogeny?;Are You sure to delete selected patogens?
+DEL_PAT_RECS;Smazání záznamù patogenù;Delete patogen records
+Q_PAT_IN_CL;Patogen je pøiøazen klientùm, chcete ho pøesto smazat?;Patogen is assigned to clients, are You sure to delete it?
+LIST_OF_CL_WITH_PTG;Seznam klientù s patogenem '%s';List of clients with patogen '%s'
+NO;Ne;No
+YES_FOR_THIS_PTG;Ano pro tento patogen;Yes for this patogen
+YES_FOR_ALL_PTGS;Ano pro všechny patogeny;Yes for all patogens
+NEW_FR;Nová frekvence;New frequency
+Q_DELETE_FR;Opravdu smazat vybrané frekvence?;Are You sure to delete selected frequencies?
+DELETE_FR_PTG;Smazání frekvence patogenu;Delete frequency
+PTG_FR_STAT;Celkem patogenù: %d, frekvencí: %d;Sum of patogens: %d, frequencies: %d
+lblPatogensInfo;Celkem patogenù:     , frekvencí:         ;Sum of patogens:   , frequencies: 
+lblShortName;Zkrácenı název;Short name
+lblLongName;Celı název;Long name
+btnEditPatogen;Upravit;Edit
+btnSelectAll;Vybrat vše;Select all
+btnAddFreq;Pøidat;Add
+btnEditFreq;Upravit;Edit
+btnDeleteFreq;Smazat;Delete
+lblFrequenciesPTG;Seznam frekvencí;List of frequencies
+btnClose;OK;OK
+lblPatogens;Seznam patogenù;List of patogens
+btnAdd;Pøidat;Add
+CURE_NAME_OK;Jméno kùry OK%n;Cure name OK%n
+CURE_NAME_ERR;Chyba ve jménu kùry: %s%n;Error in cure name: %s%n
+FREQ_OK;Frekvence OK%n;Frequency OK%n
+FREQ_ERR;Chyba ve frekvencích: %s%n;Error in frequencies: %s%n
+SHIFT_SPEED_OK;Rychlost posunu OK%n;Shift speed OK%n
+SHIFT_SPEED_ERR;Chyba v rychlosti posunu: %s%n;Error in shift speed: %s%n
+FR_REG_OK;Frekvenèní reim OK%n;Frequency regime OK%n
+FR_REG_ERR;Chyba ve frekvenèním reimu: %s%n;Error in frequency regime: %s%n
+CURE_LEN_OK;Délka kùry OK%n;Cure length OK%n
+CURE_LEN_ERR;Chyba v délce kùry: %s%n;Error in cure length: %s%n
+NO_FREQ;Není zadána frekvence;Frequency is not entered
+FERQ_INV;Chybná hodnota frekvence;Invalid frequency value
+FREQ_ALLOW;Povolené hodnoty frekvence jsou %3.3f Hz - %3.3f Hz;Allowed values for frequency are %3.3f Hz - %3.3f Hz
+TIME_HOURS_PLUS;Poèet hodin musí bıt kladnı;Number of hours must be positive number
+TIME_HOURS_RANGE;Poèet hodin musí bıt 0 - 255;Number of hours must be in range 0 - 255
+TIME_HOURS_ERR;Chybnì zadanı poèet hodin;Error in number of hours
+TIME_MINUTES_PLUS;Poèet minut musí bıt kladnı;Number of minutes must be positive number
+TIME_MINUTES_RANGE;Poèet minut musí bıt 0 - ;Number of minutes must be in range 0 - 
+TIME_MINUTES_ERR;Chybnì zadanı poèet minut;Error in number of minutes
+TIME_SECONDS_PLUS;Poèet sekund musí bıt kladnı;Number of seconds must be positive number
+TIME_SECONDS_RANGE;Poèet sekund musí bıt 0 - 59;Number of seconds must be in range 0 - 59
+TIME_SECONDS_ERR;Chybnì zadanı poèet sekund;Error in number of seconds
+LEN_GT;Délka musí bıt vìtší ne 00:00:00.;Length must be greater than 00:00:00.
+LEN_MUST;Musí bıt zadána délka;Length must be entered
+NO_FREQ_TO;Není zadána frekvence DO;Frequency TO is not entered
+FREQ_TO_ERR;Chybná hodnota frekvence DO;Error in frequency TO value
+NO_FREQ_FROM;Není zadána frekvence OD;Frequency FROM is not entered
+FREQ_FROM_ERR;Chybná hodnota frekvence OD;Error in frequency FROM value
+FREQ_FROM_LESS_TO;Frekvence OD musí bıt menší ne frekvence DO;Frequency FROM must be less than frequency TO
+NO_SHIFT_SPEED;Není zadána rychlost posunu;Shift speed is not entered
+SHIFT_SPEED_ERR;Chybná hodnota rychlosti posunu;Error in shift speed.
+SHIFT_SPEED_ALLOW;Rychlost posunu musí bıt od 0.001 do 0.255 Hz;Shift speed must be from 0.001 to 0.255 Hz
+SHIFT_SPEED_ALLOW_K;Rychlost posunu musí bıt od 0.001 do 0.255 Hz;Shift speed must be from 0.001 to 0.255 Hz
+LEN_MIN;Minimální délka musí bıt %s;Minimal length must be %s
+NO_NAME;Není zadán název;Name is not entered
+NAME_LEN_O;Pøekroèena maximální délka názvu %d znakù;Exceeded maximal name length %d characters
+NAME_ALLOW;V názvu smí bıt pouze: '%s';Allowed characters for name: '%s'
+LOC_OPT_YES;   Ano  ;   Yes  
+LOC_OPT_NO;   Ne   ;   No   
+START_COMM;protoe probíhá navazování komunikace;because establishing communication is in progress
+BATCH_RUNNING;protoe je ji spuštìna dávka;because batch is already running
+SYNCH_RUN;Probíha synchronizace;Synchronization in progress
+CURE_RUNNING;Probíhá kùra;Cure is running
+COMM_EX;Probíhá zpracování pøíkazù;Execution of command in progress
+CURE_FINISHED_R;Kura dokoncena;Cure finished
+CURE_FINISHED_P;Kùra dokonèena;Cure finished
+CURE_PAUSED_R;Kura prerusena;Cure paused
+CURE_PAUSED_P;Kùra pøerušena;Cure paused
+CURE_ERROR_R;Chyba kury;Cure error
+CURE_ERROR_P;Chyba pøi bìhu kùry;Error during cure run
+COL_BATCH_DESC;Popis dávky;Batch description
+MESSAGE_IMPORT_PATOGENS_OK;Import souboru patogenù probìhl úspìšnì.;Import of patogens file was successful
+MESSAGE_EXPORT_PATOGENS_OK;Export patogenù do souboru probìhl úspìšnì.;Export of patogens to file was successful
+DB_ERR_CHECK_PTG_CNT;Chyba pøi zjišování poètu patogenù:%n%s;Error during counting patogens:%n%s
+DB_ERR_CHECK_FRQ_CNT;Chyba pøi zjišování poètu frekvencí:%n%s;Error during counting frequencies:%n%s
+UPDATE_RUNNING;Probíhá aktualizace seznamu patogenù: Naèítání dat...;Updating list of patogens in progress: Loading data…
+INVALID_RECORD;Soubor '%s' obsahuje chybnı záznam:%n %s;File '%s' contains invalid record:%n %s
+ERR_READ_FILE;Chyba pøi ètení ze souboru %s;Error reading file %s
+NO_PTGS_IN_DB;Databáze neobsahuje ádné patogeny.%n;Databse does not contain any patogens.%n
+NO_EXPORT;Export nebude proveden.;Export will not run
+EXPORT_ERR;Pøi exportu patogenù se vyskytla chyba:%n%s;Error during export of patogens:%n %s
+UPDATE_RUNNING_1;Probíhá aktualizace seznamu patogenù: Aktualizace databáze...;Updating list of patogens in progress: Updating database…
+IMPORT_ERR;Chyba pøi importu seznamu patogenù:%n%s;Error during import of patogens list:%n%s
+DB_COPY_ERR;Chyba pøi kopírování databáze.;Error during database copy.
+DB_ERR_SYS_TABLE;Chyba pøi zápisu do systémové tabulky.;Error writing into system table.
+COL_PATOGEN;Patogen;Patogen
+COL_SECONDS;Sekundy;Seconds
+CONST_FREQ;Pevná frekvence;Constant frequency
+COL_NAME;Jméno;Name
+COL_SURNAME;Pøíjmení;Surname
+COL_TITLE;Titul;Title
+COL_BIRTH;Datum narození;Date of birth
+COL_PTG_NAME;Název patogenu;Name of patogen
+COL_FOR_RANGE;Pro rozsah;For range
+START_FREQ_ERR1;Chyba v zadání 'pro frekvenci'. %nFrekvence 'od' musí bıt menší ne frekvence 'do'.;Error in 'for frequency'. %nFrequency 'from' must be less than frequency 'to'.
+START_FREQ;Zavádìcí frekvence;Start frequency
+START_FREQ_ERR2;Chyba v zadání 'pro frekvenci'. %nZadanı rozsah se pøekrıvá s ji existující zavádìcí frekvencí.;Error in 'for frequency'. %nEntered range overlaps existing start frequency.
+ERR_CLOSING_DEV;chyba pri zavirani zarizeni;error closing device
+ERR_PURGE;chyba purge: ;error purge:
+ERR_READING_QUEUE;chyba cteni packetu z fronty: ;error reading from queue: 
+ERR_READ_QUEUE_BYTE;chyba cteni bytu z fronty;error reading byte from queue
+ERR_STOPINTASK;chyba stopInTask (write packet): ;error stopInTask (write packet): 
+ERR_WRITE_QUEUE;chyba zapisu packetu do fronty: ;error writing packet into queue: 
+ERR_CHECK_QUEUE;chyba kontroly fronty;error checking queue
+ERR_SETUP_DEVICE;chyba pri nastavovani zarizeni;error during device setup
+ERR_WRITE_SYNC;chyba zapisu synchronizace do fronty;error witing synchronization into queue
+ERR_RESET;chyba reset: ;error during reset: 
+ERR_EVENT_LISTENER;chyba addEventListener: ;error addEventListener: 
+ERR_SETUP_EVENT;chyba pri setupEvent;error during setupEvent
+ERR_REMOVE_EVTLST;chyba pri removeEventListener;error during removeEventListener
+ERR_READ_FRAM;Chyba pøi ètení z FRAM, chybná adresa '%2h %2h' záznamu %d.;Error reading from FRAM, invalid address '%2h %2h' of record %d.
+ERR_FRAM_DEVICE_NO;Chyba pøi ètení z FRAM, zaøízení neodpovídá.;Error reading from FRAM, device is not responding.
+ERR_FRAM_READ_REC;Chyba pøi ètení z FRAM, záznam %d.;Error reading from FRAM, record %d.
+FRAM_READING;Ètení záznamù z Fram: %d%% ...;Reading records from Fram: %d%% ...
+RECORD_AT_ADDRESS;Záznam na adrese;Record at address
+ERR_WRITE_FRAM;Chyba pøi zápisu do FRAM, chybná adresa '%2h %2h' záznamu %d.;Error writing to FRAM, invalid address '%2h %2h' of record %d.
+ ERR_FRAM_DEVICE_NO_W ;Chyba pøi zápisu do FRAM, zaøízení neodpovídá.;Error writing to FRAM, device is not responding.
+ERR_FRAM_WRITE_REC;Chyba %d pøi zápisu do FRAM, záznam %d.;Error writing to FRAM, record %d.
+FRAM_WRITING;Zápis záznamù do Fram: %d%% ...;Writing records to Fram: %d%% ...
+EXP_DB_TO_FOLDER;Export databáze do adresáøe;Export database to folder
+TXT_EXPORT;Export;Export
+TXT_CRITICAL_ERROR;Kritická chyba;Critical error
+ERR_COMM_LIB;Chyba komunikaèní knihovny.%nNení moné pøipojit a øídit zaøízení Zapper.%nDoporuèení: Pøed spustìním tohoto programu nejdøíve pøipojte a zapnìte zapper, aby se s ním mohly spárovat ovladaèe zaøízení.;Error in communication library.%nUnable to connect and control Zapper device.%nRecommendation: Before running this programm connect and switch on the Zapper, so drivers will be able to pair with device.
+FOLDER_NO_EMPTY;Adresáø '%s' není prázdnı.%nExport nebude proveden.;Folder '%s' is not empty.%nExport will not run.
+TXT_DB_EXPORT;Export databáze;Export database
+TXT_DB_EXPORT_RUNNING;Probíhá export databáze...;Export database running…
+DB_EXPORT_ERR;Chyba pøi exportu databáze;Error during export database
+DB_EXPORT_FINISHED;Export databáze byl proveden do adresáøe: '%s';Database was exported into folder: '%s'
+NO_FOLDER_NO_EXPORT;Nebyl vybrán adresáø, export nebude proveden.;Folder was not chosen, export will not run.
+IMP_DB_FROM_FOLDER;Import databáze z daresáøe;Import database from folder
+TXT_IMPORT;Import;Import
+NO_IMPORT_FROM_ACTUAL;Nelze provést import z adresáøe pøipojené databáze.;Unable to import from folder of actually connected database.
+TXT_DB_IMPORT;Import databáze;Import database
+FOLDER_NOT_EMPTY_IMP;Adresáø '%s' je prázdnı. Nelze provést import.;Folder '%s' is not empty.%nImport will not run.
+Q_IMPORT;Aktuální databáze bude smazána a nahrazena importovanou databází.%nChcete pokraèovat?;Actual database will be deleted and will be replaced with imported one.%n Are You sure to continue?
+TXT_DB_IMPORT_RUNNING;Probíhá import databáze...;Import database running…
+IMPORT_DB_ERR;Pøi importu databáze se vyskytla chyba.;Error occurred during database import.
+DB_IMPORT_FINISHED;Import databáze z adresáøe: '%s' byl proveden.%n;Database from folder '%s' was imported.%n
+NO_FOLDER_NO_IMPORT;Nebyl vybrán adresáø, import nebude proveden.;Folder was not chosen, import will not run.
+EXPORT_PATOGENS;Export patogenù;Export patogens
+TXT_EXPORT;Exportovat;Export
+EXPORT_PTGS_TO_FILE;Export patogenù do souboru;Export patogens to file
+NO_FILE_NO_PTGS_EXP;Nebyl vybrán soubor, export nebude proveden;File was not chosen, export will not run.
+ERR_END_PRG;Pøi ukonèování programu se vyskytla chyba: %s%n;Error during program ending: %s%n
+ERR_END;Chyba pøi ukonèování programu;Error during program ending
+FOLDER_FOR_NEW_DB;Adresáø pro vytvoøení nové databáze;Folder for new database
+TXT_CREATE;Vytvoøit;Create
+DB_CREATE_FOLD_EMP;Adresáø pro vytvoøení nové databáze musí bıt prázdnı. Databáze nebude vytvoøena.;Folder for new database must be empty.%nDatabase will not be created.
+DB_CREATION;Vytvoøení databáze;Create database
+DB_CLOSE;Uzavøení databáze;Closing database
+DB_CLOSE_ERR;Chyba pøi uzavírání databáze, nová databáze nebude vytvoøena.;Error closing database, new database will not be created.
+DB_CREATE_RUN;Probíhá vytváøení databáze...;Creating database in progress…
+DB_CREATE_ERR;Chyba pøi vytváøení databáze;Error during creating database
+DB_NEW_CREATION;Vytvoøení nové databáze;Creation of new database
+DB_NEW_CREATED;Nová databáze byla vytvoøena v adresáøi: '%s';New database was created in folder: '%s'
+NO_FOLDER_NO_DB;Nebyl vybrán adresáø, databáze nebude vytvoøena;Folder was not chosen, database will not be created.
+CONNECTION_TO_DB;Pøipojení k databázi;Connection to database
+TXT_CONNECT;Pøipojit;Connect
+NO_FOLDER_NO_OPEN;Nebyl vybrán adresáø, databáze nebude otevøena;Folder was not chosen, database will not be opened.
+PATOGENS_UPDATE;Aktualizace patogenù;Update of patogens
+TXT_UPDATE;Aktualizovat;Update
+NO_FILE_NO_UPDATE;Nebyl vybrán soubor, import nebude proveden;Folder was not chosen, import will not run.
+PTGS_IMP_FROM_FILE;Import patogenù ze souboru;Import of patogens from file
+DB_CONNECTING;Probíhá pøipojení k databázi...;Connecting to database in progress…
+DB_CANNOT_CONNECT;Nelze se pøipojit k databázi. V menu Databáze vyberte 'Pøipojit k databázi', nebo 'Vytvoøit novou databázi';Unable to connect to database. Choose 'Connect to database' or 'Create new database' in 'Database' menu
+ERR_GETCONN;Chyba getConnection pøi pøipojování k databázi;Error getConnection during connecting to database
+NO_VALID_DB;Adresáø '%s' neobsahuje platnou databázi.;Folder '%s' does not contain valid database.
+DB_CONNECT_ERR;Chyba pøi pøipojování k databázi;Error during connecting to database
+DB_INVALID_VER;Verze databáze v adresáøi '%s' je '%s'.%nProgram pracuje s databázemi do verze '%s'.%nDatabáze nebude pøipojena.;Version of database in folder '%s' is '%s'.%nProgramm works with databases up to version '%s'.%nDatabase will not be connected.
+DB_UPGRADE;Verze databáze v adresáøi '%s' je '%s'.%nProgram pracuje s databází verze '%s'.%nBude proveden update databáze.;Version of database in folder '%s' is '%s'.%nProgramm works with databases up to version '%s'.%nDatabase will be updated.
+ERR_DB_INFO;Chyba DB_INFO pøi pøipojování k databázi;Error DB_INFO during connection to database
+DB_CONNECT_SUCC;Pøipojení k databázi: '%s' probìhlo úspìšnì.;Connection to database: '%s' was successful.
+ERR_CREATE_INI;Chyba pøi vytváøení souboru RavoZapper.ini;Error creating file RavoZapper.ini
+MISSING_REQ_FILES;Program RavoZapper nemùe nalézt potøebné soubory!;Programm can not locate required files!
+ERR_PRG_RUN;Chyba pøi spuštìní programu;Error during program start
+RUN_TWICE;Program RavoZapper je ji spuštìn, nelze spustit podruhé!;Programm RavoZapper is already running, can not run it once more!
+AKT_LANG;Aktuální jazyk;Actual language
+CZECH;Èeština;Czech
+ENGLISH;Angliètina;English
+MSG_BATCH_END_NO_COMM;Kùra byla pøerušena, zaøízení nekomunikuje!;Cure was canceled, device is not communicating.
+MSG_BATCH_END;Kùra pøerušena                                                            ;Cure canceled                                                                         
+COL_LINE;Øádek;Line
+POPUP_SET_LINE;Pøemístit ukazatel na tento øádek;Move cursor to this line
+TEXT_CONNECTED;Pripojeno;Connected
+TEXT_PAGE;Strana;Page
+TEXT_PAGE_OF;z;of
+TEXT_LIST_OF_SELECTED_BATCHES;Seznam vybranıch dávek;List of selected batches
+TEXT_CLIENT;Klient;Client
+TEXT_BATCH;Dávka;Batch
+TEXT_PRINT_DATE;Datum  tisku;Print  date
+btnAddToCache;Pøidat do schránky;Add to cache
+btnCache;Schránka;Cache
+btnPrintBatch;Tisk;Print
+TEXT_FROM_CLIENT;Od klienta;From client
+TEXT_NO_BATCH_SELECTED;Nejsou vybrány ádné dávky.;No batch is selected
+TEXT_PRINT_ERROR;Pøi tisku nastala chyba;Error occurred during printing
+btnRemove;Odstranit dávky;Remove batches
+btnPrint;Tisk dávek;Print batches
+btnInsert;Vloit dávky;Insert batches
+DB_CREATE_FOLD_ERR;Chyba pøi vytváøení adresáøe.;Error creating folder.
+REALY_DELETE_DB;Databáze ve zvoleném adresáøi ji existuje. Chcete databázi pøepsat, nebo se k ní pøipojit?;Database in selected folder already exists. Do you want to overwrite it or to connect to it.
+LOC_DEL_DB_CONNECT;Pøipojit se k databázi;Connect to database
+LOC_DEL_DB_DELETE;Pøepsat databázi (Všechna data budou ztracena);Overwrite database (all data will be lost)
+DB_DELETE_FOLD_ERR;Chyba pøi mazání adresáøe.;Error deleting folder.
+ERR_SHUTDOWN;Chyba pøi uzavírání databáze;Error shutting down database.
+mnuSettings;Nastavení;Settings
+mnuFont;Nastavení písma;Font setting
+DB_NO_CREATE_ACTUAL;Ve vybraném adresáøi je právì pøipojená databáze.;In selected folder is currently connected database.
+DB_CANNOT_CONNECT_1;Nelze se pøipojit k databázi. Databáze v adresáøi neexistuje, nebo je poškozena.;Unable to connect to database. Database does not exist in selected folder or is corrupted.
+IMPORT_DB_INVALID;Ve vybraném adresáøi není platná databáze;There is not valid database in selected folder
+btnSaveCache;Uloit;Save
+btnLoadCache;Naèíst;Load
+EXPORT_CACHE;Uloení obsahu schránky;Save cache content
+TXT_CACHE;Schránka;Cache
+EXPORT_CACHE_TO_FILE;Uloení obsahu schránky do souboru;Save cache content to file
+NO_FILE_NO_CACHE_EXP;Nebyl vybrán soubor, obsah schránky nebude uloen.;File was not chosen, cache content will not be saved.
+MESSAGE_SAVE_CACHE_OK;Uloení schránky do souboru probìhlo úspìšnì.;Saving of cache content finished successfully.
+CACHE_UPDATE;Naètení obsahu schránky;Load cache content
+TXT_LOAD;Naèíst;Load
+NO_FILE_NO_CACHE_LOAD;Nebyl vybrán soubor, obsah schránky nebude naèten.;File was not chosen, cache content will not be loaded.
+MESSAGE_LOAD_CACHE_OK;Naètení obsahu schránky probìhlo úspìšnì;Load of cache content was successful.
+POPUP_INSERT_HEADER;Vloit skupinu;Insert group
+POPUP_INSERT_FREQUENCY;Vloit frekvenci;Insert frequency
+POPUP_DELETE_ROW;Smazat øádek;Delete row
+REALY_REMOVE_HEADER;Opravdu smazat skupinu?;Realy delete group?
+REALY_REMOVE_GROUP;Opravdu smazat skupinu?;Realy delete group?
+REMOVE_RECORD;Smazat záznam;Delete record
+REALY_REMOVE_FRQUENCY;Opravu smazat frekvenci?;Realy delete frequency?
+COL_VOLTAGE;Napìtí;Voltage
+lblVoltage;Napìtí;Voltage
+NO_VOLTAGE;Musí bıt zadána hodnota napìtí;Voltage value must be entered.
+ALLOWED_VOLTAGE_RANGE;Povolenı rozsah napìtí je;Allowed voltage range is
+MSG_SAVE_RECORD;Uloení záznamu;Save record
+EMPTY_NOT_ALLOWED;Nelze uloit prázdnı soubor;Empty file can not be saved
+MUST_BE_AT_LEAST_ONE_HEADER_AND_RECORD;Musí bıt zadána alespoò jedna skupinaa a jedna frekvence;At least one group and one frequency must be entered
+NOT_ALLOWED_GROUPS_WITHOUT_FREQUENCIES;Nelze ukládat prázdné skupiny;Empty groups can not be saved
+NO_SAVE_ERROR_IN_RECORDS;Nelze uloit soubor s chybnımi záznamy;File containing errors in records can not be saved
+MUST_START_WITH_HEADER;První záznam musí bıt skupina;Fisrt record must be group
+SAVE_RAM;Uloení obsahu pamìti;Save memory content
+MSG_ZAPPER_FRAM_TO_FILE;Zápis obsahu pamìti Zapperu do souboru;Write Zapper memory content to file
+MSG_ZAPPER_FRAM_MISSING_SECOND_HEADER;Chybí záznam pro druhou èást skupiny;Second group record is missing
+MSG_ZAPPER_FRAM_FROM_FILE;Naètení obsahu pamìti Zapperu ze souboru;Load content of Zapper memory from file
+POPUP_EDIT;Editovat záznam;Edit record
+lblTitleZapperMemory;Editace obsahu pamìti;Memory content edit
+btnExpandAllZM;Rozbalit vše;Expand all
+btnCollapseAllZM;Sbalit vše;Collapse all
+btnAddHeaderZM;Pøidat skupinu;Add group
+btnAddFrequencyZM;Pøidat frekvenci;Add frequency
+btnEditZM;Editovat záznam;Edit record
+btnLoadFromFileZM;Naèíst ze souboru;Load from file
+btnSaveToFileZM;Uloit do souboru;Save to file
+btnLoadFromZapperZM;Naèíst ze Zapperu;Load from Zapper
+btnSaveToZapperZM;Zapsat do Zapperu;Write to Zapper
+Z_READ_MEM;Ètení z pamìti Zapperu;Reading from Zapper memory
+MSG_ZAPPER_EPROM_TO_FILE;Zápis obsahu pamìti Eprom Zapperu do souboru;Write Zapper Eprom memory content to file
+MSG_EXP_EPROM_FILE;Export záznamù Eprom do souboru;Export Eprom records to file
+MSG_ZAPPER_EPROM_FROM_FILE;Naètení obsahu pamìti Eprom Zapperu ze souboru;Load content of Eprom Zapper memory from file
+ERR_READ_EPROM;Chyba pøi ètení z EPROM, chybná adresa '%2h %2h' záznamu %d.;Error reading from EPROM, invalid address '%2h %2h' of record %d.
+ERR_EPROM_DEVICE_NO;Chyba pøi ètení z EPROM, zaøízení neodpovídá.;Error reading from EPROM, device is not responding.
+ERR_EPROM_READ_REC;Chyba pøi ètení z EPROM, záznam %d.;Error reading from EPROM, record %d.
+EPROM_READING;Ètení záznamù z Eprom: %d%% ...;Reading records from Fram: %d%% ...
+ERR_WRITE_EPROM;Chyba pøi zápisu do Eprom, chybná adresa '%2h %2h' záznamu %d.;Error writing to Eprom, invalid address '%2h %2h' of record %d.
+ERR_EPROM_DEVICE_NO_W ;Chyba pøi zápisu do Eprom, zaøízení neodpovídá.;Error writing to Eprom, device is not responding.
+ERR_EPROM_WRITE_REC;Chyba %d pøi zápisu do Eprom, záznam %d.;Error writing to Eprom, record %d.
+EPROM_WRITING;Zápis záznamù do Eprom: %d%% ...;Writing records to Eprom: %d%% ...
+R_READING_EPROM;Cteni EPROM;Reading EPROM
+R_WRITE_TEXT;Zápis do Eprom;Writing to Eprom
+R_WRITING_EPROM;Zapis EPROM;Writing EPROM
+MSG_EPROM_IMP_FILE;Import záznamù EPROM ze souboru;Import EPROM records from file
+mnuTexts;Editace textù;Texts edit
+lblTitleZapperTexts;Editace textù;Texts edit
+MSG_ADD_FREQUENCY;Pøidání frekvence;Add frequency
+MSG_ADD_FREQ_ONLY_TO_EXP_GROUP;Frekvence mùe bıt pøidána pouze do rozbalené skupiny;Frequency can be added only to expanded group
+btnDeleteZM;Odstranit;Remove
+GROUP_NAME;Název skupiny:;Group name:
+SUM_OF_TIME;Souèet èasu:;Sum of time:
+ZAPPER_CONNECTED;Zapper pøipojen;Zapper connected
+btnImportRifeClipboard;Import schránky RPZ;Import RPZ clipboard
+ZAPPER_WAS_DISCONNECTED;Zapper byl odpojen!;Zapper was diconnected!
+lookInLabelText;Hledat v:;Look in:
+openDialogTitleText;Otevøít;Open
+openButtonText;Otevøít;Open
+fileNameLabelText;Jméno souboru;File name
+filesOfTypeLabelText;Typy souborù;File types
+openButtonToolTipText;Otevøít vybranı soubor;OpenSelectedFile
+cancelButtonToolTipText;Storno;Cancel
+fileNameHeaderText;Jméno souboru;File name
+upFolderToolTipText;O úroveò vıš;Up one level
+homeFolderToolTipText;Desktop;Plocha
+newFolderToolTipText;Vytvoøit novou sloku;Create new folder
+listViewButtonToolTipText;Seznam;List
+newFolderButtonText;Vytvoøit novou sloku;Create new folder
+renameFileButtonText;Pøejmenovat soubor;Rename file
+deleteFileButtonText;Smazat soubor;Delete file
+filterLabelText;Typy souborù;File types
+detailsViewButtonToolTipText;Detaily;Details
+fileSizeHeaderText;Velikost;Size
+fileDateHeaderText;Datum zmìny;Date modified
+ZAPPER_READY;Zapper pøipraven;Zapper ready
+ZAPPER_NOT_CONNECTED;Zapper nepøipojen;Zapper not connected
+ZAPPER_NOT_READY;Zapper nepøipraven;Zapper not ready
+MORE_THAN_MAX_RECORDS;Pøekroèen maximální poèet záznamù;Maximum count of records exceeded
+MEMORY_USAGE;Vyuití pamìti;Memory usage
+SHIFT_SPEED_MUST_BE_ZERO_IN_CONST_FREQ;Pro pevnou frekvenci musí bıt rychlost posunu 0;Shift speed must be 0 for constant frequency
+chkCheckRules;Kontrola pravidel;Rules checking
+LIB_TRY_ZAPPER;Zkuste nejprve pøipojit a zapnout Zapper a potom teprve spustit program.;Try to connect and switch Zapper on before running program.
+ERR_EPROM_EMPTY_LINE;Zápis nelze provést, protoe tabulka obsahuje chybné øádky.;Write can not be performed, because there are rows with errors in the table.
+chkVoltageOnly;Pouze napìtí;Voltage only
+ERR_FILE_EMPTY_LINE;Nelze uloit do souboru, protoe tabulka obsahuje chybné øádky.;Save to file can not be performed, because there are rows with errors in the table.
+R_WRITE_FILE;Zápis do souboru;Writing to file
+EPROM_FILE_FOR;Chybnı formát souboru textù, zøejmì se jedná o soubor pro ;Bad format of file with texts, it seems to be file for 
+EPROM_FILE_BAD_FORMAT;Chybnı formát souboru textù.;Bad format of file with texts.
