@@ -1,0 +1,5 @@
+
+*.o
+ScriptsToCSV/lib/
+ScriptsToCSV/backup/
+

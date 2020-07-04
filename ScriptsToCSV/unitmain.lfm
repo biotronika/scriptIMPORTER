@@ -1,0 +1,65 @@
+object FormMain: TFormMain
+  Left = 770
+  Height = 665
+  Top = 203
+  Width = 1041
+  Caption = 'FormMain'
+  ClientHeight = 665
+  ClientWidth = 1041
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '2.0.6.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 96
+    Top = 0
+    Width = 1041
+    Align = alTop
+    ClientHeight = 96
+    ClientWidth = 1041
+    TabOrder = 0
+    object ButtonReadFiles: TButton
+      Left = 24
+      Height = 31
+      Top = 48
+      Width = 144
+      Caption = 'ButtonReadFiles'
+      OnClick = ButtonReadFilesClick
+      TabOrder = 0
+    end
+    object EditPath: TEdit
+      Left = 24
+      Height = 28
+      Top = 8
+      Width = 344
+      TabOrder = 1
+      Text = 'c:\workspace\scriptIMPORTER\scripts\'
+    end
+  end
+  object Memo: TMemo
+    Left = 0
+    Height = 148
+    Top = 517
+    Width = 1041
+    Align = alBottom
+    Color = clBlack
+    Font.Color = clLime
+    Lines.Strings = (
+      'Welcome in freePEMF & multiZAP script importer. See: biotronics.eu'
+    )
+    ParentFont = False
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+  end
+  object MemoScript: TMemo
+    Left = 0
+    Height = 421
+    Top = 96
+    Width = 1041
+    Align = alClient
+    ScrollBars = ssBoth
+    TabOrder = 2
+    WordWrap = False
+  end
+end

@@ -1,0 +1,7 @@
+title,langcode,status,title,promote,body,field_biozap_buttons,field_dni_do_potwierdzenia_skute,field_skrypt,field_urzadzenie
+"TEST10","en",true,"TEST10",false,"Script imported from github. See: <a href='https://github.com/biotronika/scriptIMPORTER' target='_blank'>https://github.com/biotronika/scriptIMPORTER</a>","","30","#script test
+beep 200
+freq 783 60
+beep 200
+off
+@","multiZAP"
