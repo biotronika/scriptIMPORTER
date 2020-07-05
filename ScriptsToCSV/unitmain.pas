@@ -6,8 +6,12 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, ComCtrls,
-  StdCtrls, FileUtil;
+  StdCtrls, LazFileUtils ,FileUtil;
 
+const
+  SCR_NL = #13#10; //';';
+  BODY   = '"Script imported from github. See: <a href=''https://github.com/biotronika/scriptIMPORTER'' target=''_blank''>https://github.com/biotronika/scriptIMPORTER</a>"';
+  FIRST_LINE = 'title,langcode,status,title,promote,body,field_biozap_buttons,field_dni_do_potwierdzenia_skute,field_skrypt,field_urzadzenie';
 type
 
   { TFormMain }
@@ -31,7 +35,7 @@ type
 
 var
   FormMain: TFormMain;
-  ScriptFiles: TStringList;
+  scrFiles: TStringList;
 
 
 implementation
@@ -39,6 +43,16 @@ implementation
 {$R *.lfm}
 
 { TFormMain }
+
+function UpCaseFirstChar(const S: string): string;
+begin
+  if Length(S) = 0 then
+    Result := S
+  else begin
+    Result := LowerCase(S);
+    Result[1] := UpCase(Result[1]);
+  end;
+end;
 
 function RemoveZeros (s: string): string;
 var
@@ -74,29 +88,57 @@ end;
 
 procedure TFormMain.ButtonReadFilesClick(Sender: TObject);
 var i : integer;
+    s : string;
+    f: TextFile;
 
 begin
-    ScriptFiles.Clear;
+    scrFiles.Clear;
 
-    FindAllFiles(ScriptFiles, EditPath.Text, '*.txt', true); //find e.g. all pascal sourcefiles
-    Memo.Lines.Add(Format('Found %d source files', [ScriptFiles.Count]));
+    AssignFile(f, ExtractFilePath(Application.ExeName) + 'out.csv');
 
-    for i:= 0 to (*ScriptFiles.Count - 1*) 10 do begin
-      MemoScript.Lines.Add( FileToStr( ScriptFiles[i]) );
+    try
+      {$I-}
+      Rewrite(f);
+      {$I+}
+
+
+    FindAllFiles(scrFiles, EditPath.Text, '*.txt', true); //find e.g. all pascal sourcefiles
+    Memo.Lines.Add(Format('Found %d source files', [scrFiles.Count]));
+    MemoScript.Lines.Add( FIRST_LINE  );
+    writeln(f,FIRST_LINE);
+
+    for i:= 0 to scrFiles.Count - 1 do begin
+
+      s:='"'+ UpCaseFirstChar(  trim(ExtractFileNameOnly( scrFiles[i] )));
+      s:= s+'","en",true,"' + UpCaseFirstChar( trim( ExtractFileNameOnly( scrFiles[i] ))) + '",';   //title, langcode, status, title
+      s:= s + 'false,'+ BODY +','; //promote, body
+      s:= s + '"","30",'; // buttons, dni
+      s:= s + '"' + FileToStr( scrFiles[i] ) + '","multiZAP"'; //script, device
+
+      //MemoScript.Lines.Add( s );
+
+      MemoScript.Lines.Add( scrFiles[i]  );
+      Application.ProcessMessages;
+      writeln(f,s);
     end;
 
+    finally
+       CloseFile(f);
+    end;
+      Memo.Lines.Add( 'done.');
+      Memo.Lines.Add( 'See: '+ ExtractFilePath(Application.ExeName) + 'out.csv');
 
 
 end;
 
 procedure TFormMain.FormCreate(Sender: TObject);
 begin
-  ScriptFiles := TStringList.Create;
+  scrFiles := TStringList.Create;
 end;
 
 procedure TFormMain.FormDestroy(Sender: TObject);
 begin
-  ScriptFiles.Free;
+  scrFiles.Free;
 end;
 
 function TFormMain.FileToStr( FileName : string) : string;
@@ -114,7 +156,7 @@ begin
       while not eof(f) do begin
 
         Readln(f, s);
-        script := script + RemoveSemicolon(s) + #13#10;
+        script := script + RemoveSemicolon(s) + SCR_NL;
 
       end;
 
@@ -122,7 +164,7 @@ begin
       CloseFile(f);
     end;
 
-    if script <>'' then script := script + 'off'#13#10'@';
+    if script <>'' then script := script + 'off'+SCR_NL+'@';
 
     result := RemoveZeros(script);
 
